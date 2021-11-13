@@ -1,0 +1,420 @@
+Gene	Gene description	Mean concentration
+ALB	Albumin	40 g/L
+A2M	Alpha-2-macroglobulin	1.6 g/L
+TF	Transferrin	20 g/L
+SERPINA1	Serpin family A member 1	2.1 g/L
+APOA1	Apolipoprotein A1	1.5 g/L
+SERPINA3	Serpin family A member 3	700 mg/L
+C3	Complement C3	1.3 g/L
+HPX	Hemopexin	430 mg/L
+APOB	Apolipoprotein B	1.5 g/L
+CFH	Complement factor H	400 mg/L
+ORM1	Orosomucoid 1	950 mg/L
+VTN	Vitronectin	610 mg/L
+APOA2	Apolipoprotein A2	110 mg/L
+TTR	Transthyretin	350 mg/L
+C4BPB	Complement component 4 binding protein beta	270 mg/L
+FGG	Fibrinogen gamma chain	270 mg/L
+AHSG	Alpha 2-HS glycoprotein	860 mg/L
+CRISPLD2	Cysteine rich secretory protein LCCL domain containing 2	220 mg/L
+C5	Complement C5	110 mg/L
+A1BG	Alpha-1-B glycoprotein	200 mg/L
+APOH	Apolipoprotein H	250 mg/L
+CP	Ceruloplasmin	160 mg/L
+APOA4	Apolipoprotein A4	61 mg/L
+PLG	Plasminogen	140 mg/L
+GC	"GC, vitamin D binding protein"	140 mg/L
+HRG	Histidine rich glycoprotein	120 mg/L
+F2	"Coagulation factor II, thrombin"	110 mg/L
+GPLD1	Glycosylphosphatidylinositol specific phospholipase D1	100 mg/L
+C1S	Complement C1s	93 mg/L
+FETUB	Fetuin B	48 mg/L
+KNG1	Kininogen 1	90 mg/L
+C9	Complement C9	70 mg/L
+GSN	Gelsolin	110 mg/L
+LPA	Lipoprotein(a)	79 mg/L
+APOC3	Apolipoprotein C3	110 mg/L
+SERPINA6	Serpin family A member 6	61 mg/L
+APOC1	Apolipoprotein C1	20 mg/L
+PON1	Paraoxonase 1	96 mg/L
+SAA4	"Serum amyloid A4, constitutive"	65 mg/L
+AZGP1	"Alpha-2-glycoprotein 1, zinc-binding"	55 mg/L
+HPR	Haptoglobin-related protein	49 mg/L
+AFM	Afamin	55 mg/L
+APOC2	Apolipoprotein C2	43 mg/L
+CLU	Clusterin	170 mg/L
+APOE	Apolipoprotein E	52 mg/L
+SERPINA7	Serpin family A member 7	40 mg/L
+C4BPA	Complement component 4 binding protein alpha	31 mg/L
+SERPINA4	Serpin family A member 4	15 mg/L
+KLKB1	Kallikrein B1	29 mg/L
+APCS	"Amyloid P component, serum"	28 mg/L
+RNLS	"Renalase, FAD dependent amine oxidase"	11 mg/L
+THBS1	Thrombospondin 1	16 mg/L
+LRG1	Leucine rich alpha-2-glycoprotein 1	21 mg/L
+LBP	Lipopolysaccharide binding protein	25 mg/L
+PROS1	Protein S	22 mg/L
+RBP4	Retinol binding protein 4	46 mg/L
+APOF	Apolipoprotein F	18 mg/L
+FCN3	Ficolin 3	23 mg/L
+PLTP	Phospholipid transfer protein	9.7 mg/L
+SERPINF1	Serpin family F member 1	9.3 mg/L
+ADIPOQ	"Adiponectin, C1Q and collagen domain containing"	8.4 mg/L
+IGFALS	Insulin like growth factor binding protein acid labile subunit	15 mg/L
+FCN2	Ficolin 2	8.1 mg/L
+HABP2	Hyaluronan binding protein 2	20 mg/L
+MASP1	Mannan binding lectin serine peptidase 1	8.7 mg/L
+CLEC3B	C-type lectin domain family 3 member B	6.5 mg/L
+F5	Coagulation factor V	7.7 mg/L
+C1RL	Complement C1r subcomponent like	5.5 mg/L
+LCAT	Lecithin-cholesterol acyltransferase	6.5 mg/L
+CD5L	CD5 molecule like	4.0 mg/L
+SERPINA10	Serpin family A member 10	4.0 mg/L
+APOL1	Apolipoprotein L1	1.6 mg/L
+IGFBP3	Insulin like growth factor binding protein 3	3.2 mg/L
+CETP	Cholesteryl ester transfer protein	2.5 mg/L
+CD14	CD14 molecule	2.8 mg/L
+GPX3	Glutathione peroxidase 3	5.1 mg/L
+B2M	Beta-2-microglobulin	1.8 mg/L
+CD163	CD163 molecule	900 µg/L
+PON3	Paraoxonase 3	1.8 mg/L
+PROZ	"Protein Z, vitamin K dependent plasma glycoprotein"	1.7 mg/L
+FCN1	Ficolin 1	1.1 mg/L
+CRP	C-reactive protein	2.9 mg/L
+TFRC	Transferrin receptor	1.3 mg/L
+ADAMTS13	ADAM metallopeptidase with thrombospondin type 1 motif 13	1.3 mg/L
+CFD	Complement factor D	730 µg/L
+CST3	Cystatin C	1.0 mg/L
+APOC4	Apolipoprotein C4	1.0 mg/L
+MPO	Myeloperoxidase	580 µg/L
+LYZ	Lysozyme	1.5 mg/L
+MBL2	Mannose binding lectin 2	1.2 mg/L
+CFB	Complement factor B	880 µg/L
+CCL28	C-C motif chemokine ligand 28	700 µg/L
+TNC	Tenascin C	560 µg/L
+VCAM1	Vascular cell adhesion molecule 1	620 µg/L
+CAMP	Cathelicidin antimicrobial peptide	620 µg/L
+IGFBP2	Insulin like growth factor binding protein 2	300 µg/L
+CFHR3	Complement factor H related 3	580 µg/L
+IGF2	Insulin like growth factor 2	610 µg/L
+C1QC	Complement C1q C chain	510 µg/L
+MASP2	Mannan binding lectin serine peptidase 2	340 µg/L
+LIPG	"Lipase G, endothelial type"	660 µg/L
+FGFBP2	Fibroblast growth factor binding protein 2	350 µg/L
+SPP1	Secreted phosphoprotein 1	110 µg/L
+C1QTNF9	C1q and TNF related 9	210 µg/L
+NOV	Nephroblastoma overexpressed	270 µg/L
+FGA	Fibrinogen alpha chain	410 µg/L
+LCN2	Lipocalin 2	300 µg/L
+ITLN1	Intelectin 1	290 µg/L
+C1QTNF6	C1q and TNF related 6	350 µg/L
+VWF	Von Willebrand factor	28 mg/L
+GREM1	"Gremlin 1, DAN family BMP antagonist"	240 µg/L
+C1QTNF5	C1q and TNF related 5	220 µg/L
+C4A	Complement C4A (Rodgers blood group)	340 µg/L
+C1QTNF1	C1q and TNF related 1	310 µg/L
+SAA1	Serum amyloid A1	300 µg/L
+MET	"MET proto-oncogene, receptor tyrosine kinase"	180 µg/L
+ANG	Angiogenin	310 µg/L
+C1QTNF7	C1q and TNF related 7	240 µg/L
+ORM2	Orosomucoid 2	420 µg/L
+ANGPTL3	Angiopoietin like 3	220 µg/L
+SERPINE1	Serpin family E member 1	140 µg/L
+IGFBP5	Insulin like growth factor binding protein 5	110 µg/L
+IGFBP4	Insulin like growth factor binding protein 4	230 µg/L
+HP	Haptoglobin	1000 mg/L
+ACE	Angiotensin I converting enzyme	100 µg/L
+IGF1	Insulin like growth factor 1	100 µg/L
+FCRL5	Fc receptor like 5	170 µg/L
+BMP4	Bone morphogenetic protein 4	160 µg/L
+CHGA	Chromogranin A	290 µg/L
+VNN3	Vanin 3	150 µg/L
+IGFBP6	Insulin like growth factor binding protein 6	200 µg/L
+PCSK9	Proprotein convertase subtilisin/kexin type 9	140 µg/L
+CCL25	C-C motif chemokine ligand 25	180 µg/L
+RLN3	Relaxin 3	60 µg/L
+SOD3	Superoxide dismutase 3	50 µg/L
+APOA5	Apolipoprotein A5	110 µg/L
+TIMP1	TIMP metallopeptidase inhibitor 1	130 µg/L
+RARRES2	Retinoic acid receptor responder 2	75 µg/L
+ICAM1	Intercellular adhesion molecule 1	88 µg/L
+ANGPT1	Angiopoietin 1	32 µg/L
+SDC1	Syndecan 1	63 µg/L
+S100A12	S100 calcium binding protein A12	29 µg/L
+UMOD	Uromodulin	55 µg/L
+SELENOP	Selenoprotein P	2.2 mg/L
+C1QTNF3	C1q and TNF related 3	44 µg/L
+C1QTNF12	C1q and TNF related 12	38 µg/L
+CCL5	C-C motif chemokine ligand 5	20 µg/L
+FGL2	Fibrinogen like 2	39 µg/L
+CHIT1	Chitinase 1	26 µg/L
+CHI3L1	Chitinase 3 like 1	25 µg/L
+CD55	CD55 molecule (Cromer blood group)	32 µg/L
+SLPI	Secretory leukocyte peptidase inhibitor	26 µg/L
+INSL5	Insulin like 5	39 µg/L
+IGFBP7	Insulin like growth factor binding protein 7	30 µg/L
+APOD	Apolipoprotein D	99 mg/L
+HLA-G	"Major histocompatibility complex, class I, G"	33 µg/L
+PPBP	Pro-platelet basic protein	25 µg/L
+IGFBP1	Insulin like growth factor binding protein 1	28 µg/L
+GSTA1	Glutathione S-transferase alpha 1	28 µg/L
+IL6R	Interleukin 6 receptor	25 µg/L
+CCL18	C-C motif chemokine ligand 18	55 µg/L
+IL1RL1	Interleukin 1 receptor like 1	19 µg/L
+MIF	Macrophage migration inhibitory factor	14 µg/L
+TNFSF13	TNF superfamily member 13	6.8 µg/L
+SOD1	Superoxide dismutase 1	45 µg/L
+BDNF	Brain derived neurotrophic factor	16 µg/L
+LEP	Leptin	17 µg/L
+PRL	Prolactin	54 µg/L
+BGLAP	Bone gamma-carboxyglutamate protein	16 µg/L
+ST6GAL1	"ST6 beta-galactoside alpha-2,6-sialyltransferase 1"	15 µg/L
+MMP1	Matrix metallopeptidase 1	7.7 µg/L
+MB	Myoglobin	13 µg/L
+TNFRSF10C	TNF receptor superfamily member 10c	15 µg/L
+LECT2	Leukocyte cell derived chemotaxin 2	27 µg/L
+MIA	Melanoma inhibitory activity	8.3 µg/L
+FAS	Fas cell surface death receptor	12 µg/L
+SPON1	Spondin 1	12 µg/L
+ADGRE5	Adhesion G protein-coupled receptor E5	10 µg/L
+MMP2	Matrix metallopeptidase 2	1.6 mg/L
+SELE	Selectin E	8.1 µg/L
+AXL	AXL receptor tyrosine kinase	12 µg/L
+SORT1	Sortilin 1	7.2 µg/L
+APOM	Apolipoprotein M	7.4 mg/L
+PLAT	"Plasminogen activator, tissue type"	9.9 µg/L
+RETN	Resistin	5.1 µg/L
+GAS6	Growth arrest specific 6	8.9 µg/L
+ANGPTL4	Angiopoietin like 4	7.8 µg/L
+PF4	Platelet factor 4	7.7 µg/L
+MFGE8	Milk fat globule-EGF factor 8 protein	2.8 µg/L
+TEK	TEK receptor tyrosine kinase	7.8 µg/L
+GHRL	Ghrelin and obestatin prepropeptide	2.6 µg/L
+PLA2G7	Phospholipase A2 group VII	7.4 µg/L
+AIMP1	Aminoacyl tRNA synthetase complex interacting multifunctional protein 1	6.5 µg/L
+MMP9	Matrix metallopeptidase 9	43 µg/L
+GDF2	Growth differentiation factor 2	2.2 µg/L
+AFP	Alpha fetoprotein	3.0 µg/L
+ENHO	Energy homeostasis associated	4.2 µg/L
+AGER	Advanced glycosylation end-product specific receptor	5.4 µg/L
+CD6	CD6 molecule	5.3 µg/L
+CCL14	C-C motif chemokine ligand 14	5.2 µg/L
+ISG15	ISG15 ubiquitin-like modifier	5.0 µg/L
+MMP3	Matrix metallopeptidase 3	2.5 µg/L
+EGFR	Epidermal growth factor receptor	4.7 µg/L
+THBD	Thrombomodulin	5.5 µg/L
+BPI	Bactericidal/permeability-increasing protein	7.3 µg/L
+ITIH1	Inter-alpha-trypsin inhibitor heavy chain 1	4.5 µg/L
+HGF	Hepatocyte growth factor	4.1 µg/L
+FAM3B	Family with sequence similarity 3 member B	2.1 µg/L
+GNLY	Granulysin	2.9 µg/L
+TNFRSF1B	TNF receptor superfamily member 1B	3.2 µg/L
+MMP7	Matrix metallopeptidase 7	2.8 µg/L
+F7	Coagulation factor VII	350 µg/L
+RNASE3	Ribonuclease A family member 3	4.2 µg/L
+CMA1	Chymase 1	3.0 µg/L
+S100A8	S100 calcium binding protein A8	11 µg/L
+ANGPTL2	Angiopoietin like 2	2.5 µg/L
+IL18BP	Interleukin 18 binding protein	3.1 µg/L
+NPTX2	Neuronal pentraxin 2	2.5 µg/L
+AGT	Angiotensinogen	5.9 µg/L
+FLT1	Fms related tyrosine kinase 1	880 ng/L
+TNFSF15	TNF superfamily member 15	1.1 µg/L
+NUCB2	Nucleobindin 2	1.2 µg/L
+GHR	Growth hormone receptor	2.2 µg/L
+TFF3	Trefoil factor 3	150 µg/L
+LEPR	Leptin receptor	8.2 µg/L
+HAMP	Hepcidin antimicrobial peptide	1.9 µg/L
+SCUBE3	"Signal peptide, CUB domain and EGF like domain containing 3"	1.9 µg/L
+SEMA3F	Semaphorin 3F	1.7 µg/L
+GH1	Growth hormone 1	2.7 µg/L
+OXT	Oxytocin/neurophysin I prepropeptide	1.5 µg/L
+MMP10	Matrix metallopeptidase 10	770 ng/L
+GDF15	Growth differentiation factor 15	1.3 µg/L
+OLR1	Oxidized low density lipoprotein receptor 1	1.1 µg/L
+FABP3	Fatty acid binding protein 3	1.6 µg/L
+VGF	VGF nerve growth factor inducible	1.3 µg/L
+HTRA1	HtrA serine peptidase 1	25 µg/L
+ITIH4	Inter-alpha-trypsin inhibitor heavy chain family member 4	3.1 µg/L
+PTX3	Pentraxin 3	1.1 µg/L
+F12	Coagulation factor XII	1.0 µg/L
+CTGF	Connective tissue growth factor	1.0 µg/L
+IL22RA2	Interleukin 22 receptor subunit alpha 2	41 µg/L
+PLA2G2A	Phospholipase A2 group IIA	1.0 µg/L
+TNFSF13B	TNF superfamily member 13b	390 ng/L
+ESM1	Endothelial cell specific molecule 1	1.5 µg/L
+INSL3	Insulin like 3	570 ng/L
+ANGPTL8	Angiopoietin like 8	840 ng/L
+VEGFC	Vascular endothelial growth factor C	380 ng/L
+AREG	Amphiregulin	1.5 µg/L
+CXCL14	C-X-C motif chemokine ligand 14	800 ng/L
+CD40	CD40 molecule	710 ng/L
+CSF1	Colony stimulating factor 1	270 ng/L
+CXCL1	C-X-C motif chemokine ligand 1	380 ng/L
+ACPP	"Acid phosphatase, prostate"	460 ng/L
+REN	Renin	690 ng/L
+CD40LG	CD40 ligand	780 ng/L
+KL	Klotho	510 ng/L
+TNFSF12	TNF superfamily member 12	850 ng/L
+TGFB2	Transforming growth factor beta 2	4.9 µg/L
+ANGPT2	Angiopoietin 2	3.8 µg/L
+NAMPT	Nicotinamide phosphoribosyltransferase	2.1 µg/L
+CCL22	C-C motif chemokine ligand 22	620 ng/L
+CCL2	C-C motif chemokine ligand 2	320 ng/L
+CXCL16	C-X-C motif chemokine ligand 16	1.1 µg/L
+CXCL11	C-X-C motif chemokine ligand 11	190 ng/L
+CCL16	C-C motif chemokine ligand 16	2.8 µg/L
+MLN	Motilin	450 ng/L
+IFNA2	Interferon alpha 2	250 ng/L
+SPX	Spexin hormone	2.7 µg/L
+TNFRSF6B	TNF receptor superfamily member 6b	410 ng/L
+VEGFD	Vascular endothelial growth factor D	590 ng/L
+CCL27	C-C motif chemokine ligand 27	440 ng/L
+POMC	Proopiomelanocortin	380 ng/L
+FGF21	Fibroblast growth factor 21	250 ng/L
+PLAU	"Plasminogen activator, urokinase"	650 ng/L
+GRP	Gastrin releasing peptide	340 ng/L
+EGF	Epidermal growth factor	210 ng/L
+VEGFA	Vascular endothelial growth factor A	560 ng/L
+CXCL13	C-X-C motif chemokine ligand 13	94 ng/L
+BTC	Betacellulin	310 ng/L
+CCL4	C-C motif chemokine ligand 4	140 ng/L
+HGFAC	HGF activator	7.6 µg/L
+INS	Insulin	440 ng/L
+ERFE	Erythroferrone	280 ng/L
+CCL19	C-C motif chemokine ligand 19	200 ng/L
+CX3CL1	C-X3-C motif chemokine ligand 1	1.9 µg/L
+IL19	Interleukin 19	170 ng/L
+IL18	Interleukin 18	200 ng/L
+CXCL5	C-X-C motif chemokine ligand 5	1.1 µg/L
+CXCL6	C-X-C motif chemokine ligand 6	110 ng/L
+VEGFB	Vascular endothelial growth factor B	190 ng/L
+CXCL9	C-X-C motif chemokine ligand 9	900 ng/L
+NCAM1	Neural cell adhesion molecule 1	1.2 µg/L
+CCL13	C-C motif chemokine ligand 13	340 ng/L
+CCL24	C-C motif chemokine ligand 24	280 ng/L
+AGRP	Agouti related neuropeptide	250 ng/L
+PDGFB	Platelet derived growth factor subunit B	4.4 µg/L
+UTS2	Urotensin 2	2.6 µg/L
+IFNL1	Interferon lambda 1	97 ng/L
+SCUBE1	"Signal peptide, CUB domain and EGF like domain containing 1"	2.2 µg/L
+CXCL10	C-X-C motif chemokine ligand 10	250 ng/L
+ANGPTL6	Angiopoietin like 6	450 ng/L
+UCN	Urocortin	130 ng/L
+HAVCR1	Hepatitis A virus cellular receptor 1	160 ng/L
+MDK	Midkine	160 ng/L
+IL1F10	Interleukin 1 family member 10	220 ng/L
+RETNLB	Resistin like beta	120 ng/L
+IL34	Interleukin 34	57 ng/L
+ADM2	Adrenomedullin 2	61 ng/L
+PTN	Pleiotrophin	170 ng/L
+IL20	Interleukin 20	110 ng/L
+METRNL	"Meteorin like, glial cell differentiation regulator"	440 ng/L
+IL36RN	Interleukin 36 receptor antagonist	110 ng/L
+FGF4	Fibroblast growth factor 4	330 ng/L
+IL16	Interleukin 16	210 ng/L
+FASLG	Fas ligand	74 ng/L
+BMP6	Bone morphogenetic protein 6	5.0 µg/L
+UCN2	Urocortin 2	99 ng/L
+LGALS9	Galectin 9	450 ng/L
+PMCH	Pro-melanin concentrating hormone	270 ng/L
+IL13	Interleukin 13	40 ng/L
+FGF19	Fibroblast growth factor 19	130 ng/L
+FGF2	Fibroblast growth factor 2	93 ng/L
+CCL23	C-C motif chemokine ligand 23	940 ng/L
+VIP	Vasoactive intestinal peptide	120 ng/L
+IL36A	Interleukin 36 alpha	330 ng/L
+CCL21	C-C motif chemokine ligand 21	200 ng/L
+PYY	Peptide YY	87 ng/L
+GCG	Glucagon	130 ng/L
+F3	"Coagulation factor III, tissue factor"	600 ng/L
+IL1R2	Interleukin 1 receptor type 2	7.1 µg/L
+HBEGF	Heparin binding EGF like growth factor	120 ng/L
+IL25	Interleukin 25	4.2 µg/L
+CCL3	C-C motif chemokine ligand 3	140 ng/L
+S100A9	S100 calcium binding protein A9	11 µg/L
+CCL11	C-C motif chemokine ligand 11	89 ng/L
+EREG	Epiregulin	46 ng/L
+IL21	Interleukin 21	56 ng/L
+IL12B	Interleukin 12B	140 ng/L
+IL24	Interleukin 24	140 ng/L
+NPY	Neuropeptide Y	31 µg/L
+PTH	Parathyroid hormone	28 ng/L
+FGF23	Fibroblast growth factor 23	57 ng/L
+IL31	Interleukin 31	38 ng/L
+TNFSF10	TNF superfamily member 10	67 ng/L
+IL27	Interleukin 27	520 ng/L
+GDF11	Growth differentiation factor 11	46 ng/L
+TGFB1	Transforming growth factor beta 1	1.3 µg/L
+IL17C	Interleukin 17C	30 ng/L
+IL17B	Interleukin 17B	75 ng/L
+NGF	Nerve growth factor	40 ng/L
+OSM	Oncostatin M	40 ng/L
+IL32	Interleukin 32	46 ng/L
+ADM	Adrenomedullin	31 ng/L
+GIP	Gastric inhibitory polypeptide	34 ng/L
+THPO	Thrombopoietin	1.1 µg/L
+IL1RN	Interleukin 1 receptor antagonist	290 ng/L
+CXCL12	C-X-C motif chemokine ligand 12	1.0 µg/L
+PPY	Pancreatic polypeptide	70 ng/L
+IL26	Interleukin 26	36 ng/L
+IL37	Interleukin 37	77 ng/L
+CXCL3	C-X-C motif chemokine ligand 3	29 ng/L
+TNFSF11	TNF superfamily member 11	17 ng/L
+TGFB3	Transforming growth factor beta 3	45 ng/L
+BMP7	Bone morphogenetic protein 7	250 ng/L
+TNFSF14	TNF superfamily member 14	41 ng/L
+IL9	Interleukin 9	11 ng/L
+IL17D	Interleukin 17D	25 ng/L
+CCL17	C-C motif chemokine ligand 17	250 ng/L
+MYDGF	Myeloid derived growth factor	280 ng/L
+IL17F	Interleukin 17F	30 ng/L
+CCL8	C-C motif chemokine ligand 8	32 ng/L
+GAL	Galanin and GMAP prepropeptide	60 ng/L
+BMP2	Bone morphogenetic protein 2	24 ng/L
+CNTF	Ciliary neurotrophic factor	69 ng/L
+IL36B	Interleukin 36 beta	15 ng/L
+PGF	Placental growth factor	21 ng/L
+IL15	Interleukin 15	180 ng/L
+IL3	Interleukin 3	18 ng/L
+LTA	Lymphotoxin alpha	8.2 ng/L
+IL4	Interleukin 4	14 ng/L
+IL11	Interleukin 11	35 ng/L
+IAPP	Islet amyloid polypeptide	12 ng/L
+SERPINF2	Serpin family F member 2	12 ng/L
+CTF1	Cardiotrophin 1	12 ng/L
+IL23A	Interleukin 23 subunit alpha	11 ng/L
+TSLP	Thymic stromal lymphopoietin	38 ng/L
+PNOC	Prepronociceptin	12 ng/L
+CRH	Corticotropin releasing hormone	10 ng/L
+IFNA1	Interferon alpha 1	10 ng/L
+CCL26	C-C motif chemokine ligand 26	120 ng/L
+EPO	Erythropoietin	12 ng/L
+IL1A	Interleukin 1 alpha	11 ng/L
+IL7	Interleukin 7	61 ng/L
+CCL20	C-C motif chemokine ligand 20	28 ng/L
+CSF3	Colony stimulating factor 3	6.2 ng/L
+CCL1	C-C motif chemokine ligand 1	84 ng/L
+NPPB	Natriuretic peptide B	9.7 ng/L
+IL10	Interleukin 10	5.7 ng/L
+EDN3	Endothelin 3	31 ng/L
+TGFA	Transforming growth factor alpha	58 ng/L
+CXCL8	C-X-C motif chemokine ligand 8	7.3 ng/L
+CSF2	Colony stimulating factor 2	24 ng/L
+IL1B	Interleukin 1 beta	2.3 ng/L
+IL22	Interleukin 22	87 ng/L
+SCT	Secretin	570 ng/L
+IL5	Interleukin 5	4.1 ng/L
+IFNB1	Interferon beta 1	3.8 ng/L
+RLN2	Relaxin 2	24 ng/L
+NPPC	Natriuretic peptide C	6.1 ng/L
+CCL7	C-C motif chemokine ligand 7	30 ng/L
+IL2	Interleukin 2	20 ng/L
+CALCA	Calcitonin related polypeptide alpha	52 ng/L
+IFNL3	Interferon lambda 3	1.7 ng/L
+EDN1	Endothelin 1	9.7 ng/L
+TNF	Tumor necrosis factor	10 ng/L
+IL6	Interleukin 6	5.7 ng/L
+AVP	Arginine vasopressin	19 ng/L
+IFNG	Interferon gamma	1.5 ng/L
+IL17A	Interleukin 17A	9.9 ng/L

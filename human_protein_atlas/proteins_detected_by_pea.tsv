@@ -1,0 +1,750 @@
+Gene	Gene description	Variation between individuals	Variation within individuals
+GH1	Growth hormone 1	2.04	0.98
+FOLR3	Folate receptor 3	1.54	0.1
+MICA	MHC class I polypeptide-related sequence A	1.44	0.16
+MICB	MHC class I polypeptide-related sequence B	1.44	0.16
+CGA	"Glycoprotein hormones, alpha polypeptide"	1.2	0.23
+GH2	Growth hormone 2	1.16	0.28
+CCL20	C-C motif chemokine ligand 20	1.13	0.51
+EPCAM	Epithelial cell adhesion molecule	1.11	0.33
+SERPINA12	Serpin family A member 12	1.1	0.32
+PVALB	Parvalbumin	1.1	0.39
+HAO1	Hydroxyacid oxidase 1	1.1	0.55
+LEP	Leptin	1.09	0.3
+MMP1	Matrix metallopeptidase 1	1.08	0.56
+TCL1A	T cell leukemia/lymphoma 1A	1.05	0.32
+PPY	Pancreatic polypeptide	1.01	0.28
+FGF21	Fibroblast growth factor 21	0.97	0.55
+IGFBP1	Insulin like growth factor binding protein 1	0.97	0.4
+FCRLB	Fc receptor like B	0.93	0.18
+FGF19	Fibroblast growth factor 19	0.93	0.58
+MEP1B	Meprin A subunit beta	0.91	0.2
+SSC4D	Scavenger receptor cysteine rich family member with 4 domains	0.89	0.27
+CD177	CD177 molecule	0.87	0.17
+CCL17	C-C motif chemokine ligand 17	0.86	0.47
+LHB	Luteinizing hormone beta polypeptide	0.85	0.24
+MBL2	Mannose binding lectin 2	0.85	0.16
+CXCL10	C-X-C motif chemokine ligand 10	0.85	0.32
+CXCL9	C-X-C motif chemokine ligand 9	0.84	0.31
+LAIR2	Leukocyte associated immunoglobulin like receptor 2	0.84	0.16
+CRNN	Cornulin	0.84	0.22
+CCL24	C-C motif chemokine ligand 24	0.83	0.15
+CA9	Carbonic anhydrase 9	0.83	0.29
+CEACAM5	Carcinoembryonic antigen related cell adhesion molecule 5	0.82	0.22
+ENPP7	Ectonucleotide pyrophosphatase/phosphodiesterase 7	0.8	0.25
+CHIT1	Chitinase 1	0.79	0.15
+CRISP2	Cysteine rich secretory protein 2	0.78	0.2
+PTN	Pleiotrophin	0.77	0.27
+GHRL	Ghrelin and obestatin prepropeptide	0.76	0.23
+SCGB3A2	Secretoglobin family 3A member 2	0.76	0.19
+PROK1	Prokineticin 1	0.75	0.27
+MME	Membrane metalloendopeptidase	0.75	0.2
+CCL19	C-C motif chemokine ligand 19	0.74	0.23
+OMG	Oligodendrocyte myelin glycoprotein	0.73	0.34
+CCL3	C-C motif chemokine ligand 3	0.72	0.21
+CRH	Corticotropin releasing hormone	0.72	0.29
+CA5A	Carbonic anhydrase 5A	0.72	0.33
+FBP1	Fructose-bisphosphatase 1	0.72	0.6
+CALCA	Calcitonin related polypeptide alpha	0.71	0.31
+FUCA1	Alpha-L-fucosidase 1	0.7	0.2
+AMN	Amnion associated transmembrane protein	0.7	0.22
+GAL	Galanin and GMAP prepropeptide	0.68	0.23
+LILRB5	Leukocyte immunoglobulin like receptor B5	0.68	0.12
+IL17RB	Interleukin 17 receptor B	0.68	0.24
+AGR2	"Anterior gradient 2, protein disulphide isomerase family member"	0.68	0.38
+MMP12	Matrix metallopeptidase 12	0.68	0.23
+MUC16	"Mucin 16, cell surface associated"	0.68	0.22
+NPPB	Natriuretic peptide B	0.67	0.29
+OSM	Oncostatin M	0.67	0.3
+MDGA1	MAM domain containing glycosylphosphatidylinositol anchor 1	0.67	0.14
+FGF5	Fibroblast growth factor 5	0.67	0.13
+MSMB	Microseminoprotein beta	0.67	0.18
+CCL8	C-C motif chemokine ligand 8	0.66	0.35
+CA6	Carbonic anhydrase 6	0.65	0.17
+CHI3L1	Chitinase 3 like 1	0.65	0.26
+GZMH	Granzyme H	0.65	0.26
+TLR3	Toll like receptor 3	0.64	0.12
+CSF2RA	Colony stimulating factor 2 receptor alpha subunit	0.64	0.11
+TSHB	Thyroid stimulating hormone beta	0.63	0.31
+IL1RN	Interleukin 1 receptor antagonist	0.63	0.27
+KRT19	Keratin 19	0.63	0.37
+CCL16	C-C motif chemokine ligand 16	0.63	0.15
+IGFBP2	Insulin like growth factor binding protein 2	0.62	0.23
+FABP2	Fatty acid binding protein 2	0.62	0.39
+EDAR	Ectodysplasin A receptor	0.61	0.26
+XPNPEP2	X-prolyl aminopeptidase 2	0.61	0.09
+CTSH	Cathepsin H	0.61	0.2
+CPA1	Carboxypeptidase A1	0.61	0.2
+REN	Renin	0.61	0.23
+ASAH2	N-acylsphingosine amidohydrolase 2	0.61	0.16
+COL4A1	Collagen type IV alpha 1 chain	0.6	0.24
+TPSAB1	Tryptase alpha/beta 1	0.6	0.16
+DSG4	Desmoglein 4	0.59	0.19
+XCL1	X-C motif chemokine ligand 1	0.59	0.17
+PON3	Paraoxonase 3	0.59	0.16
+CAPG	"Capping actin protein, gelsolin like"	0.59	0.19
+CRTAC1	Cartilage acidic protein 1	0.59	0.17
+FABP6	Fatty acid binding protein 6	0.58	0.34
+GDF2	Growth differentiation factor 2	0.58	0.24
+APLP1	Amyloid beta precursor like protein 1	0.58	0.31
+MSLN	Mesothelin	0.58	0.14
+GZMB	Granzyme B	0.58	0.31
+HAVCR1	Hepatitis A virus cellular receptor 1	0.58	0.22
+TFF2	Trefoil factor 2	0.57	0.17
+KAZALD1	Kazal type serine peptidase inhibitor domain 1	0.57	0.19
+FABP4	Fatty acid binding protein 4	0.57	0.21
+ITM2A	Integral membrane protein 2A	0.57	0.42
+CPXM1	"Carboxypeptidase X, M14 family member 1"	0.57	0.27
+CTRC	Chymotrypsin C	0.57	0.19
+SERPINA9	Serpin family A member 9	0.57	0.26
+SCGB3A1	Secretoglobin family 3A member 1	0.56	0.16
+GPC5	Glypican 5	0.56	0.24
+IL6	Interleukin 6	0.56	0.35
+OMD	Osteomodulin	0.56	0.18
+CCL4	C-C motif chemokine ligand 4	0.56	0.24
+IL5RA	Interleukin 5 receptor subunit alpha	0.56	0.14
+MMP10	Matrix metallopeptidase 10	0.56	0.26
+FCRL6	Fc receptor like 6	0.56	0.17
+CD300LF	CD300 molecule like family member f	0.56	0.14
+BTC	Betacellulin	0.56	0.27
+LDLR	Low density lipoprotein receptor	0.56	0.2
+IL4R	Interleukin 4 receptor	0.55	0.28
+GIF	Gastric intrinsic factor	0.55	0.23
+ZBTB16	Zinc finger and BTB domain containing 16	0.55	0.34
+GUSB	Glucuronidase beta	0.55	0.2
+ALDH3A1	Aldehyde dehydrogenase 3 family member A1	0.55	0.32
+MMP9	Matrix metallopeptidase 9	0.55	0.24
+PLAT	"Plasminogen activator, tissue type"	0.55	0.3
+SFTPD	Surfactant protein D	0.55	0.21
+KLRD1	Killer cell lectin like receptor D1	0.54	0.19
+NT5E	5'-nucleotidase ecto	0.54	0.25
+CLUL1	Clusterin like 1	0.54	0.16
+LAMP3	Lysosomal associated membrane protein 3	0.54	0.23
+THBS4	Thrombospondin 4	0.54	0.19
+BMP6	Bone morphogenetic protein 6	0.54	0.37
+KLK12	Kallikrein related peptidase 12	0.53	0.21
+CCL7	C-C motif chemokine ligand 7	0.53	0.22
+CPB1	Carboxypeptidase B1	0.53	0.19
+TNFSF11	TNF superfamily member 11	0.53	0.26
+LRPAP1	LDL receptor related protein associated protein 1	0.53	0.28
+S100A12	S100 calcium binding protein A12	0.53	0.31
+PLIN1	Perilipin 1	0.53	0.29
+CCL18	C-C motif chemokine ligand 18	0.53	0.19
+CLEC4D	C-type lectin domain family 4 member D	0.52	0.18
+OPTC	Opticin	0.52	0.18
+HAGH	Hydroxyacylglutathione hydrolase	0.52	0.36
+CCL5	C-C motif chemokine ligand 5	0.52	0.36
+IL12A	Interleukin 12A	0.52	0.17
+MMP3	Matrix metallopeptidase 3	0.52	0.21
+VWF	Von Willebrand factor	0.52	0.32
+PILRB	Paired immunoglobin-like type 2 receptor beta	0.51	0.16
+NMNAT1	Nicotinamide nucleotide adenylyltransferase 1	0.51	0.26
+IL18	Interleukin 18	0.51	0.2
+IL12B	Interleukin 12B	0.5	0.15
+CRTAM	Cytotoxic and regulatory T cell molecule	0.5	0.17
+FCGR3B	Fc fragment of IgG receptor IIIb	0.5	0.12
+FCGR2B	Fc fragment of IgG receptor IIb	0.5	0.18
+CSF3	Colony stimulating factor 3	0.5	0.27
+KYNU	Kynureninase	0.5	0.28
+DKKL1	Dickkopf like acrosomal protein 1	0.5	0.17
+FCER2	Fc fragment of IgE receptor II	0.5	0.18
+LRRN1	Leucine rich repeat neuronal 1	0.5	0.2
+CCL25	C-C motif chemokine ligand 25	0.5	0.17
+FCRL5	Fc receptor like 5	0.5	0.15
+CXADR	"CXADR, Ig-like cell adhesion molecule"	0.5	0.21
+NAAA	N-acylethanolamine acid amidase	0.5	0.2
+GCG	Glucagon	0.5	0.34
+FCRL1	Fc receptor like 1	0.49	0.16
+DDC	Dopa decarboxylase	0.49	0.28
+PTH1R	Parathyroid hormone 1 receptor	0.49	0.21
+SUMF2	Sulfatase modifying factor 2	0.49	0.22
+CST6	Cystatin E/M	0.49	0.16
+REG4	Regenerating family member 4	0.49	0.23
+HSD11B1	Hydroxysteroid 11-beta dehydrogenase 1	0.49	0.2
+ST3GAL1	"ST3 beta-galactoside alpha-2,3-sialyltransferase 1"	0.49	0.17
+IL10	Interleukin 10	0.49	0.26
+CHRDL2	Chordin like 2	0.49	0.2
+HDGF	Heparin binding growth factor	0.49	0.27
+CA2	Carbonic anhydrase 2	0.49	0.3
+MILR1	Mast cell immunoglobulin like receptor 1	0.48	0.15
+FGF2	Fibroblast growth factor 2	0.48	0.22
+TNR	Tenascin R	0.48	0.17
+TNFRSF10C	TNF receptor superfamily member 10c	0.48	0.13
+TMPRSS15	Transmembrane serine protease 15	0.48	0.23
+SULT2A1	Sulfotransferase family 2A member 1	0.48	0.28
+MYOC	Myocilin	0.48	0.22
+RSPO3	R-spondin 3	0.48	0.15
+FCN2	Ficolin 2	0.48	0.15
+VEGFC	Vascular endothelial growth factor C	0.47	0.17
+IL1RL1	Interleukin 1 receptor like 1	0.47	0.16
+CTSC	Cathepsin C	0.47	0.29
+CLEC7A	C-type lectin domain containing 7A	0.47	0.17
+DLK1	Delta like non-canonical Notch ligand 1	0.47	0.16
+TFRC	Transferrin receptor	0.47	0.26
+SAA4	"Serum amyloid A4, constitutive"	0.47	0.16
+VEGFD	Vascular endothelial growth factor D	0.47	0.16
+PIK3AP1	Phosphoinositide-3-kinase adaptor protein 1	0.47	0.25
+CA1	Carbonic anhydrase 1	0.47	0.33
+CCL15	C-C motif chemokine ligand 15	0.47	0.16
+SKAP1	Src kinase associated phosphoprotein 1	0.47	0.23
+ITGA6	Integrin subunit alpha 6	0.47	0.56
+CD209	CD209 molecule	0.47	0.15
+IL17C	Interleukin 17C	0.47	0.24
+CPA2	Carboxypeptidase A2	0.46	0.22
+RNASE3	Ribonuclease A family member 3	0.46	0.28
+IL16	Interleukin 16	0.46	0.2
+FABP9	Fatty acid binding protein 9	0.46	0.18
+REG1A	Regenerating family member 1 alpha	0.46	0.2
+CXCL13	C-X-C motif chemokine ligand 13	0.46	0.21
+MSTN	Myostatin	0.45	0.19
+CYR61	Cysteine rich angiogenic inducer 61	0.45	0.28
+SELP	Selectin P	0.45	0.32
+ADAMTS15	ADAM metallopeptidase with thrombospondin type 1 motif 15	0.45	0.23
+ACP6	"Acid phosphatase 6, lysophosphatidic"	0.45	0.12
+FCGR2A	Fc fragment of IgG receptor IIa	0.45	0.12
+CES2	Carboxylesterase 2	0.45	0.17
+CNTNAP2	Contactin associated protein like 2	0.45	0.16
+FCRL2	Fc receptor like 2	0.45	0.12
+SH2D1A	SH2 domain containing 1A	0.45	0.15
+PAPPA	Pappalysin 1	0.44	0.19
+CR2	Complement C3d receptor 2	0.44	0.13
+LILRB4	Leukocyte immunoglobulin like receptor B4	0.44	0.18
+CDSN	Corneodesmosin	0.44	0.25
+SIGLEC6	Sialic acid binding Ig like lectin 6	0.44	0.16
+ITGA11	Integrin subunit alpha 11	0.44	0.19
+CST5	Cystatin D	0.44	0.16
+IL17RA	Interleukin 17 receptor A	0.44	0.15
+TNFRSF6B	TNF receptor superfamily member 6b	0.44	0.18
+XG	Xg blood group	0.43	0.14
+NADK	NAD kinase	0.43	0.21
+DPP6	Dipeptidyl peptidase like 6	0.43	0.16
+CSTB	Cystatin B	0.43	0.16
+TNC	Tenascin C	0.43	0.18
+NTF3	Neurotrophin 3	0.43	0.34
+CNTN2	Contactin 2	0.43	0.15
+RETN	Resistin	0.43	0.16
+SMPD1	Sphingomyelin phosphodiesterase 1	0.43	0.19
+CNTN5	Contactin 5	0.43	0.11
+MPO	Myeloperoxidase	0.43	0.1
+PTX3	Pentraxin 3	0.43	0.23
+IL7R	Interleukin 7 receptor	0.43	0.18
+TIMD4	T cell immunoglobulin and mucin domain containing 4	0.43	0.13
+CLEC4C	C-type lectin domain family 4 member C	0.43	0.15
+MB	Myoglobin	0.43	0.24
+SELE	Selectin E	0.42	0.15
+KLK14	Kallikrein related peptidase 14	0.42	0.19
+FUT5	Fucosyltransferase 5	0.42	0.22
+NFATC3	Nuclear factor of activated T cells 3	0.42	0.25
+PON2	Paraoxonase 2	0.42	0.2
+SLAMF8	SLAM family member 8	0.42	0.21
+ACE2	Angiotensin I converting enzyme 2	0.42	0.17
+VWC2	Von Willebrand factor C domain containing 2	0.42	0.16
+MOG	Myelin oligodendrocyte glycoprotein	0.42	0.2
+CD6	CD6 molecule	0.42	0.14
+PRSS2	Serine protease 2	0.42	0.16
+RET	Ret proto-oncogene	0.42	0.19
+IL17A	Interleukin 17A	0.42	0.17
+CD160	CD160 molecule	0.42	0.14
+BCAN	Brevican	0.41	0.14
+DDX58	DExD/H-box helicase 58	0.41	0.24
+PCSK9	Proprotein convertase subtilisin/kexin type 9	0.41	0.3
+SLITRK2	SLIT and NTRK like family member 2	0.41	0.18
+APP	Amyloid beta precursor protein	0.41	0.25
+KLK13	Kallikrein related peptidase 13	0.41	0.19
+NINJ1	Ninjurin 1	0.41	0.14
+CD70	CD70 molecule	0.41	0.17
+CCL23	C-C motif chemokine ligand 23	0.41	0.19
+ADAM23	ADAM metallopeptidase domain 23	0.41	0.15
+CLMP	CXADR like membrane protein	0.41	0.18
+CD300LG	CD300 molecule like family member g	0.41	0.16
+PODXL2	Podocalyxin like 2	0.41	0.16
+GP1BA	Glycoprotein Ib platelet alpha subunit	0.41	0.27
+CES1	Carboxylesterase 1	0.41	0.21
+PCDH17	Protocadherin 17	0.41	0.18
+SIT1	Signaling threshold regulating transmembrane adaptor 1	0.41	0.26
+MFGE8	Milk fat globule-EGF factor 8 protein	0.41	0.23
+CLEC11A	C-type lectin domain containing 11A	0.4	0.15
+CDCP1	CUB domain containing protein 1	0.4	0.15
+CTSF	Cathepsin F	0.4	0.21
+IDUA	"Iduronidase, alpha-L-"	0.4	0.24
+CADM3	Cell adhesion molecule 3	0.4	0.15
+CTSV	Cathepsin V	0.4	0.13
+TRIM5	Tripartite motif containing 5	0.4	0.21
+LGALS7	Galectin 7	0.4	0.23
+CD163	CD163 molecule	0.4	0.16
+CEACAM8	Carcinoembryonic antigen related cell adhesion molecule 8	0.4	0.19
+FST	Follistatin	0.4	0.28
+FURIN	"Furin, paired basic amino acid cleaving enzyme"	0.4	0.2
+STC1	Stanniocalcin 1	0.4	0.26
+LTA	Lymphotoxin alpha	0.39	0.14
+HMOX1	Heme oxygenase 1	0.39	0.15
+NPPC	Natriuretic peptide C	0.39	0.21
+NPTXR	Neuronal pentraxin receptor	0.39	0.15
+ADGRG1	Adhesion G protein-coupled receptor G1	0.39	0.17
+ANGPT2	Angiopoietin 2	0.39	0.19
+ANGPTL4	Angiopoietin like 4	0.39	0.27
+OLR1	Oxidized low density lipoprotein receptor 1	0.39	0.18
+SMOC2	SPARC related modular calcium binding 2	0.39	0.17
+MMP7	Matrix metallopeptidase 7	0.39	0.15
+AREG	Amphiregulin	0.39	0.21
+FGFBP1	Fibroblast growth factor binding protein 1	0.39	0.12
+CD274	CD274 molecule	0.38	0.23
+CCL11	C-C motif chemokine ligand 11	0.38	0.17
+FGF23	Fibroblast growth factor 23	0.38	0.21
+SIRPB1	Signal regulatory protein beta 1	0.38	0.15
+TMPRSS5	Transmembrane serine protease 5	0.38	0.12
+PTK7	Protein tyrosine kinase 7 (inactive)	0.38	0.21
+FAM3B	Family with sequence similarity 3 member B	0.38	0.21
+DKK4	Dickkopf WNT signaling pathway inhibitor 4	0.38	0.22
+PDGFRB	Platelet derived growth factor receptor beta	0.38	0.14
+INHBC	Inhibin beta C subunit	0.38	0.19
+CLSTN2	Calsyntenin 2	0.38	0.18
+VSIG2	V-set and immunoglobulin domain containing 2	0.38	0.16
+PRSS27	Serine protease 27	0.37	0.14
+IL1RL2	Interleukin 1 receptor like 2	0.37	0.14
+COMT	Catechol-O-methyltransferase	0.37	0.26
+CDHR5	Cadherin related family member 5	0.37	0.15
+SPINK1	"Serine peptidase inhibitor, Kazal type 1"	0.37	0.17
+LILRB2	Leukocyte immunoglobulin like receptor B2	0.37	0.12
+SOST	Sclerostin	0.37	0.19
+MDK	Midkine	0.37	0.21
+PRKAB1	Protein kinase AMP-activated non-catalytic subunit beta 1	0.37	0.17
+SDC1	Syndecan 1	0.37	0.16
+SIGLEC1	Sialic acid binding Ig like lectin 1	0.37	0.15
+FASLG	Fas ligand	0.37	0.14
+LPL	Lipoprotein lipase	0.37	0.19
+PRTN3	Proteinase 3	0.37	0.14
+IL18R1	Interleukin 18 receptor 1	0.37	0.13
+ALDH1A1	Aldehyde dehydrogenase 1 family member A1	0.37	0.25
+DKK3	Dickkopf WNT signaling pathway inhibitor 3	0.37	0.18
+CNDP1	Carnosine dipeptidase 1	0.36	0.19
+TFPI2	Tissue factor pathway inhibitor 2	0.36	0.18
+LGALS4	Galectin 4	0.36	0.18
+CLEC4A	C-type lectin domain family 4 member A	0.36	0.17
+AZU1	Azurocidin 1	0.36	0.19
+NGF	Nerve growth factor	0.36	0.11
+DRAXIN	Dorsal inhibitory axon guidance protein	0.36	0.14
+SLAMF7	SLAM family member 7	0.36	0.17
+DPP10	Dipeptidyl peptidase like 10	0.36	0.16
+CLEC1A	C-type lectin domain family 1 member A	0.36	0.17
+CXCL17	C-X-C motif chemokine ligand 17	0.36	0.16
+CCDC80	Coiled-coil domain containing 80	0.36	0.2
+ARSA	Arylsulfatase A	0.36	0.15
+TNFRSF12A	TNF receptor superfamily member 12A	0.36	0.24
+CLEC10A	C-type lectin domain containing 10A	0.36	0.15
+CLEC6A	C-type lectin domain containing 6A	0.36	0.22
+LAG3	Lymphocyte activating 3	0.36	0.16
+SERPINB8	Serpin family B member 8	0.36	0.17
+ADM	Adrenomedullin	0.36	0.17
+TIMP4	TIMP metallopeptidase inhibitor 4	0.36	0.16
+ESM1	Endothelial cell specific molecule 1	0.36	0.16
+KLK8	Kallikrein related peptidase 8	0.35	0.17
+CD38	CD38 molecule	0.35	0.15
+CLEC4G	C-type lectin domain family 4 member G	0.35	0.17
+AGRP	Agouti related neuropeptide	0.35	0.2
+SIRPA	Signal regulatory protein alpha	0.35	0.1
+CCL2	C-C motif chemokine ligand 2	0.35	0.18
+SPP1	Secreted phosphoprotein 1	0.35	0.17
+LY75	Lymphocyte antigen 75	0.35	0.16
+WFIKKN1	"WAP, follistatin/kazal, immunoglobulin, kunitz and netrin domain containing 1"	0.35	0.12
+NTF4	Neurotrophin 4	0.35	0.19
+S100A4	S100 calcium binding protein A4	0.35	0.19
+CD93	CD93 molecule	0.35	0.28
+PFKM	"Phosphofructokinase, muscle"	0.35	0.22
+HS6ST1	Heparan sulfate 6-O-sulfotransferase 1	0.35	0.17
+CD207	CD207 molecule	0.35	0.14
+CA14	Carbonic anhydrase 14	0.35	0.16
+VSIG4	V-set and immunoglobulin domain containing 4	0.35	0.15
+VEGFA	Vascular endothelial growth factor A	0.35	0.18
+WFIKKN2	"WAP, follistatin/kazal, immunoglobulin, kunitz and netrin domain containing 2"	0.35	0.13
+IGSF3	Immunoglobulin superfamily member 3	0.34	0.15
+GCNT1	"Glucosaminyl (N-acetyl) transferase 1, core 2"	0.34	0.16
+IL6R	Interleukin 6 receptor	0.34	0.2
+ICA1	Islet cell autoantigen 1	0.34	0.2
+PRSS8	Serine protease 8	0.34	0.16
+NFKBIE	NFKB inhibitor epsilon	0.34	0.13
+TNFRSF4	TNF receptor superfamily member 4	0.34	0.15
+CDH2	Cadherin 2	0.34	0.19
+IFNLR1	Interferon lambda receptor 1	0.34	0.16
+CPE	Carboxypeptidase E	0.34	0.15
+LAIR1	Leukocyte associated immunoglobulin like receptor 1	0.34	0.14
+WISP1	WNT1 inducible signaling pathway protein 1	0.34	0.17
+RARRES1	Retinoic acid receptor responder 1	0.34	0.16
+COCH	Cochlin	0.34	0.1
+TNFRSF9	TNF receptor superfamily member 9	0.34	0.14
+NCF2	Neutrophil cytosolic factor 2	0.34	0.22
+HPGDS	Hematopoietic prostaglandin D synthase	0.34	0.17
+TREM1	Triggering receptor expressed on myeloid cells 1	0.34	0.16
+TNFRSF13B	TNF receptor superfamily member 13B	0.34	0.12
+PRKRA	Protein activator of interferon induced protein kinase EIF2AK2	0.34	0.2
+TIGAR	TP53 induced glycolysis regulatory phosphatase	0.34	0.13
+NBN	Nibrin	0.34	0.16
+LYVE1	Lymphatic vessel endothelial hyaluronan receptor 1	0.33	0.11
+NBL1	"Neuroblastoma 1, DAN family BMP antagonist"	0.33	0.07
+WIF1	WNT inhibitory factor 1	0.33	0.15
+SIGLEC10	Sialic acid binding Ig like lectin 10	0.33	0.15
+NCR1	Natural cytotoxicity triggering receptor 1	0.33	0.18
+MATN2	Matrilin 2	0.33	0.16
+TACSTD2	Tumor associated calcium signal transducer 2	0.33	0.13
+LILRA5	Leukocyte immunoglobulin like receptor A5	0.33	0.15
+GZMA	Granzyme A	0.33	0.15
+FAM19A5	"Family with sequence similarity 19 member A5, C-C motif chemokine like"	0.33	0.21
+CFHR5	Complement factor H related 5	0.33	0.13
+SLAMF1	Signaling lymphocytic activation molecule family member 1	0.33	0.14
+CD1C	CD1c molecule	0.33	0.15
+GDNF	Glial cell derived neurotrophic factor	0.33	0.18
+BST1	Bone marrow stromal cell antigen 1	0.33	0.13
+COMP	Cartilage oligomeric matrix protein	0.33	0.14
+KLK10	Kallikrein related peptidase 10	0.33	0.16
+ITGB6	Integrin subunit beta 6	0.33	0.17
+PILRA	Paired immunoglobin like type 2 receptor alpha	0.33	0.15
+APBB1IP	Amyloid beta precursor protein binding family B member 1 interacting protein	0.33	0.13
+ADAM22	ADAM metallopeptidase domain 22	0.33	0.14
+ITGB2	Integrin subunit beta 2	0.33	0.16
+BGN	Biglycan	0.33	0.2
+KLK11	Kallikrein related peptidase 11	0.33	0.15
+FRZB	Frizzled related protein	0.33	0.14
+NUCB2	Nucleobindin 2	0.33	0.21
+TNFRSF11A	TNF receptor superfamily member 11a	0.32	0.15
+VCAN	Versican	0.32	0.15
+CD109	CD109 molecule	0.32	0.18
+MSR1	Macrophage scavenger receptor 1	0.32	0.12
+CD83	CD83 molecule	0.32	0.17
+TFPI	Tissue factor pathway inhibitor	0.32	0.18
+ROBO2	Roundabout guidance receptor 2	0.32	0.14
+DCTN2	Dynactin subunit 2	0.32	0.24
+RSPO1	R-spondin 1	0.32	0.13
+PGLYRP1	Peptidoglycan recognition protein 1	0.32	0.13
+ICAM2	Intercellular adhesion molecule 2	0.32	0.09
+LTA4H	Leukotriene A4 hydrolase	0.32	0.2
+FCRL3	Fc receptor like 3	0.32	0.13
+ROR1	Receptor tyrosine kinase like orphan receptor 1	0.32	0.16
+IL27	Interleukin 27	0.32	0.13
+NOMO1	NODAL modulator 1	0.32	0.17
+IL2RA	Interleukin 2 receptor subunit alpha	0.32	0.12
+NECTIN4	Nectin cell adhesion molecule 4	0.32	0.14
+CDH3	Cadherin 3	0.32	0.14
+CX3CL1	C-X3-C motif chemokine ligand 1	0.31	0.15
+ANGPTL3	Angiopoietin like 3	0.31	0.17
+EDA2R	Ectodysplasin A2 receptor	0.31	0.12
+TNFRSF11B	TNF receptor superfamily member 11b	0.31	0.14
+HS3ST3B1	Heparan sulfate-glucosamine 3-sulfotransferase 3B1	0.31	0.19
+EGFL7	EGF like domain multiple 7	0.31	0.16
+BID	BH3 interacting domain death agonist	0.31	0.16
+MAGED1	MAGE family member D1	0.31	0.13
+FOLR1	Folate receptor 1	0.31	0.15
+PCOLCE	Procollagen C-endopeptidase enhancer	0.31	0.15
+CA12	Carbonic anhydrase 12	0.31	0.15
+CLSTN3	Calsyntenin 3	0.31	0.16
+SORCS2	Sortilin related VPS10 domain containing receptor 2	0.31	0.17
+CD28	CD28 molecule	0.31	0.13
+ADGRE2	Adhesion G protein-coupled receptor E2	0.31	0.16
+CCL14	C-C motif chemokine ligand 14	0.31	0.12
+MEPE	Matrix extracellular phosphoglycoprotein	0.31	0.13
+RTN4R	Reticulon 4 receptor	0.31	0.15
+PAMR1	Peptidase domain containing associated with muscle regeneration 1	0.31	0.13
+PXN	Paxillin	0.3	0.2
+COL1A1	Collagen type I alpha 1 chain	0.3	0.14
+RGMA	Repulsive guidance molecule BMP co-receptor a	0.3	0.11
+ADGRG2	Adhesion G protein-coupled receptor G2	0.3	0.13
+FLT3LG	Fms related tyrosine kinase 3 ligand	0.3	0.14
+ANG	Angiogenin	0.3	0.15
+CD200	CD200 molecule	0.3	0.12
+CTSZ	Cathepsin Z	0.3	0.13
+CD200R1	CD200 receptor 1	0.3	0.11
+CD5	CD5 molecule	0.3	0.12
+C1QTNF1	C1q and TNF related 1	0.3	0.2
+PSIP1	PC4 and SFRS1 interacting protein 1	0.3	0.15
+CTSL	Cathepsin L	0.3	0.15
+ACP5	"Acid phosphatase 5, tartrate resistant"	0.3	0.12
+GLB1	Galactosidase beta 1	0.3	0.19
+PDGFC	Platelet derived growth factor C	0.29	0.14
+SEMA7A	Semaphorin 7A (John Milton Hagen blood group)	0.29	0.12
+GDF15	Growth differentiation factor 15	0.29	0.13
+STXBP3	Syntaxin binding protein 3	0.29	0.19
+PDCD1LG2	Programmed cell death 1 ligand 2	0.29	0.14
+ENTPD6	Ectonucleoside triphosphate diphosphohydrolase 6 (putative)	0.29	0.11
+DCBLD2	"Discoidin, CUB and LCCL domain containing 2"	0.29	0.16
+F3	"Coagulation factor III, tissue factor"	0.29	0.12
+WNT9A	Wnt family member 9A	0.29	0.17
+TREML2	Triggering receptor expressed on myeloid cells like 2	0.29	0.13
+PTPRF	"Protein tyrosine phosphatase, receptor type F"	0.29	0.14
+CTSD	Cathepsin D	0.29	0.13
+LRP11	LDL receptor related protein 11	0.29	0.16
+NCAN	Neurocan	0.29	0.1
+KIT	KIT proto-oncogene receptor tyrosine kinase	0.29	0.15
+DDAH1	Dimethylarginine dimethylaminohydrolase 1	0.29	0.16
+BLMH	Bleomycin hydrolase	0.29	0.18
+MERTK	"MER proto-oncogene, tyrosine kinase"	0.29	0.14
+TANK	TRAF family member associated NFKB activator	0.29	0.19
+HGF	Hepatocyte growth factor	0.29	0.14
+ENTPD5	Ectonucleoside triphosphate diphosphohydrolase 5	0.29	0.18
+AXL	AXL receptor tyrosine kinase	0.29	0.14
+THBD	Thrombomodulin	0.29	0.14
+MASP1	Mannan binding lectin serine peptidase 1	0.29	0.15
+GPC1	Glypican 1	0.29	0.12
+LAYN	Layilin	0.29	0.14
+IL12RB1	Interleukin 12 receptor subunit beta 1	0.29	0.16
+CD48	CD48 molecule	0.29	0.12
+IGF2R	Insulin like growth factor 2 receptor	0.29	0.12
+ULBP2	UL16 binding protein 2	0.29	0.12
+LRIG1	Leucine rich repeats and immunoglobulin like domains 1	0.29	0.16
+CCL28	C-C motif chemokine ligand 28	0.29	0.15
+BCL2L11	BCL2 like 11	0.29	0.15
+LRP1	LDL receptor related protein 1	0.29	0.12
+ANGPTL1	Angiopoietin like 1	0.29	0.15
+LCN2	Lipocalin 2	0.28	0.13
+IGFBPL1	Insulin like growth factor binding protein like 1	0.28	0.14
+TOP2B	DNA topoisomerase II beta	0.28	0.17
+NOV	Nephroblastoma overexpressed	0.28	0.17
+AGER	Advanced glycosylation end-product specific receptor	0.28	0.13
+TNFRSF10A	TNF receptor superfamily member 10a	0.28	0.14
+TFF3	Trefoil factor 3	0.28	0.11
+IL17D	Interleukin 17D	0.28	0.13
+VAMP5	Vesicle associated membrane protein 5	0.28	0.16
+QPCT	Glutaminyl-peptide cyclotransferase	0.28	0.12
+CD27	CD27 molecule	0.28	0.12
+HAVCR2	Hepatitis A virus cellular receptor 2	0.28	0.12
+CLEC5A	C-type lectin domain containing 5A	0.28	0.13
+SEZ6L	Seizure related 6 homolog like	0.28	0.11
+FETUB	Fetuin B	0.28	0.13
+CTSO	Cathepsin O	0.28	0.17
+NOTCH3	Notch 3	0.28	0.11
+ADGRE5	Adhesion G protein-coupled receptor E5	0.28	0.16
+SRC	"SRC proto-oncogene, non-receptor tyrosine kinase"	0.28	0.21
+IGFBP3	Insulin like growth factor binding protein 3	0.28	0.12
+LGALS9	Galectin 9	0.28	0.11
+PRCP	Prolylcarboxypeptidase	0.28	0.18
+KITLG	KIT ligand	0.27	0.1
+TNFSF13B	TNF superfamily member 13b	0.27	0.13
+KLK6	Kallikrein related peptidase 6	0.27	0.14
+LY9	Lymphocyte antigen 9	0.27	0.11
+BAMBI	BMP and activin membrane bound inhibitor	0.27	0.14
+ZBTB17	Zinc finger and BTB domain containing 17	0.27	0.18
+TNFSF12	TNF superfamily member 12	0.27	0.16
+CCL21	C-C motif chemokine ligand 21	0.27	0.13
+AOC3	"Amine oxidase, copper containing 3"	0.27	0.11
+TNFRSF19	TNF receptor superfamily member 19	0.27	0.16
+PAG1	Phosphoprotein membrane anchor with glycosphingolipid microdomains 1	0.27	0.22
+CDH5	Cadherin 5	0.27	0.11
+TGFBR2	Transforming growth factor beta receptor 2	0.27	0.13
+DPP4	Dipeptidyl peptidase 4	0.27	0.11
+CD79B	CD79b molecule	0.27	0.13
+PROC	"Protein C, inactivator of coagulation factors Va and VIIIa"	0.27	0.15
+BLVRB	Biliverdin reductase B	0.27	0.22
+ITGB7	Integrin subunit beta 7	0.27	0.14
+BOC	"BOC cell adhesion associated, oncogene regulated"	0.27	0.16
+GALNT2	Polypeptide N-acetylgalactosaminyltransferase 2	0.27	0.13
+IL1R2	Interleukin 1 receptor type 2	0.27	0.1
+IL18BP	Interleukin 18 binding protein	0.26	0.14
+DSC2	Desmocollin 2	0.26	0.15
+TCN2	Transcobalamin 2	0.26	0.11
+TP53	Tumor protein p53	0.26	0.2
+MMP2	Matrix metallopeptidase 2	0.26	0.13
+PRDX1	Peroxiredoxin 1	0.26	0.16
+FAM3C	Family with sequence similarity 3 member C	0.26	0.17
+PDGFRA	Platelet derived growth factor receptor alpha	0.26	0.12
+TPP1	Tripeptidyl peptidase 1	0.26	0.13
+RGMB	Repulsive guidance molecule BMP co-receptor b	0.26	0.13
+LYPD3	LY6/PLAUR domain containing 3	0.26	0.12
+CFC1	"Cripto, FRL-1, cryptic family 1"	0.26	0.15
+ARSB	Arylsulfatase B	0.26	0.16
+CNTN1	Contactin 1	0.26	0.11
+PRTG	Protogenin	0.26	0.11
+P4HB	Prolyl 4-hydroxylase subunit beta	0.26	0.15
+TNFSF13	TNF superfamily member 13	0.26	0.14
+ENAH	"ENAH, actin regulator"	0.26	0.15
+SERPINA7	Serpin family A member 7	0.26	0.14
+CD300C	CD300c molecule	0.26	0.09
+CRHBP	Corticotropin releasing hormone binding protein	0.26	0.13
+COLEC12	Collectin subfamily member 12	0.25	0.15
+PLA2G7	Phospholipase A2 group VII	0.25	0.16
+CXCL16	C-X-C motif chemokine ligand 16	0.25	0.13
+UNC5C	Unc-5 netrin receptor C	0.25	0.14
+EPHB6	EPH receptor B6	0.25	0.13
+SPOCK1	"SPARC/osteonectin, cwcv and kazal like domains proteoglycan 1"	0.25	0.13
+LXN	Latexin	0.25	0.21
+LGMN	Legumain	0.25	0.1
+FAS	Fas cell surface death receptor	0.25	0.1
+TGFBR3	Transforming growth factor beta receptor 3	0.25	0.15
+CA3	Carbonic anhydrase 3	0.25	0.15
+GFRA1	GDNF family receptor alpha 1	0.25	0.13
+TNFRSF1B	TNF receptor superfamily member 1B	0.25	0.11
+CRELD2	Cysteine rich with EGF like domains 2	0.25	0.13
+IGFBP6	Insulin like growth factor binding protein 6	0.25	0.13
+GFRA3	GDNF family receptor alpha 3	0.25	0.11
+ADAM8	ADAM metallopeptidase domain 8	0.25	0.11
+LGALS3	Galectin 3	0.25	0.11
+CD4	CD4 molecule	0.25	0.15
+NID2	Nidogen 2	0.25	0.15
+HSPG2	Heparan sulfate proteoglycan 2	0.25	0.13
+IL10RB	Interleukin 10 receptor subunit beta	0.25	0.12
+SCARF2	Scavenger receptor class F member 2	0.25	0.12
+CKAP4	Cytoskeleton associated protein 4	0.25	0.17
+NID1	Nidogen 1	0.25	0.13
+IL1R1	Interleukin 1 receptor type 1	0.24	0.13
+FGR	"FGR proto-oncogene, Src family tyrosine kinase"	0.24	0.15
+GNLY	Granulysin	0.24	0.13
+NCAM1	Neural cell adhesion molecule 1	0.24	0.1
+C2	Complement C2	0.24	0.12
+EDIL3	EGF like repeats and discoidin domains 3	0.24	0.15
+CLEC14A	C-type lectin domain containing 14A	0.24	0.13
+CNTN4	Contactin 4	0.24	0.12
+SIGLEC9	Sialic acid binding Ig like lectin 9	0.24	0.09
+ANPEP	"Alanyl aminopeptidase, membrane"	0.24	0.1
+BCAM	Basal cell adhesion molecule (Lutheran blood group)	0.24	0.12
+CXCL12	C-X-C motif chemokine ligand 12	0.24	0.18
+CDH1	Cadherin 1	0.24	0.13
+RELT	"RELT, TNF receptor"	0.24	0.12
+OSCAR	"Osteoclast associated, immunoglobulin-like receptor"	0.24	0.1
+TINAGL1	Tubulointerstitial nephritis antigen like 1	0.24	0.12
+IRF9	Interferon regulatory factor 9	0.24	0.16
+APOM	Apolipoprotein M	0.24	0.12
+MATN3	Matrilin 3	0.24	0.11
+PLAU	"Plasminogen activator, urokinase"	0.24	0.12
+ST6GAL1	"ST6 beta-galactoside alpha-2,6-sialyltransferase 1"	0.24	0.15
+ACAN	Aggrecan	0.24	0.11
+TNFSF10	TNF superfamily member 10	0.24	0.13
+B4GAT1	"Beta-1,4-glucuronyltransferase 1"	0.24	0.14
+PVR	Poliovirus receptor	0.23	0.11
+FAP	Fibroblast activation protein alpha	0.23	0.16
+JAM2	Junctional adhesion molecule 2	0.23	0.14
+THOP1	Thimet oligopeptidase 1	0.23	0.1
+SPINK5	"Serine peptidase inhibitor, Kazal type 5"	0.23	0.12
+VCAM1	Vascular cell adhesion molecule 1	0.23	0.11
+NPDC1	"Neural proliferation, differentiation and control 1"	0.23	0.18
+EFEMP1	EGF containing fibulin extracellular matrix protein 1	0.23	0.13
+GAS6	Growth arrest specific 6	0.23	0.14
+DLL1	Delta like canonical Notch ligand 1	0.23	0.13
+F7	Coagulation factor VII	0.23	0.13
+MARCO	Macrophage receptor with collagenous structure	0.23	0.1
+SEZ6L2	Seizure related 6 homolog like 2	0.23	0.13
+ICAM1	Intercellular adhesion molecule 1	0.23	0.11
+METRNL	"Meteorin like, glial cell differentiation regulator"	0.23	0.13
+WFDC2	WAP four-disulfide core domain 2	0.23	0.12
+DNER	Delta/notch like EGF repeat containing	0.23	0.11
+FLT4	Fms related tyrosine kinase 4	0.23	0.08
+SERPINA5	Serpin family A member 5	0.23	0.16
+SCARB2	Scavenger receptor class B member 2	0.23	0.12
+FLRT2	Fibronectin leucine rich transmembrane protein 2	0.23	0.12
+CRIM1	Cysteine rich transmembrane BMP regulator 1	0.22	0.18
+ENTPD2	Ectonucleoside triphosphate diphosphohydrolase 2	0.22	0.15
+TNFRSF10B	TNF receptor superfamily member 10b	0.22	0.12
+BTN3A2	Butyrophilin subfamily 3 member A2	0.22	0.1
+UMOD	Uromodulin	0.22	0.11
+SIGLEC7	Sialic acid binding Ig like lectin 7	0.22	0.12
+SEMA4C	Semaphorin 4C	0.22	0.16
+ERBB4	Erb-b2 receptor tyrosine kinase 4	0.22	0.09
+MIA	Melanoma inhibitory activity	0.22	0.09
+TNFRSF1A	TNF receptor superfamily member 1A	0.22	0.12
+ICOSLG	Inducible T cell costimulator ligand	0.22	0.13
+GLRX	Glutaredoxin	0.22	0.16
+SELPLG	Selectin P ligand	0.22	0.08
+RASSF2	Ras association domain family member 2	0.22	0.12
+ERBB2	Erb-b2 receptor tyrosine kinase 2	0.22	0.11
+SPON1	Spondin 1	0.22	0.13
+EPHA2	EPH receptor A2	0.22	0.14
+TGFA	Transforming growth factor alpha	0.22	0.15
+IQGAP2	IQ motif containing GTPase activating protein 2	0.22	0.26
+CST3	Cystatin C	0.22	0.13
+CHL1	Cell adhesion molecule L1 like	0.22	0.11
+THY1	Thy-1 cell surface antigen	0.22	0.1
+EGFR	Epidermal growth factor receptor	0.22	0.15
+ANGPTL7	Angiopoietin like 7	0.22	0.15
+IGF1R	Insulin like growth factor 1 receptor	0.22	0.14
+PLAUR	"Plasminogen activator, urokinase receptor"	0.21	0.1
+GKN1	Gastrokine 1	0.21	0.15
+DCN	Decorin	0.21	0.11
+GRN	Granulin precursor	0.21	0.09
+MEGF9	Multiple EGF like domains 9	0.21	0.16
+NRP1	Neuropilin 1	0.21	0.12
+NRP2	Neuropilin 2	0.21	0.14
+TYRO3	TYRO3 protein tyrosine kinase	0.21	0.13
+SELL	Selectin L	0.21	0.11
+CPM	Carboxypeptidase M	0.21	0.09
+AMIGO2	Adhesion molecule with Ig like domain 2	0.21	0.12
+GALNT10	Polypeptide N-acetylgalactosaminyltransferase 10	0.21	0.13
+EPHB4	EPH receptor B4	0.21	0.14
+SPARCL1	SPARC like 1	0.21	0.11
+EZR	Ezrin	0.21	0.12
+CDH6	Cadherin 6	0.21	0.09
+LAMA4	Laminin subunit alpha 4	0.21	0.12
+RRM2B	Ribonucleotide reductase regulatory TP53 inducible subunit M2B	0.21	0.14
+SEMA3F	Semaphorin 3F	0.21	0.13
+PLTP	Phospholipid transfer protein	0.21	0.13
+LILRB1	Leukocyte immunoglobulin like receptor B1	0.21	0.1
+ACVRL1	Activin A receptor like type 1	0.21	0.12
+IL15RA	Interleukin 15 receptor subunit alpha	0.21	0.13
+MRC2	Mannose receptor C type 2	0.21	0.13
+IGFBP7	Insulin like growth factor binding protein 7	0.2	0.11
+ITGAV	Integrin subunit alpha V	0.2	0.1
+DEFA1	Defensin alpha 1	0.2	0.12
+EGLN1	Egl-9 family hypoxia inducible factor 1	0.2	0.14
+ROBO1	Roundabout guidance receptor 1	0.2	0.13
+CA4	Carbonic anhydrase 4	0.2	0.13
+NTRK3	Neurotrophic receptor tyrosine kinase 3	0.2	0.1
+CDON	"Cell adhesion associated, oncogene regulated"	0.2	0.15
+PGF	Placental growth factor	0.2	0.13
+EFNA4	Ephrin A4	0.2	0.13
+F11	Coagulation factor XI	0.2	0.1
+ICAM3	Intercellular adhesion molecule 3	0.19	0.11
+CTSS	Cathepsin S	0.19	0.08
+GFRA2	GDNF family receptor alpha 2	0.19	0.13
+IFNGR1	Interferon gamma receptor 1	0.19	0.1
+NECTIN2	Nectin cell adhesion molecule 2	0.19	0.13
+MFAP5	Microfibril associated protein 5	0.19	0.14
+TNFRSF21	TNF receptor superfamily member 21	0.19	0.1
+THBS2	Thrombospondin 2	0.19	0.08
+ERBB3	Erb-b2 receptor tyrosine kinase 3	0.19	0.1
+ITGA5	Integrin subunit alpha 5	0.19	0.13
+IL13RA1	Interleukin 13 receptor subunit alpha 1	0.19	0.12
+LTBR	Lymphotoxin beta receptor	0.19	0.1
+MCFD2	Multiple coagulation factor deficiency 2	0.19	0.15
+CD58	CD58 molecule	0.19	0.13
+PEAR1	Platelet endothelial aggregation receptor 1	0.18	0.16
+SPINT2	"Serine peptidase inhibitor, Kunitz type 2"	0.18	0.11
+DDR1	Discoidin domain receptor tyrosine kinase 1	0.18	0.1
+TEK	TEK receptor tyrosine kinase	0.18	0.09
+LIFR	LIF receptor alpha	0.18	0.11
+B4GALT1	"Beta-1,4-galactosyltransferase 1"	0.18	0.13
+CSF1	Colony stimulating factor 1	0.18	0.11
+S100A11	S100 calcium binding protein A11	0.18	0.11
+KDR	Kinase insert domain receptor	0.18	0.09
+BAG6	BCL2 associated athanogene 6	0.18	0.13
+SCARA5	Scavenger receptor class A member 5	0.18	0.1
+RARRES2	Retinoic acid receptor responder 2	0.18	0.09
+SPINT1	"Serine peptidase inhibitor, Kunitz type 1"	0.18	0.11
+HSPB1	Heat shock protein family B (small) member 1	0.18	0.15
+ALCAM	Activated leukocyte cell adhesion molecule	0.18	0.09
+PAM	Peptidylglycine alpha-amidating monooxygenase	0.17	0.1
+CDNF	Cerebral dopamine neurotrophic factor	0.17	0.13
+LGALS1	Galectin 1	0.17	0.1
+ESAM	Endothelial cell adhesion molecule	0.17	0.1
+PLXNB2	Plexin B2	0.17	0.11
+VASN	Vasorin	0.17	0.12
+CD164	CD164 molecule	0.16	0.09
+NRCAM	Neuronal cell adhesion molecule	0.16	0.08
+TIMP1	TIMP metallopeptidase inhibitor 1	0.16	0.1
+MET	"MET proto-oncogene, receptor tyrosine kinase"	0.16	0.12
+CD99L2	CD99 molecule like 2	0.16	0.1
+FSTL3	Follistatin like 3	0.16	0.13
+CD59	CD59 molecule (CD59 blood group)	0.16	0.1
+PODXL	Podocalyxin like	0.16	0.08
+ITGB1	Integrin subunit beta 1	0.16	0.15
+OSMR	Oncostatin M receptor	0.16	0.1
+COL18A1	Collagen type XVIII alpha 1 chain	0.16	0.12
+NTRK2	Neurotrophic receptor tyrosine kinase 2	0.16	0.1
+TIE1	Tyrosine kinase with immunoglobulin like and EGF like domains 1	0.15	0.09
+TNXB	Tenascin XB	0.15	0.11
+CANT1	Calcium activated nucleotidase 1	0.15	0.11
+GPNMB	Glycoprotein nmb	0.14	0.07
+ENG	Endoglin	0.14	0.11
+PTPRS	"Protein tyrosine phosphatase, receptor type S"	0.14	0.1
+SMAD5	SMAD family member 5	0.14	0.09
+PRELP	Proline and arginine rich end leucine rich repeat protein	0.14	0.09
+AMBP	Alpha-1-microglobulin/bikunin precursor	0.13	0.08
+SPON2	Spondin 2	0.13	0.09
+ADAMTS13	ADAM metallopeptidase with thrombospondin type 1 motif 13	0.13	0.09
+PIGR	Polymeric immunoglobulin receptor	0.12	0.06
+CEACAM1	Carcinoembryonic antigen related cell adhesion molecule 1	0.11	0.07
+NOTCH1	Notch 1	0.1	0.1

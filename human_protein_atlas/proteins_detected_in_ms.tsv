@@ -1,0 +1,3223 @@
+Gene	Gene description	Concentration
+CP	Ceruloplasmin	830 mg/L
+GSN	Gelsolin	510 mg/L
+RBP4	Retinol binding protein 4	420 mg/L
+C3	Complement C3	250 mg/L
+HPX	Hemopexin	230 mg/L
+APOA1	Apolipoprotein A1	220 mg/L
+A2M	Alpha-2-macroglobulin	220 mg/L
+APOD	Apolipoprotein D	220 mg/L
+SERPINC1	Serpin family C member 1	210 mg/L
+APOA2	Apolipoprotein A2	210 mg/L
+SERPINA1	Serpin family A member 1	210 mg/L
+TTR	Transthyretin	180 mg/L
+CFB	Complement factor B	180 mg/L
+FGA	Fibrinogen alpha chain	170 mg/L
+AZGP1	"Alpha-2-glycoprotein 1, zinc-binding"	160 mg/L
+PGLYRP2	Peptidoglycan recognition protein 2	160 mg/L
+APOA4	Apolipoprotein A4	140 mg/L
+AHSG	Alpha 2-HS glycoprotein	140 mg/L
+HP	Haptoglobin	140 mg/L
+TF	Transferrin	120 mg/L
+FGB	Fibrinogen beta chain	120 mg/L
+ORM1	Orosomucoid 1	120 mg/L
+IGLL5	Immunoglobulin lambda like polypeptide 5	120 mg/L
+CFH	Complement factor H	110 mg/L
+AGT	Angiotensinogen	110 mg/L
+SERPINF2	Serpin family F member 2	110 mg/L
+APOC2	Apolipoprotein C2	110 mg/L
+IGLL1	Immunoglobulin lambda like polypeptide 1	100 mg/L
+C4A	Complement C4A (Rodgers blood group)	98 mg/L
+APOC3	Apolipoprotein C3	97 mg/L
+C9	Complement C9	97 mg/L
+C4B	Complement C4B (Chido blood group)	97 mg/L
+SERPINA3	Serpin family A member 3	95 mg/L
+SERPIND1	Serpin family D member 1	94 mg/L
+APOB	Apolipoprotein B	89 mg/L
+SERPINF1	Serpin family F member 1	85 mg/L
+HPR	Haptoglobin-related protein	77 mg/L
+APCS	"Amyloid P component, serum"	76 mg/L
+LRG1	Leucine rich alpha-2-glycoprotein 1	74 mg/L
+SAA4	"Serum amyloid A4, constitutive"	72 mg/L
+AMBP	Alpha-1-microglobulin/bikunin precursor	71 mg/L
+GC	"GC, vitamin D binding protein"	69 mg/L
+FGG	Fibrinogen gamma chain	68 mg/L
+C7	Complement C7	67 mg/L
+KRT1	Keratin 1	65 mg/L
+KNG1	Kininogen 1	64 mg/L
+APOE	Apolipoprotein E	63 mg/L
+ORM2	Orosomucoid 2	61 mg/L
+LUM	Lumican	59 mg/L
+SERPINA6	Serpin family A member 6	59 mg/L
+ITIH4	Inter-alpha-trypsin inhibitor heavy chain family member 4	53 mg/L
+C2	Complement C2	52 mg/L
+A1BG	Alpha-1-B glycoprotein	49 mg/L
+SERPINA7	Serpin family A member 7	49 mg/L
+FN1	Fibronectin 1	47 mg/L
+C5	Complement C5	46 mg/L
+CLEC3B	C-type lectin domain family 3 member B	46 mg/L
+APOH	Apolipoprotein H	44 mg/L
+IGFALS	Insulin like growth factor binding protein acid labile subunit	44 mg/L
+F2	"Coagulation factor II, thrombin"	43 mg/L
+KRT9	Keratin 9	42 mg/L
+CPN2	Carboxypeptidase N subunit 2	42 mg/L
+PLG	Plasminogen	41 mg/L
+ATRN	Attractin	39 mg/L
+SERPING1	Serpin family G member 1	38 mg/L
+CLU	Clusterin	36 mg/L
+FBLN1	Fibulin 1	34 mg/L
+C4BPA	Complement component 4 binding protein alpha	34 mg/L
+KRT10	Keratin 10	34 mg/L
+FCN3	Ficolin 3	33 mg/L
+VTN	Vitronectin	32 mg/L
+ITIH1	Inter-alpha-trypsin inhibitor heavy chain 1	31 mg/L
+HRG	Histidine rich glycoprotein	30 mg/L
+PRSS2	Serine protease 2	27 mg/L
+APOC1	Apolipoprotein C1	26 mg/L
+PRSS1	Serine protease 1	26 mg/L
+PON1	Paraoxonase 1	24 mg/L
+SERPINA4	Serpin family A member 4	22 mg/L
+CPN1	Carboxypeptidase N subunit 1	22 mg/L
+ITIH2	Inter-alpha-trypsin inhibitor heavy chain 2	22 mg/L
+SAA1	Serum amyloid A1	22 mg/L
+C1RL	Complement C1r subcomponent like	20 mg/L
+APOL1	Apolipoprotein L1	19 mg/L
+APOM	Apolipoprotein M	18 mg/L
+HBA2	Hemoglobin subunit alpha 2	17 mg/L
+HBA1	Hemoglobin subunit alpha 1	17 mg/L
+F10	Coagulation factor X	16 mg/L
+SHBG	Sex hormone binding globulin	15 mg/L
+CD14	CD14 molecule	15 mg/L
+CFHR1	Complement factor H related 1	15 mg/L
+HBB	Hemoglobin subunit beta	15 mg/L
+CPB2	Carboxypeptidase B2	14 mg/L
+C1R	Complement C1r	14 mg/L
+KRT2	Keratin 2	14 mg/L
+BCHE	Butyrylcholinesterase	13 mg/L
+PZP	"PZP, alpha-2-macroglobulin like"	13 mg/L
+C1S	Complement C1s	13 mg/L
+F5	Coagulation factor V	13 mg/L
+ECM1	Extracellular matrix protein 1	12 mg/L
+F9	Coagulation factor IX	11 mg/L
+LGALS3BP	Galectin 3 binding protein	11 mg/L
+HGFAC	HGF activator	11 mg/L
+SAA2	Serum amyloid A2	11 mg/L
+CFI	Complement factor I	11 mg/L
+HBD	Hemoglobin subunit delta	11 mg/L
+GPX3	Glutathione peroxidase 3	10 mg/L
+LCAT	Lecithin-cholesterol acyltransferase	9.5 mg/L
+CFP	Complement factor properdin	8.5 mg/L
+SELL	Selectin L	8.1 mg/L
+CFD	Complement factor D	8.0 mg/L
+CA1	Carbonic anhydrase 1	7.8 mg/L
+C6	Complement C6	7.6 mg/L
+KRT6A	Keratin 6A	7.2 mg/L
+CHL1	Cell adhesion molecule L1 like	6.9 mg/L
+CD5L	CD5 molecule like	6.8 mg/L
+F12	Coagulation factor XII	6.6 mg/L
+KRT5	Keratin 5	6.5 mg/L
+VWF	Von Willebrand factor	6.4 mg/L
+PROC	"Protein C, inactivator of coagulation factors Va and VIIIa"	6.4 mg/L
+ACTC1	"Actin, alpha, cardiac muscle 1"	6.2 mg/L
+ACTA1	"Actin, alpha 1, skeletal muscle"	6.1 mg/L
+SERPINA10	Serpin family A member 10	5.9 mg/L
+CFHR2	Complement factor H related 2	5.7 mg/L
+IGFBP3	Insulin like growth factor binding protein 3	5.6 mg/L
+CRP	C-reactive protein	5.4 mg/L
+AFM	Afamin	5.0 mg/L
+KLKB1	Kallikrein B1	4.9 mg/L
+C1QB	Complement C1q B chain	4.7 mg/L
+FETUB	Fetuin B	4.5 mg/L
+ITIH3	Inter-alpha-trypsin inhibitor heavy chain 3	4.5 mg/L
+F11	Coagulation factor XI	4.4 mg/L
+PTGDS	Prostaglandin D2 synthase	4.3 mg/L
+PRG4	Proteoglycan 4	4.3 mg/L
+JCHAIN	Joining chain of multimeric IgA and IgM	4.2 mg/L
+CST3	Cystatin C	4.1 mg/L
+APOF	Apolipoprotein F	4.0 mg/L
+CFHR3	Complement factor H related 3	3.8 mg/L
+GPLD1	Glycosylphosphatidylinositol specific phospholipase D1	3.7 mg/L
+C8B	Complement C8 beta chain	3.6 mg/L
+TLN1	Talin 1	3.6 mg/L
+PI16	Peptidase inhibitor 16	3.6 mg/L
+PPBP	Pro-platelet basic protein	3.5 mg/L
+F13B	Coagulation factor XIII B chain	3.4 mg/L
+C8A	Complement C8 alpha chain	3.4 mg/L
+PROS1	Protein S	3.4 mg/L
+QSOX1	Quiescin sulfhydryl oxidase 1	3.2 mg/L
+HABP2	Hyaluronan binding protein 2	3.2 mg/L
+B2M	Beta-2-microglobulin	3.2 mg/L
+ICAM1	Intercellular adhesion molecule 1	3.1 mg/L
+MYH9	Myosin heavy chain 9	3.1 mg/L
+LYVE1	Lymphatic vessel endothelial hyaluronan receptor 1	3.0 mg/L
+BTD	Biotinidase	2.9 mg/L
+FLNA	Filamin A	2.9 mg/L
+LPA	Lipoprotein(a)	2.9 mg/L
+NCAM1	Neural cell adhesion molecule 1	2.8 mg/L
+MCAM	Melanoma cell adhesion molecule	2.6 mg/L
+LYZ	Lysozyme	2.6 mg/L
+ACTBL2	"Actin, beta like 2"	2.6 mg/L
+FCGR3A	Fc fragment of IgG receptor IIIa	2.5 mg/L
+CD44	CD44 molecule (Indian blood group)	2.4 mg/L
+VASN	Vasorin	2.4 mg/L
+SERPINA5	Serpin family A member 5	2.3 mg/L
+SELENOP	Selenoprotein P	2.3 mg/L
+GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	2.2 mg/L
+LCP1	Lymphocyte cytosolic protein 1	2.2 mg/L
+KRT75	Keratin 75	2.2 mg/L
+KRT16	Keratin 16	2.2 mg/L
+KRT14	Keratin 14	2.2 mg/L
+KRT77	Keratin 77	2.1 mg/L
+DBH	Dopamine beta-hydroxylase	2.0 mg/L
+GP1BA	Glycoprotein Ib platelet alpha subunit	2.0 mg/L
+CNDP1	Carnosine dipeptidase 1	1.9 mg/L
+PIGR	Polymeric immunoglobulin receptor	1.9 mg/L
+VCL	Vinculin	1.8 mg/L
+EFEMP1	EGF containing fibulin extracellular matrix protein 1	1.8 mg/L
+MASP1	Mannan binding lectin serine peptidase 1	1.8 mg/L
+FCN2	Ficolin 2	1.8 mg/L
+ALCAM	Activated leukocyte cell adhesion molecule	1.8 mg/L
+CFHR5	Complement factor H related 5	1.7 mg/L
+HSPG2	Heparan sulfate proteoglycan 2	1.7 mg/L
+MBL2	Mannose binding lectin 2	1.7 mg/L
+IGF2	Insulin like growth factor 2	1.7 mg/L
+POTEJ	POTE ankyrin domain family member J	1.7 mg/L
+PROCR	Protein C receptor	1.6 mg/L
+THBS1	Thrombospondin 1	1.6 mg/L
+CD163	CD163 molecule	1.6 mg/L
+F7	Coagulation factor VII	1.5 mg/L
+RNASE1	"Ribonuclease A family member 1, pancreatic"	1.5 mg/L
+ANPEP	"Alanyl aminopeptidase, membrane"	1.5 mg/L
+C8G	Complement C8 gamma chain	1.5 mg/L
+CSF1R	Colony stimulating factor 1 receptor	1.5 mg/L
+APOC4	Apolipoprotein C4	1.5 mg/L
+PF4V1	Platelet factor 4 variant 1	1.4 mg/L
+TGFBI	Transforming growth factor beta induced	1.4 mg/L
+F13A1	Coagulation factor XIII A chain	1.4 mg/L
+GGH	Gamma-glutamyl hydrolase	1.4 mg/L
+S100A9	S100 calcium binding protein A9	1.4 mg/L
+PCOLCE	Procollagen C-endopeptidase enhancer	1.3 mg/L
+C4BPB	Complement component 4 binding protein beta	1.3 mg/L
+C1QC	Complement C1q C chain	1.3 mg/L
+ICAM2	Intercellular adhesion molecule 2	1.2 mg/L
+ALDOA	"Aldolase, fructose-bisphosphate A"	1.2 mg/L
+ALDOA	"Aldolase, fructose-bisphosphate A"	1.2 mg/L
+ITGA2B	Integrin subunit alpha 2b	1.1 mg/L
+COMP	Cartilage oligomeric matrix protein	1.1 mg/L
+PFN1	Profilin 1	1.1 mg/L
+VNN1	Vanin 1	1.1 mg/L
+ENPP2	Ectonucleotide pyrophosphatase/phosphodiesterase 2	1.1 mg/L
+PRDX2	Peroxiredoxin 2	1.1 mg/L
+TNXB	Tenascin XB	1.1 mg/L
+KRT13	Keratin 13	1.1 mg/L
+C1QA	Complement C1q A chain	1.1 mg/L
+HSPA5	Heat shock protein family A (Hsp70) member 5	1.0 mg/L
+IGFBP2	Insulin like growth factor binding protein 2	1.0 mg/L
+PEPD	Peptidase D	1.0 mg/L
+CDH5	Cadherin 5	1.0 mg/L
+ADIPOQ	"Adiponectin, C1Q and collagen domain containing"	1.0 mg/L
+COL6A3	Collagen type VI alpha 3 chain	990 µg/L
+PLEK	Pleckstrin	970 µg/L
+CAT	Catalase	960 µg/L
+VCAM1	Vascular cell adhesion molecule 1	960 µg/L
+TPM4	Tropomyosin 4	950 µg/L
+KRT79	Keratin 79	950 µg/L
+PVR	Poliovirus receptor	940 µg/L
+ALDOB	"Aldolase, fructose-bisphosphate B"	930 µg/L
+KRT8	Keratin 8	920 µg/L
+LBP	Lipopolysaccharide binding protein	910 µg/L
+MASP2	Mannan binding lectin serine peptidase 2	880 µg/L
+LCN2	Lipocalin 2	870 µg/L
+PTPRJ	"Protein tyrosine phosphatase, receptor type J"	840 µg/L
+SOD3	Superoxide dismutase 3	830 µg/L
+SELP	Selectin P	830 µg/L
+LAMP2	Lysosomal associated membrane protein 2	820 µg/L
+CA2	Carbonic anhydrase 2	790 µg/L
+ACTN1	Actinin alpha 1	780 µg/L
+LDHB	Lactate dehydrogenase B	780 µg/L
+TNC	Tenascin C	760 µg/L
+YWHAZ	Tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta	760 µg/L
+TIMP1	TIMP metallopeptidase inhibitor 1	750 µg/L
+KRT17	Keratin 17	750 µg/L
+POSTN	Periostin	740 µg/L
+NRP1	Neuropilin 1	720 µg/L
+ITGB3	Integrin subunit beta 3	710 µg/L
+SPARCL1	SPARC like 1	660 µg/L
+SELE	Selectin E	640 µg/L
+LTF	Lactotransferrin	600 µg/L
+KRT15	Keratin 15	580 µg/L
+ABI3BP	ABI family member 3 binding protein	570 µg/L
+KRT31	Keratin 31	560 µg/L
+PLXDC2	Plexin domain containing 2	560 µg/L
+RARRES2	Retinoic acid receptor responder 2	550 µg/L
+PKM	Pyruvate kinase M1/2	540 µg/L
+SPP2	Secreted phosphoprotein 2	540 µg/L
+CTSD	Cathepsin D	540 µg/L
+ITGB1	Integrin subunit beta 1	540 µg/L
+TAGLN2	Transgelin 2	540 µg/L
+FBN1	Fibrillin 1	540 µg/L
+KRT4	Keratin 4	540 µg/L
+S100A8	S100 calcium binding protein A8	530 µg/L
+PTPRG	"Protein tyrosine phosphatase, receptor type G"	520 µg/L
+PROZ	"Protein Z, vitamin K dependent plasma glycoprotein"	510 µg/L
+TUBB	Tubulin beta class I	510 µg/L
+TUBA4A	Tubulin alpha 4a	500 µg/L
+IGFBP4	Insulin like growth factor binding protein 4	500 µg/L
+PRSS3	Serine protease 3	490 µg/L
+CNTN1	Contactin 1	490 µg/L
+ENO1	Enolase 1	490 µg/L
+TUBB1	Tubulin beta 1 class VI	480 µg/L
+PCYOX1	Prenylcysteine oxidase 1	480 µg/L
+CFL1	Cofilin 1	470 µg/L
+KRT33B	Keratin 33B	460 µg/L
+LAMP1	Lysosomal associated membrane protein 1	460 µg/L
+SERPINA11	Serpin family A member 11	460 µg/L
+FERMT3	Fermitin family member 3	450 µg/L
+CALR	Calreticulin	450 µg/L
+BLVRB	Biliverdin reductase B	440 µg/L
+CD93	CD93 molecule	440 µg/L
+KRT76	Keratin 76	430 µg/L
+GNPTG	N-acetylglucosamine-1-phosphate transferase gamma subunit	420 µg/L
+THBS4	Thrombospondin 4	420 µg/L
+ZYX	Zyxin	420 µg/L
+PPIA	Peptidylprolyl isomerase A	420 µg/L
+IGF1	Insulin like growth factor 1	410 µg/L
+TPM3	Tropomyosin 3	410 µg/L
+HSP90B1	Heat shock protein 90 beta family member 1	410 µg/L
+GP5	Glycoprotein V platelet	400 µg/L
+TMSB4X	"Thymosin beta 4, X-linked"	400 µg/L
+CRISP3	Cysteine rich secretory protein 3	390 µg/L
+MAN1A1	Mannosidase alpha class 1A member 1	390 µg/L
+PDIA3	Protein disulfide isomerase family A member 3	390 µg/L
+NEGR1	Neuronal growth regulator 1	390 µg/L
+CETP	Cholesteryl ester transfer protein	380 µg/L
+CTBS	Chitobiase	380 µg/L
+ICAM3	Intercellular adhesion molecule 3	370 µg/L
+MEGF8	Multiple EGF like domains 8	370 µg/L
+DCD	Dermcidin	370 µg/L
+CRTAC1	Cartilage acidic protein 1	360 µg/L
+TUBB4A	Tubulin beta 4A class IVa	360 µg/L
+HEG1	Heart development protein with EGF like domains 1	360 µg/L
+PON3	Paraoxonase 3	350 µg/L
+PON2	Paraoxonase 2	350 µg/L
+KRT7	Keratin 7	350 µg/L
+KRT3	Keratin 3	350 µg/L
+MSN	Moesin	340 µg/L
+ROBO4	Roundabout guidance receptor 4	340 µg/L
+IGFBP5	Insulin like growth factor binding protein 5	330 µg/L
+PRAP1	Proline rich acidic protein 1	330 µg/L
+KRT19	Keratin 19	330 µg/L
+MINPP1	Multiple inositol-polyphosphate phosphatase 1	320 µg/L
+IGFBP6	Insulin like growth factor binding protein 6	320 µg/L
+CACNA2D1	Calcium voltage-gated channel auxiliary subunit alpha2delta 1	310 µg/L
+CD55	CD55 molecule (Cromer blood group)	310 µg/L
+NAGLU	N-acetyl-alpha-glucosaminidase	300 µg/L
+LDHA	Lactate dehydrogenase A	300 µg/L
+MMRN1	Multimerin 1	300 µg/L
+PCSK9	Proprotein convertase subtilisin/kexin type 9	300 µg/L
+RNASE2	Ribonuclease A family member 2	300 µg/L
+PGK1	Phosphoglycerate kinase 1	290 µg/L
+KRT80	Keratin 80	290 µg/L
+TPM2	Tropomyosin 2	290 µg/L
+NEO1	Neogenin 1	280 µg/L
+WDR1	WD repeat domain 1	280 µg/L
+ALDOC	"Aldolase, fructose-bisphosphate C"	280 µg/L
+TPM1	Tropomyosin 1	280 µg/L
+FLT4	Fms related tyrosine kinase 4	270 µg/L
+TPI1	Triosephosphate isomerase 1	270 µg/L
+CAP1	Cyclase associated actin cytoskeleton regulatory protein 1	270 µg/L
+KRT35	Keratin 35	270 µg/L
+ENG	Endoglin	260 µg/L
+DPEP2	Dipeptidase 2	260 µg/L
+TUBA8	Tubulin alpha 8	260 µg/L
+IL1RAP	Interleukin 1 receptor accessory protein	260 µg/L
+COL6A1	Collagen type VI alpha 1 chain	250 µg/L
+COL18A1	Collagen type XVIII alpha 1 chain	250 µg/L
+TUBB3	Tubulin beta 3 class III	250 µg/L
+FTL	Ferritin light chain	240 µg/L
+AOC3	"Amine oxidase, copper containing 3"	240 µg/L
+RPL8	Ribosomal protein L8	240 µg/L
+IGFBP7	Insulin like growth factor binding protein 7	240 µg/L
+KRT86	Keratin 86	240 µg/L
+FAH	Fumarylacetoacetate hydrolase	230 µg/L
+KRT32	Keratin 32	230 µg/L
+ACTN4	Actinin alpha 4	230 µg/L
+CHI3L1	Chitinase 3 like 1	230 µg/L
+CDH13	Cadherin 13	230 µg/L
+MELTF	Melanotransferrin	230 µg/L
+ANG	Angiogenin	230 µg/L
+GFAP	Glial fibrillary acidic protein	220 µg/L
+KRT81	Keratin 81	220 µg/L
+PDLIM1	PDZ and LIM domain 1	210 µg/L
+HSPA8	Heat shock protein family A (Hsp70) member 8	210 µg/L
+RSU1	Ras suppressor protein 1	210 µg/L
+YWHAB	Tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein beta	210 µg/L
+SLC3A2	Solute carrier family 3 member 2	210 µg/L
+HRNR	Hornerin	210 µg/L
+LTBP1	Latent transforming growth factor beta binding protein 1	200 µg/L
+PLTP	Phospholipid transfer protein	200 µg/L
+PEBP4	Phosphatidylethanolamine binding protein 4	200 µg/L
+GSTO1	Glutathione S-transferase omega 1	200 µg/L
+PGAM1	Phosphoglycerate mutase 1	200 µg/L
+CORO1B	Coronin 1B	200 µg/L
+CADM1	Cell adhesion molecule 1	200 µg/L
+LSAMP	Limbic system-associated membrane protein	200 µg/L
+CKM	"Creatine kinase, M-type"	190 µg/L
+OGN	Osteoglycin	190 µg/L
+SPARC	Secreted protein acidic and cysteine rich	190 µg/L
+TKT	Transketolase	190 µg/L
+CYCS	"Cytochrome c, somatic"	190 µg/L
+MB	Myoglobin	190 µg/L
+CEACAM1	Carcinoembryonic antigen related cell adhesion molecule 1	180 µg/L
+PRDX6	Peroxiredoxin 6	180 µg/L
+CFHR4	Complement factor H related 4	180 µg/L
+KRT71	Keratin 71	180 µg/L
+CDHR5	Cadherin related family member 5	170 µg/L
+BST1	Bone marrow stromal cell antigen 1	170 µg/L
+KRT34	Keratin 34	170 µg/L
+PLA2G7	Phospholipase A2 group VII	170 µg/L
+KRT83	Keratin 83	170 µg/L
+KRT38	Keratin 38	170 µg/L
+DPP4	Dipeptidyl peptidase 4	170 µg/L
+SIRPA	Signal regulatory protein alpha	170 µg/L
+SLC4A1	Solute carrier family 4 member 1 (Diego blood group)	160 µg/L
+KRT33A	Keratin 33A	160 µg/L
+MMP2	Matrix metallopeptidase 2	160 µg/L
+MYL6	Myosin light chain 6	160 µg/L
+YWHAE	Tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon	160 µg/L
+HBZ	Hemoglobin subunit zeta	160 µg/L
+KRT85	Keratin 85	160 µg/L
+SVEP1	"Sushi, von Willebrand factor type A, EGF and pentraxin domain containing 1"	160 µg/L
+CAVIN2	Caveolae associated protein 2	160 µg/L
+YWHAG	Tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma	160 µg/L
+CDH2	Cadherin 2	160 µg/L
+FAM20C	"FAM20C, golgi associated secretory pathway kinase"	160 µg/L
+ITLN1	Intelectin 1	160 µg/L
+RAP1A	"RAP1A, member of RAS oncogene family"	150 µg/L
+CR2	Complement C3d receptor 2	150 µg/L
+KRT36	Keratin 36	150 µg/L
+OIT3	Oncoprotein induced transcript 3	150 µg/L
+ICOSLG	Inducible T cell costimulator ligand	150 µg/L
+TUBB6	Tubulin beta 6 class V	150 µg/L
+IGF2R	Insulin like growth factor 2 receptor	150 µg/L
+LAMB1	Laminin subunit beta 1	140 µg/L
+GPI	Glucose-6-phosphate isomerase	140 µg/L
+KRT18	Keratin 18	140 µg/L
+DSG1	Desmoglein 1	140 µg/L
+STOM	Stomatin	140 µg/L
+HYOU1	Hypoxia up-regulated 1	140 µg/L
+MFAP4	Microfibril associated protein 4	140 µg/L
+P4HB	Prolyl 4-hydroxylase subunit beta	140 µg/L
+SOD2	Superoxide dismutase 2	140 µg/L
+CORO1A	Coronin 1A	130 µg/L
+GOT1	Glutamic-oxaloacetic transaminase 1	130 µg/L
+YWHAH	Tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta	130 µg/L
+OLFM1	Olfactomedin 1	130 µg/L
+MYH10	Myosin heavy chain 10	130 µg/L
+MYH11	Myosin heavy chain 11	130 µg/L
+CTSB	Cathepsin B	130 µg/L
+ILK	Integrin linked kinase	130 µg/L
+LIMS1	LIM zinc finger domain containing 1	130 µg/L
+PRG2	"Proteoglycan 2, pro eosinophil major basic protein"	130 µg/L
+LILRA2	Leukocyte immunoglobulin like receptor A2	130 µg/L
+MRC1	Mannose receptor C-type 1	130 µg/L
+FGFR1	Fibroblast growth factor receptor 1	120 µg/L
+GSTP1	Glutathione S-transferase pi 1	120 µg/L
+ARHGDIB	Rho GDP dissociation inhibitor beta	120 µg/L
+YWHAQ	Tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein theta	120 µg/L
+CD109	CD109 molecule	120 µg/L
+PPIB	Peptidylprolyl isomerase B	120 µg/L
+DSP	Desmoplakin	110 µg/L
+PLS3	Plastin 3	110 µg/L
+GSR	Glutathione-disulfide reductase	110 µg/L
+PRDX1	Peroxiredoxin 1	110 µg/L
+CALD1	Caldesmon 1	110 µg/L
+VASP	Vasodilator stimulated phosphoprotein	110 µg/L
+ISLR	Immunoglobulin superfamily containing leucine rich repeat	110 µg/L
+VCP	Valosin containing protein	110 µg/L
+LMAN2	"Lectin, mannose binding 2"	110 µg/L
+CST6	Cystatin E/M	110 µg/L
+TMEM132C	Transmembrane protein 132C	110 µg/L
+GP1BB	Glycoprotein Ib platelet beta subunit	110 µg/L
+ATP2A3	ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 3	100 µg/L
+ENO3	Enolase 3	100 µg/L
+ATP5F1B	ATP synthase F1 subunit beta	100 µg/L
+ACTR3	ARP3 actin related protein 3 homolog	100 µg/L
+IL6ST	Interleukin 6 signal transducer	100 µg/L
+BUB3	"BUB3, mitotic checkpoint protein"	100 µg/L
+NCAM2	Neural cell adhesion molecule 2	100 µg/L
+PNP	Purine nucleoside phosphorylase	100 µg/L
+CD59	CD59 molecule (CD59 blood group)	98 µg/L
+B4GALT1	"Beta-1,4-galactosyltransferase 1"	98 µg/L
+NECTIN1	Nectin cell adhesion molecule 1	97 µg/L
+CORO1C	Coronin 1C	96 µg/L
+TFPI	Tissue factor pathway inhibitor	95 µg/L
+PTPRF	"Protein tyrosine phosphatase, receptor type F"	95 µg/L
+DSG2	Desmoglein 2	94 µg/L
+HSP90AA1	Heat shock protein 90 alpha family class A member 1	94 µg/L
+TREML1	Triggering receptor expressed on myeloid cells like 1	94 µg/L
+EGFR	Epidermal growth factor receptor	93 µg/L
+MYL9	Myosin light chain 9	92 µg/L
+PTPRS	"Protein tyrosine phosphatase, receptor type S"	92 µg/L
+CD36	CD36 molecule	92 µg/L
+ACE	Angiotensin I converting enzyme	92 µg/L
+GRN	Granulin precursor	91 µg/L
+H6PD	Hexose-6-phosphate dehydrogenase/glucose 1-dehydrogenase	91 µg/L
+SOD1	Superoxide dismutase 1	91 µg/L
+NID1	Nidogen 1	90 µg/L
+LAMC1	Laminin subunit gamma 1	90 µg/L
+C1orf56	Chromosome 1 open reading frame 56	90 µg/L
+CFL2	Cofilin 2	90 µg/L
+PARVB	Parvin beta	90 µg/L
+GDI2	GDP dissociation inhibitor 2	89 µg/L
+ENO2	Enolase 2	89 µg/L
+CNTN4	Contactin 4	89 µg/L
+PIP	Prolactin induced protein	89 µg/L
+MOGS	Mannosyl-oligosaccharide glucosidase	88 µg/L
+LRP1	LDL receptor related protein 1	88 µg/L
+MMRN2	Multimerin 2	86 µg/L
+PSAP	Prosaposin	86 µg/L
+CTSZ	Cathepsin Z	85 µg/L
+LTA4H	Leukotriene A4 hydrolase	85 µg/L
+BASP1	Brain abundant membrane attached signal protein 1	85 µg/L
+TIMP2	TIMP metallopeptidase inhibitor 2	83 µg/L
+EXTL2	Exostosin like glycosyltransferase 2	83 µg/L
+UMOD	Uromodulin	83 µg/L
+CANX	Calnexin	82 µg/L
+TLN2	Talin 2	81 µg/L
+APMAP	Adipocyte plasma membrane associated protein	80 µg/L
+PSMA2	Proteasome subunit alpha 2	80 µg/L
+CEACAM6	Carcinoembryonic antigen related cell adhesion molecule 6	79 µg/L
+KRT84	Keratin 84	79 µg/L
+CHGA	Chromogranin A	78 µg/L
+CLIC1	Chloride intracellular channel 1	78 µg/L
+HSPA2	Heat shock protein family A (Hsp70) member 2	77 µg/L
+ANXA1	Annexin A1	77 µg/L
+RDX	Radixin	77 µg/L
+HSPA1A	Heat shock protein family A (Hsp70) member 1A	77 µg/L
+AMY2A	"Amylase, alpha 2A (pancreatic)"	77 µg/L
+ACTR2	ARP2 actin related protein 2 homolog	76 µg/L
+PTPRM	"Protein tyrosine phosphatase, receptor type M"	76 µg/L
+TIE1	Tyrosine kinase with immunoglobulin like and EGF like domains 1	75 µg/L
+EZR	Ezrin	75 µg/L
+CALML5	Calmodulin like 5	75 µg/L
+AMY2B	"Amylase, alpha 2B (pancreatic)"	75 µg/L
+ADAMTSL1	ADAMTS like 1	74 µg/L
+SH3BGRL3	SH3 domain binding glutamate rich protein like 3	73 µg/L
+OSCAR	"Osteoclast associated, immunoglobulin-like receptor"	72 µg/L
+SFTPB	Surfactant protein B	71 µg/L
+KRT78	Keratin 78	71 µg/L
+NRCAM	Neuronal cell adhesion molecule	70 µg/L
+MYL12A	Myosin light chain 12A	70 µg/L
+MET	"MET proto-oncogene, receptor tyrosine kinase"	70 µg/L
+ADGRG6	Adhesion G protein-coupled receptor G6	70 µg/L
+MAN2A1	Mannosidase alpha class 2A member 1	70 µg/L
+GOLM1	Golgi membrane protein 1	70 µg/L
+CLSTN1	Calsyntenin 1	70 µg/L
+DAG1	Dystroglycan 1	70 µg/L
+GDI1	GDP dissociation inhibitor 1	70 µg/L
+ACTN2	Actinin alpha 2	69 µg/L
+PARK7	Parkinsonism associated deglycase	69 µg/L
+BPGM	Bisphosphoglycerate mutase	69 µg/L
+CD34	CD34 molecule	69 µg/L
+CD9	CD9 molecule	68 µg/L
+GP9	Glycoprotein IX platelet	68 µg/L
+AMY1B	"Amylase, alpha 1B (salivary)"	68 µg/L
+AMY1C	"Amylase, alpha 1C (salivary)"	68 µg/L
+AKR1B10	Aldo-keto reductase family 1 member B10	68 µg/L
+AMY1A	"Amylase, alpha 1A (salivary)"	68 µg/L
+CYB5R3	Cytochrome b5 reductase 3	67 µg/L
+NOTCH2	Notch 2	67 µg/L
+ADAMTSL2	ADAMTS like 2	67 µg/L
+RHOA	Ras homolog family member A	65 µg/L
+FUCA1	Alpha-L-fucosidase 1	65 µg/L
+OAF	Out at first homolog	65 µg/L
+ESAM	Endothelial cell adhesion molecule	64 µg/L
+MDH1	Malate dehydrogenase 1	63 µg/L
+FCN1	Ficolin 1	63 µg/L
+NPC2	NPC intracellular cholesterol transporter 2	63 µg/L
+PEBP1	Phosphatidylethanolamine binding protein 1	62 µg/L
+HSP90AB1	Heat shock protein 90 alpha family class B member 1	62 µg/L
+PRKCSH	Protein kinase C substrate 80K-H	62 µg/L
+ALDH1A1	Aldehyde dehydrogenase 1 family member A1	62 µg/L
+KRTDAP	Keratinocyte differentiation associated protein	62 µg/L
+SBSN	Suprabasin	62 µg/L
+REG1A	Regenerating family member 1 alpha	61 µg/L
+AXL	AXL receptor tyrosine kinase	61 µg/L
+JUP	Junction plakoglobin	61 µg/L
+STAB1	Stabilin 1	60 µg/L
+GNB1	G protein subunit beta 1	60 µg/L
+PGAM2	Phosphoglycerate mutase 2	60 µg/L
+MYH14	Myosin heavy chain 14	59 µg/L
+BLMH	Bleomycin hydrolase	59 µg/L
+PGD	Phosphogluconate dehydrogenase	59 µg/L
+PAM	Peptidylglycine alpha-amidating monooxygenase	59 µg/L
+RELN	Reelin	59 µg/L
+FAM3C	Family with sequence similarity 3 member C	59 µg/L
+L1CAM	L1 cell adhesion molecule	59 µg/L
+PLXND1	Plexin D1	58 µg/L
+COL1A1	Collagen type I alpha 1 chain	58 µg/L
+CHIT1	Chitinase 1	58 µg/L
+NTM	Neurotrimin	58 µg/L
+MMP9	Matrix metallopeptidase 9	57 µg/L
+HSPB1	Heat shock protein family B (small) member 1	57 µg/L
+MOB4	"MOB family member 4, phocein"	57 µg/L
+SELENBP1	Selenium binding protein 1	57 µg/L
+EEF1A2	Eukaryotic translation elongation factor 1 alpha 2	55 µg/L
+FCGR2A	Fc fragment of IgG receptor IIa	55 µg/L
+PLXNB1	Plexin B1	55 µg/L
+CNTN3	Contactin 3	54 µg/L
+SPP1	Secreted phosphoprotein 1	54 µg/L
+FLNC	Filamin C	54 µg/L
+RHOC	Ras homolog family member C	54 µg/L
+SFN	Stratifin	54 µg/L
+FUCA2	Alpha-L-fucosidase 2	53 µg/L
+STXBP2	Syntaxin binding protein 2	53 µg/L
+GNAI2	G protein subunit alpha i2	53 µg/L
+ARPC1B	Actin related protein 2/3 complex subunit 1B	53 µg/L
+WARS	Tryptophanyl-tRNA synthetase	53 µg/L
+PDIA6	Protein disulfide isomerase family A member 6	53 µg/L
+HSPD1	Heat shock protein family D (Hsp60) member 1	53 µg/L
+IDH2	"Isocitrate dehydrogenase (NADP(+)) 2, mitochondrial"	53 µg/L
+LILRB2	Leukocyte immunoglobulin like receptor B2	52 µg/L
+CPQ	Carboxypeptidase Q	51 µg/L
+CLTC	Clathrin heavy chain	51 µg/L
+ATP5F1A	ATP synthase F1 subunit alpha	51 µg/L
+HEPHL1	Hephaestin like 1	51 µg/L
+PLXNB2	Plexin B2	51 µg/L
+ADA2	Adenosine deaminase 2	50 µg/L
+PLS1	Plastin 1	50 µg/L
+SRGN	Serglycin	50 µg/L
+CAPNS1	Calpain small subunit 1	50 µg/L
+CKB	Creatine kinase B	50 µg/L
+SERPINB1	Serpin family B member 1	49 µg/L
+MYH1	Myosin heavy chain 1	49 µg/L
+ARHGDIA	Rho GDP dissociation inhibitor alpha	49 µg/L
+HSPA1L	Heat shock protein family A (Hsp70) member 1 like	49 µg/L
+MTPN	Myotrophin	48 µg/L
+TXNDC15	Thioredoxin domain containing 15	48 µg/L
+KIT	KIT proto-oncogene receptor tyrosine kinase	48 µg/L
+B4GAT1	"Beta-1,4-glucuronyltransferase 1"	48 µg/L
+PGLYRP1	Peptidoglycan recognition protein 1	47 µg/L
+ADAMTSL4	ADAMTS like 4	47 µg/L
+MDH2	Malate dehydrogenase 2	47 µg/L
+PAPLN	"Papilin, proteoglycan like sulfated glycoprotein"	46 µg/L
+ITGA2	Integrin subunit alpha 2	46 µg/L
+ITGA6	Integrin subunit alpha 6	45 µg/L
+CAPZA1	Capping actin protein of muscle Z-line alpha subunit 1	45 µg/L
+ANGPTL3	Angiopoietin like 3	45 µg/L
+ART3	ADP-ribosyltransferase 3	45 µg/L
+SPTA1	"Spectrin alpha, erythrocytic 1"	45 µg/L
+RAC1	Rac family small GTPase 1	44 µg/L
+ALAD	Aminolevulinate dehydratase	44 µg/L
+SLC38A10	Solute carrier family 38 member 10	44 µg/L
+SSC5D	Scavenger receptor cysteine rich family member with 5 domains	44 µg/L
+HEXB	Hexosaminidase subunit beta	43 µg/L
+SPTB	"Spectrin beta, erythrocytic"	43 µg/L
+PODXL	Podocalyxin like	43 µg/L
+CRHBP	Corticotropin releasing hormone binding protein	43 µg/L
+B3GNT2	"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 2"	43 µg/L
+B3GNT8	"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 8"	43 µg/L
+CDC42	Cell division cycle 42	42 µg/L
+MYH2	Myosin heavy chain 2	42 µg/L
+EHD3	EH domain containing 3	41 µg/L
+MADCAM1	Mucosal vascular addressin cell adhesion molecule 1	41 µg/L
+VIL1	Villin 1	41 µg/L
+GPNMB	Glycoprotein nmb	41 µg/L
+VSIG4	V-set and immunoglobulin domain containing 4	41 µg/L
+F11R	F11 receptor	41 µg/L
+CES1	Carboxylesterase 1	40 µg/L
+CNN2	Calponin 2	39 µg/L
+CSTA	Cystatin A	39 µg/L
+TALDO1	Transaldolase 1	39 µg/L
+SNX2	Sorting nexin 2	39 µg/L
+TGFB1	Transforming growth factor beta 1	38 µg/L
+ARPC3	Actin related protein 2/3 complex subunit 3	38 µg/L
+ADAMTS13	ADAM metallopeptidase with thrombospondin type 1 motif 13	38 µg/L
+ATP2A2	ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 2	38 µg/L
+LAMA2	Laminin subunit alpha 2	38 µg/L
+RAB27B	"RAB27B, member RAS oncogene family"	37 µg/L
+GANAB	Glucosidase II alpha subunit	37 µg/L
+RECK	Reversion inducing cysteine rich protein with kazal motifs	37 µg/L
+FLNB	Filamin B	37 µg/L
+ENPEP	Glutamyl aminopeptidase	37 µg/L
+REG1B	Regenerating family member 1 beta	37 µg/L
+CD84	CD84 molecule	36 µg/L
+LILRB5	Leukocyte immunoglobulin like receptor B5	36 µg/L
+SLC2A1	Solute carrier family 2 member 1	36 µg/L
+CNTFR	Ciliary neurotrophic factor receptor	36 µg/L
+FCRL5	Fc receptor like 5	36 µg/L
+GNB2	G protein subunit beta 2	36 µg/L
+CAPZB	Capping actin protein of muscle Z-line beta subunit	35 µg/L
+CUTA	CutA divalent cation tolerance homolog	35 µg/L
+PDGFRB	Platelet derived growth factor receptor beta	35 µg/L
+AGO2	"Argonaute 2, RISC catalytic component"	35 µg/L
+PEAR1	Platelet endothelial aggregation receptor 1	35 µg/L
+CD99	CD99 molecule (Xg blood group)	34 µg/L
+FAP	Fibroblast activation protein alpha	34 µg/L
+CTTN	Cortactin	34 µg/L
+IGDCC4	Immunoglobulin superfamily DCC subclass member 4	34 µg/L
+RAC2	Rac family small GTPase 2	34 µg/L
+CA6	Carbonic anhydrase 6	34 µg/L
+PRCP	Prolylcarboxypeptidase	34 µg/L
+A2ML1	Alpha-2-macroglobulin like 1	34 µg/L
+KRT20	Keratin 20	34 µg/L
+PDCD1LG2	Programmed cell death 1 ligand 2	34 µg/L
+MYH4	Myosin heavy chain 4	34 µg/L
+ANK1	Ankyrin 1	33 µg/L
+SLC2A3	Solute carrier family 2 member 3	33 µg/L
+SIRPB1	Signal regulatory protein beta 1	33 µg/L
+ATRNL1	Attractin like 1	33 µg/L
+TBXAS1	Thromboxane A synthase 1	32 µg/L
+MEGF9	Multiple EGF like domains 9	32 µg/L
+AK1	Adenylate kinase 1	32 µg/L
+FSTL1	Follistatin like 1	32 µg/L
+FABP1	Fatty acid binding protein 1	32 µg/L
+MYH7	Myosin heavy chain 7	31 µg/L
+CA3	Carbonic anhydrase 3	31 µg/L
+CCDC126	Coiled-coil domain containing 126	31 µg/L
+ATF6B	Activating transcription factor 6 beta	31 µg/L
+COLEC11	Collectin subfamily member 11	30 µg/L
+HIST1H4H	Histone cluster 1 H4 family member h	30 µg/L
+FABP4	Fatty acid binding protein 4	30 µg/L
+MAN2A2	Mannosidase alpha class 2A member 2	30 µg/L
+HIST1H4C	Histone cluster 1 H4 family member c	30 µg/L
+HIST1H4J	Histone cluster 1 H4 family member j	30 µg/L
+HIST4H4	Histone cluster 4 H4	30 µg/L
+HIST2H4B	Histone cluster 2 H4 family member b	30 µg/L
+HIST2H4A	Histone cluster 2 H4 family member a	30 µg/L
+HIST1H4K	Histone cluster 1 H4 family member k	30 µg/L
+HIST1H4F	Histone cluster 1 H4 family member f	30 µg/L
+HIST1H4L	Histone cluster 1 H4 family member l	30 µg/L
+HIST1H4I	Histone cluster 1 H4 family member i	30 µg/L
+HIST1H4E	Histone cluster 1 H4 family member e	30 µg/L
+HIST1H4D	Histone cluster 1 H4 family member d	30 µg/L
+HIST1H4A	Histone cluster 1 H4 family member a	30 µg/L
+HIST1H4B	Histone cluster 1 H4 family member b	30 µg/L
+TGFBR3	Transforming growth factor beta receptor 3	29 µg/L
+SEMA7A	Semaphorin 7A (John Milton Hagen blood group)	29 µg/L
+MERTK	"MER proto-oncogene, tyrosine kinase"	29 µg/L
+DMKN	Dermokine	29 µg/L
+ACTN3	Actinin alpha 3 (gene/pseudogene)	29 µg/L
+MRC2	Mannose receptor C type 2	28 µg/L
+CAPN1	Calpain 1	28 µg/L
+AGA	Aspartylglucosaminidase	28 µg/L
+GP6	Glycoprotein VI platelet	28 µg/L
+COTL1	Coactosin like F-actin binding protein 1	28 µg/L
+MANSC1	MANSC domain containing 1	28 µg/L
+SPINK5	"Serine peptidase inhibitor, Kazal type 5"	28 µg/L
+GNAQ	G protein subunit alpha q	28 µg/L
+FBLN2	Fibulin 2	28 µg/L
+FABP5	Fatty acid binding protein 5	28 µg/L
+CSPG4	Chondroitin sulfate proteoglycan 4	28 µg/L
+NME1	NME/NM23 nucleoside diphosphate kinase 1	28 µg/L
+ACY1	Aminoacylase 1	28 µg/L
+HMBS	Hydroxymethylbilane synthase	28 µg/L
+PSMB3	Proteasome subunit beta 3	28 µg/L
+RNH1	Ribonuclease/angiogenin inhibitor 1	27 µg/L
+C1QTNF3	C1q and TNF related 3	27 µg/L
+PPIF	Peptidylprolyl isomerase F	27 µg/L
+PSMA1	Proteasome subunit alpha 1	27 µg/L
+MEGF10	Multiple EGF like domains 10	27 µg/L
+CD226	CD226 molecule	27 µg/L
+ERAP1	Endoplasmic reticulum aminopeptidase 1	27 µg/L
+CD248	CD248 molecule	27 µg/L
+CR1	Complement C3b/C4b receptor 1 (Knops blood group)	27 µg/L
+HLA-F	"Major histocompatibility complex, class I, F"	27 µg/L
+RNASE4	Ribonuclease A family member 4	27 µg/L
+SPON1	Spondin 1	27 µg/L
+LASP1	LIM and SH3 protein 1	26 µg/L
+PSMA7	Proteasome subunit alpha 7	26 µg/L
+ATF6	Activating transcription factor 6	26 µg/L
+SECTM1	Secreted and transmembrane 1	26 µg/L
+GLUD1	Glutamate dehydrogenase 1	26 µg/L
+GKN1	Gastrokine 1	26 µg/L
+LEP	Leptin	26 µg/L
+RAB1B	"RAB1B, member RAS oncogene family"	26 µg/L
+GUCA2A	Guanylate cyclase activator 2A	26 µg/L
+PTGS1	Prostaglandin-endoperoxide synthase 1	25 µg/L
+PRR4	Proline rich 4 (lacrimal)	25 µg/L
+TXN	Thioredoxin	25 µg/L
+TTN	Titin	25 µg/L
+CSRP1	Cysteine and glycine rich protein 1	25 µg/L
+RTN4RL2	Reticulon 4 receptor like 2	25 µg/L
+NAP1L1	Nucleosome assembly protein 1 like 1	25 µg/L
+MARCO	Macrophage receptor with collagenous structure	24 µg/L
+CHGB	Chromogranin B	24 µg/L
+CGN	Cingulin	24 µg/L
+EPHA1	EPH receptor A1	24 µg/L
+MEPE	Matrix extracellular phosphoglycoprotein	24 µg/L
+ARPC2	Actin related protein 2/3 complex subunit 2	24 µg/L
+MAPRE2	Microtubule associated protein RP/EB family member 2	24 µg/L
+ADGRF5	Adhesion G protein-coupled receptor F5	23 µg/L
+GSS	Glutathione synthetase	23 µg/L
+SNCA	Synuclein alpha	23 µg/L
+HPD	4-hydroxyphenylpyruvate dioxygenase	23 µg/L
+ITGA5	Integrin subunit alpha 5	23 µg/L
+FBP1	Fructose-bisphosphatase 1	23 µg/L
+GM2A	GM2 ganglioside activator	23 µg/L
+COL15A1	Collagen type XV alpha 1 chain	23 µg/L
+CDH1	Cadherin 1	22 µg/L
+EIF3L	Eukaryotic translation initiation factor 3 subunit L	22 µg/L
+ADAMDEC1	ADAM like decysin 1	22 µg/L
+RPS15A	Ribosomal protein S15a	22 µg/L
+PSMA5	Proteasome subunit alpha 5	22 µg/L
+IGFBP1	Insulin like growth factor binding protein 1	22 µg/L
+IL6R	Interleukin 6 receptor	22 µg/L
+REG3A	Regenerating family member 3 alpha	22 µg/L
+SMPDL3A	Sphingomyelin phosphodiesterase acid like 3A	22 µg/L
+THBS2	Thrombospondin 2	22 µg/L
+ARPC4	Actin related protein 2/3 complex subunit 4	22 µg/L
+GHR	Growth hormone receptor	21 µg/L
+IL1R2	Interleukin 1 receptor type 2	21 µg/L
+TMOD3	Tropomodulin 3	21 µg/L
+UNC45A	Unc-45 myosin chaperone A	21 µg/L
+OSMR	Oncostatin M receptor	21 µg/L
+COL1A2	Collagen type I alpha 2 chain	21 µg/L
+OXSR1	Oxidative stress responsive 1	21 µg/L
+PGM1	Phosphoglucomutase 1	20 µg/L
+PLA2G15	Phospholipase A2 group XV	20 µg/L
+EMILIN1	Elastin microfibril interfacer 1	20 µg/L
+EXT2	Exostosin glycosyltransferase 2	20 µg/L
+LCN1	Lipocalin 1	20 µg/L
+KRT82	Keratin 82	20 µg/L
+MYL1	Myosin light chain 1	20 µg/L
+CLIC4	Chloride intracellular channel 4	20 µg/L
+NECTIN3	Nectin cell adhesion molecule 3	20 µg/L
+SRC	"SRC proto-oncogene, non-receptor tyrosine kinase"	20 µg/L
+MYH6	Myosin heavy chain 6	20 µg/L
+HEXA	Hexosaminidase subunit alpha	20 µg/L
+CCL16	C-C motif chemokine ligand 16	20 µg/L
+VIM	Vimentin	19 µg/L
+ACADVL	Acyl-CoA dehydrogenase very long chain	19 µg/L
+LGALS1	Galectin 1	19 µg/L
+PSMA6	Proteasome subunit alpha 6	19 µg/L
+CEACAM5	Carcinoembryonic antigen related cell adhesion molecule 5	19 µg/L
+CTSC	Cathepsin C	19 µg/L
+EHD1	EH domain containing 1	19 µg/L
+PRDX5	Peroxiredoxin 5	19 µg/L
+STX11	Syntaxin 11	19 µg/L
+RAB1A	"RAB1A, member RAS oncogene family"	19 µg/L
+FLG2	Filaggrin family member 2	19 µg/L
+ARL6IP5	ADP ribosylation factor like GTPase 6 interacting protein 5	19 µg/L
+ENDOD1	Endonuclease domain containing 1	19 µg/L
+CTSS	Cathepsin S	19 µg/L
+KCTD12	Potassium channel tetramerization domain containing 12	19 µg/L
+CAPZA2	Capping actin protein of muscle Z-line alpha subunit 2	19 µg/L
+CCL14	C-C motif chemokine ligand 14	19 µg/L
+FHL1	Four and a half LIM domains 1	18 µg/L
+CTSA	Cathepsin A	18 µg/L
+NOTCH3	Notch 3	18 µg/L
+GGT5	Gamma-glutamyltransferase 5	18 µg/L
+GNB4	G protein subunit beta 4	18 µg/L
+GLIPR2	GLI pathogenesis related 2	18 µg/L
+DSC1	Desmocollin 1	18 µg/L
+TIMD4	T cell immunoglobulin and mucin domain containing 4	18 µg/L
+CAST	Calpastatin	18 µg/L
+LAMB2	Laminin subunit beta 2	18 µg/L
+LILRA6	Leukocyte immunoglobulin like receptor A6	18 µg/L
+SIGLEC14	Sialic acid binding Ig like lectin 14	18 µg/L
+CPA1	Carboxypeptidase A1	17 µg/L
+PYGL	Glycogen phosphorylase L	17 µg/L
+MAPRE1	Microtubule associated protein RP/EB family member 1	17 µg/L
+FCGRT	Fc fragment of IgG receptor and transporter	17 µg/L
+MYH3	Myosin heavy chain 3	17 µg/L
+DBN1	Drebrin 1	17 µg/L
+CTSL	Cathepsin L	17 µg/L
+S100A7	S100 calcium binding protein A7	17 µg/L
+SCGB1A1	Secretoglobin family 1A member 1	17 µg/L
+CSF1	Colony stimulating factor 1	17 µg/L
+MARCKS	Myristoylated alanine rich protein kinase C substrate	17 µg/L
+TYMP	Thymidine phosphorylase	16 µg/L
+RNASET2	Ribonuclease T2	16 µg/L
+FKBP1A	FK506 binding protein 1A	16 µg/L
+DLD	Dihydrolipoamide dehydrogenase	16 µg/L
+PYGB	Glycogen phosphorylase B	16 µg/L
+LAMTOR3	"Late endosomal/lysosomal adaptor, MAPK and MTOR activator 3"	16 µg/L
+ACAT2	Acetyl-CoA acetyltransferase 2	16 µg/L
+07-Sep	Septin 7	16 µg/L
+DSTN	"Destrin, actin depolymerizing factor"	16 µg/L
+UBA1	Ubiquitin like modifier activating enzyme 1	16 µg/L
+IDH1	"Isocitrate dehydrogenase (NADP(+)) 1, cytosolic"	16 µg/L
+ESD	Esterase D	16 µg/L
+DPEP3	Dipeptidase 3	16 µg/L
+HK1	Hexokinase 1	16 µg/L
+CRELD1	Cysteine rich with EGF like domains 1	16 µg/L
+RAB8A	"RAB8A, member RAS oncogene family"	16 µg/L
+COL3A1	Collagen type III alpha 1 chain	16 µg/L
+ARHGAP1	Rho GTPase activating protein 1	16 µg/L
+ANXA2	Annexin A2	16 µg/L
+BCAM	Basal cell adhesion molecule (Lutheran blood group)	16 µg/L
+ADH1B	"Alcohol dehydrogenase 1B (class I), beta polypeptide"	16 µg/L
+MPO	Myeloperoxidase	15 µg/L
+DKK3	Dickkopf WNT signaling pathway inhibitor 3	15 µg/L
+NUCB1	Nucleobindin 1	15 µg/L
+APOA5	Apolipoprotein A5	15 µg/L
+MGP	Matrix Gla protein	15 µg/L
+STC2	Stanniocalcin 2	15 µg/L
+NRP2	Neuropilin 2	15 µg/L
+ARG1	Arginase 1	15 µg/L
+CEACAM8	Carcinoembryonic antigen related cell adhesion molecule 8	15 µg/L
+PSMB2	Proteasome subunit beta 2	15 µg/L
+CALU	Calumenin	15 µg/L
+DBNL	Drebrin like	15 µg/L
+CHAD	Chondroadherin	15 µg/L
+APP	Amyloid beta precursor protein	15 µg/L
+PSMB4	Proteasome subunit beta 4	15 µg/L
+MYL3	Myosin light chain 3	15 µg/L
+ARPC5	Actin related protein 2/3 complex subunit 5	15 µg/L
+SNED1	"Sushi, nidogen and EGF like domains 1"	15 µg/L
+HPRT1	Hypoxanthine phosphoribosyltransferase 1	15 µg/L
+GPT	Glutamic--pyruvic transaminase	15 µg/L
+AGRN	Agrin	15 µg/L
+INF2	"Inverted formin, FH2 and WH2 domain containing"	15 µg/L
+PSMB1	Proteasome subunit beta 1	14 µg/L
+TFRC	Transferrin receptor	14 µg/L
+RAB10	"RAB10, member RAS oncogene family"	14 µg/L
+UNC13D	Unc-13 homolog D	14 µg/L
+JAG1	Jagged 1	14 µg/L
+MSLN	Mesothelin	14 µg/L
+SERPINE1	Serpin family E member 1	14 µg/L
+TGM3	Transglutaminase 3	14 µg/L
+OMD	Osteomodulin	14 µg/L
+SH3BGRL	SH3 domain binding glutamate rich protein like	14 µg/L
+DSC2	Desmocollin 2	14 µg/L
+IL18BP	Interleukin 18 binding protein	14 µg/L
+PRDX3	Peroxiredoxin 3	14 µg/L
+PMEL	Premelanosome protein	14 µg/L
+TXNDC5	Thioredoxin domain containing 5	14 µg/L
+MIF	Macrophage migration inhibitory factor	14 µg/L
+TWF2	Twinfilin actin binding protein 2	14 µg/L
+LMAN1	"Lectin, mannose binding 1"	13 µg/L
+PSMA3	Proteasome subunit alpha 3	13 µg/L
+RTN4	Reticulon 4	13 µg/L
+LTBP2	Latent transforming growth factor beta binding protein 2	13 µg/L
+TGFB1I1	Transforming growth factor beta 1 induced transcript 1	13 µg/L
+NTRK2	Neurotrophic receptor tyrosine kinase 2	13 µg/L
+PTPRK	"Protein tyrosine phosphatase, receptor type K"	13 µg/L
+IHH	Indian hedgehog	13 µg/L
+TPP1	Tripeptidyl peptidase 1	13 µg/L
+GLRX	Glutaredoxin	13 µg/L
+PNLIP	Pancreatic lipase	13 µg/L
+TCN2	Transcobalamin 2	13 µg/L
+S100A4	S100 calcium binding protein A4	13 µg/L
+MYOC	Myocilin	12 µg/L
+PSMA4	Proteasome subunit alpha 4	12 µg/L
+PYGM	"Glycogen phosphorylase, muscle associated"	12 µg/L
+SNAP23	Synaptosome associated protein 23	12 µg/L
+PSMD5	"Proteasome 26S subunit, non-ATPase 5"	12 µg/L
+MANBA	Mannosidase beta	12 µg/L
+TREH	Trehalase	12 µg/L
+LDLR	Low density lipoprotein receptor	12 µg/L
+COL5A1	Collagen type V alpha 1 chain	12 µg/L
+PDIA4	Protein disulfide isomerase family A member 4	12 µg/L
+CBR1	Carbonyl reductase 1	12 µg/L
+G6PD	Glucose-6-phosphate dehydrogenase	12 µg/L
+NEXN	Nexilin F-actin binding protein	12 µg/L
+FOLR2	Folate receptor beta	12 µg/L
+PCBP1	Poly(rC) binding protein 1	12 µg/L
+UGP2	UDP-glucose pyrophosphorylase 2	12 µg/L
+ADH1A	"Alcohol dehydrogenase 1A (class I), alpha polypeptide"	12 µg/L
+LY6G6F	Lymphocyte antigen 6 family member G6F	12 µg/L
+MAN2B2	Mannosidase alpha class 2B member 2	11 µg/L
+SERPINB3	Serpin family B member 3	11 µg/L
+PRKAR1A	Protein kinase cAMP-dependent type I regulatory subunit alpha	11 µg/L
+ART4	ADP-ribosyltransferase 4 (Dombrock blood group)	11 µg/L
+TNN	Tenascin N	11 µg/L
+HNRNPA2B1	Heterogeneous nuclear ribonucleoprotein A2/B1	11 µg/L
+PRDX4	Peroxiredoxin 4	11 µg/L
+CILP	Cartilage intermediate layer protein	11 µg/L
+NTRK3	Neurotrophic receptor tyrosine kinase 3	11 µg/L
+GALNT2	Polypeptide N-acetylgalactosaminyltransferase 2	11 µg/L
+RAB6B	"RAB6B, member RAS oncogene family"	11 µg/L
+CILP2	Cartilage intermediate layer protein 2	11 µg/L
+S100A11	S100 calcium binding protein A11	11 µg/L
+DCBLD1	"Discoidin, CUB and LCCL domain containing 1"	11 µg/L
+ECI1	Enoyl-CoA delta isomerase 1	11 µg/L
+INHBC	Inhibin beta C subunit	11 µg/L
+AKR1C3	Aldo-keto reductase family 1 member C3	11 µg/L
+LYN	"LYN proto-oncogene, Src family tyrosine kinase"	11 µg/L
+ERP44	Endoplasmic reticulum protein 44	10 µg/L
+CBLN4	Cerebellin 4 precursor	10 µg/L
+SAR1A	Secretion associated Ras related GTPase 1A	10 µg/L
+DNM1L	Dynamin 1 like	10 µg/L
+CTSH	Cathepsin H	10 µg/L
+SMC3	Structural maintenance of chromosomes 3	10 µg/L
+FAM20A	"FAM20A, golgi associated secretory pathway pseudokinase"	10 µg/L
+PTK7	Protein tyrosine kinase 7 (inactive)	10 µg/L
+06-Sep	Septin 6	10 µg/L
+ASL	Argininosuccinate lyase	10 µg/L
+APOL2	Apolipoprotein L2	10 µg/L
+PGLS	6-phosphogluconolactonase	10 µg/L
+DIAPH1	Diaphanous related formin 1	10 µg/L
+HNRNPA1	Heterogeneous nuclear ribonucleoprotein A1	10 µg/L
+RALB	RAS like proto-oncogene B	10 µg/L
+NRGN	Neurogranin	10 µg/L
+NBL1	"Neuroblastoma 1, DAN family BMP antagonist"	10 µg/L
+HSPA4	Heat shock protein family A (Hsp70) member 4	10 µg/L
+RAB14	"RAB14, member RAS oncogene family"	9.9 µg/L
+TGOLN2	Trans-golgi network protein 2	9.8 µg/L
+THY1	Thy-1 cell surface antigen	9.8 µg/L
+FCER1G	Fc fragment of IgE receptor Ig	9.8 µg/L
+LGALSL	Galectin like	9.7 µg/L
+LYPD3	LY6/PLAUR domain containing 3	9.7 µg/L
+EEF2	Eukaryotic translation elongation factor 2	9.7 µg/L
+HPSE	Heparanase	9.7 µg/L
+ADH1C	"Alcohol dehydrogenase 1C (class I), gamma polypeptide"	9.7 µg/L
+SLC9A3R1	SLC9A3 regulator 1	9.6 µg/L
+FOLR3	Folate receptor 3	9.6 µg/L
+KLHL12	Kelch like family member 12	9.6 µg/L
+EXT1	Exostosin glycosyltransferase 1	9.6 µg/L
+CDON	"Cell adhesion associated, oncogene regulated"	9.4 µg/L
+UBA2	Ubiquitin like modifier activating enzyme 2	9.4 µg/L
+CSF2RA	Colony stimulating factor 2 receptor alpha subunit	9.4 µg/L
+VDAC3	Voltage dependent anion channel 3	9.3 µg/L
+PLIN3	Perilipin 3	9.3 µg/L
+BHMT	Betaine--homocysteine S-methyltransferase	9.2 µg/L
+RDH11	Retinol dehydrogenase 11 (all-trans/9-cis/11-cis)	9.1 µg/L
+CCT2	Chaperonin containing TCP1 subunit 2	9.1 µg/L
+RAB7A	"RAB7A, member RAS oncogene family"	9.0 µg/L
+PHGDH	Phosphoglycerate dehydrogenase	9.0 µg/L
+HSPE1	Heat shock protein family E (Hsp10) member 1	9.0 µg/L
+GNAI1	G protein subunit alpha i1	9.0 µg/L
+FTH1	Ferritin heavy chain 1	9.0 µg/L
+IDS	Iduronate 2-sulfatase	8.9 µg/L
+CD276	CD276 molecule	8.9 µg/L
+XPNPEP2	X-prolyl aminopeptidase 2	8.9 µg/L
+COL6A2	Collagen type VI alpha 2 chain	8.9 µg/L
+PIP4K2A	Phosphatidylinositol-5-phosphate 4-kinase type 2 alpha	8.8 µg/L
+02-Sep	Septin 2	8.8 µg/L
+UBE2L3	Ubiquitin conjugating enzyme E2 L3	8.8 µg/L
+HADH	Hydroxyacyl-CoA dehydrogenase	8.7 µg/L
+NIF3L1	NGG1 interacting factor 3 like 1	8.7 µg/L
+PSME1	Proteasome activator subunit 1	8.6 µg/L
+PIK3IP1	Phosphoinositide-3-kinase interacting protein 1	8.6 µg/L
+SERPINB12	Serpin family B member 12	8.5 µg/L
+GNAI3	G protein subunit alpha i3	8.4 µg/L
+EPHA4	EPH receptor A4	8.4 µg/L
+IQGAP2	IQ motif containing GTPase activating protein 2	8.4 µg/L
+AHSP	Alpha hemoglobin stabilizing protein	8.4 µg/L
+SACM1L	SAC1 like phosphatidylinositide phosphatase	8.4 µg/L
+LEPR	Leptin receptor	8.3 µg/L
+TEK	TEK receptor tyrosine kinase	8.3 µg/L
+PSMB5	Proteasome subunit beta 5	8.2 µg/L
+RAD23B	"RAD23 homolog B, nucleotide excision repair protein"	8.2 µg/L
+PCMT1	Protein-L-isoaspartate (D-aspartate) O-methyltransferase	8.2 µg/L
+ADAM10	ADAM metallopeptidase domain 10	8.2 µg/L
+RPN1	Ribophorin I	8.2 µg/L
+CCL5	C-C motif chemokine ligand 5	8.2 µg/L
+AKR1A1	Aldo-keto reductase family 1 member A1	8.1 µg/L
+NOTCH1	Notch 1	8.1 µg/L
+PPP1CA	Protein phosphatase 1 catalytic subunit alpha	8.1 µg/L
+RASA3	RAS p21 protein activator 3	8.1 µg/L
+PSME2	Proteasome activator subunit 2	8.0 µg/L
+ACO1	Aconitase 1	8.0 µg/L
+TAGLN	Transgelin	8.0 µg/L
+SCGB3A1	Secretoglobin family 3A member 1	8.0 µg/L
+IVL	Involucrin	8.0 µg/L
+NME3	NME/NM23 nucleoside diphosphate kinase 3	7.9 µg/L
+SPINK1	"Serine peptidase inhibitor, Kazal type 1"	7.9 µg/L
+ADGRG2	Adhesion G protein-coupled receptor G2	7.9 µg/L
+FAT4	FAT atypical cadherin 4	7.9 µg/L
+CCL15	C-C motif chemokine ligand 15	7.9 µg/L
+SLC25A5	Solute carrier family 25 member 5	7.8 µg/L
+HMCN2	Hemicentin 2	7.7 µg/L
+PPP1CB	Protein phosphatase 1 catalytic subunit beta	7.7 µg/L
+GPD2	Glycerol-3-phosphate dehydrogenase 2	7.6 µg/L
+PPP1CC	Protein phosphatase 1 catalytic subunit gamma	7.6 µg/L
+PDLIM7	PDZ and LIM domain 7	7.6 µg/L
+BPIFB1	BPI fold containing family B member 1	7.5 µg/L
+EPB42	Erythrocyte membrane protein band 4.2	7.5 µg/L
+CES2	Carboxylesterase 2	7.5 µg/L
+DMBT1	Deleted in malignant brain tumors 1	7.5 µg/L
+TPSB2	Tryptase beta 2 (gene/pseudogene)	7.5 µg/L
+PTPN6	"Protein tyrosine phosphatase, non-receptor type 6"	7.4 µg/L
+KDR	Kinase insert domain receptor	7.4 µg/L
+ANXA3	Annexin A3	7.4 µg/L
+SEC11A	"SEC11 homolog A, signal peptidase complex subunit"	7.4 µg/L
+ABRACL	ABRA C-terminal like	7.4 µg/L
+CCT6A	Chaperonin containing TCP1 subunit 6A	7.4 µg/L
+ERAP2	Endoplasmic reticulum aminopeptidase 2	7.4 µg/L
+MPIG6B	Megakaryocyte and platelet inhibitory receptor G6b	7.4 µg/L
+LTBP4	Latent transforming growth factor beta binding protein 4	7.3 µg/L
+ALPL	"Alkaline phosphatase, liver/bone/kidney"	7.3 µg/L
+CRYZ	Crystallin zeta	7.2 µg/L
+MGAT1	"Mannosyl (alpha-1,3-)-glycoprotein beta-1,2-N-acetylglucosaminyltransferase"	7.2 µg/L
+SLC25A6	Solute carrier family 25 member 6	7.2 µg/L
+RAB6A	"RAB6A, member RAS oncogene family"	7.2 µg/L
+MAPK14	Mitogen-activated protein kinase 14	7.1 µg/L
+CD58	CD58 molecule	7.1 µg/L
+PSTPIP2	Proline-serine-threonine phosphatase interacting protein 2	7.1 µg/L
+DBI	"Diazepam binding inhibitor, acyl-CoA binding protein"	7.1 µg/L
+PLEC	Plectin	7.1 µg/L
+TMEM40	Transmembrane protein 40	7.0 µg/L
+GOT2	Glutamic-oxaloacetic transaminase 2	7.0 µg/L
+GNAZ	G protein subunit alpha z	6.9 µg/L
+HSD17B4	Hydroxysteroid 17-beta dehydrogenase 4	6.9 µg/L
+FGFBP2	Fibroblast growth factor binding protein 2	6.9 µg/L
+FSTL3	Follistatin like 3	6.8 µg/L
+KLK6	Kallikrein related peptidase 6	6.8 µg/L
+BCAP31	B cell receptor associated protein 31	6.8 µg/L
+ADH5	"Alcohol dehydrogenase 5 (class III), chi polypeptide"	6.8 µg/L
+CAPG	"Capping actin protein, gelsolin like"	6.7 µg/L
+PTPRB	"Protein tyrosine phosphatase, receptor type B"	6.7 µg/L
+DMTN	Dematin actin binding protein	6.7 µg/L
+FYB1	FYN binding protein 1	6.6 µg/L
+TWSG1	Twisted gastrulation BMP signaling modulator 1	6.6 µg/L
+CPB1	Carboxypeptidase B1	6.6 µg/L
+ANTXR2	Anthrax toxin receptor 2	6.6 µg/L
+CST1	Cystatin SN	6.6 µg/L
+RNPEP	Arginyl aminopeptidase	6.6 µg/L
+GPC1	Glypican 1	6.5 µg/L
+NQO2	N-ribosyldihydronicotinamide:quinone reductase 2	6.5 µg/L
+11-Sep	Septin 11	6.5 µg/L
+PDHB	Pyruvate dehydrogenase E1 beta subunit	6.5 µg/L
+ROBO1	Roundabout guidance receptor 1	6.5 µg/L
+TYRO3	TYRO3 protein tyrosine kinase	6.4 µg/L
+FGL2	Fibrinogen like 2	6.4 µg/L
+AKAP12	A-kinase anchoring protein 12	6.4 µg/L
+F8	Coagulation factor VIII	6.4 µg/L
+POMGNT1	"Protein O-linked mannose N-acetylglucosaminyltransferase 1 (beta 1,2-)"	6.3 µg/L
+ETFA	Electron transfer flavoprotein alpha subunit	6.3 µg/L
+OPCML	Opioid binding protein/cell adhesion molecule like	6.3 µg/L
+TRHDE	Thyrotropin releasing hormone degrading enzyme	6.2 µg/L
+DNPEP	Aspartyl aminopeptidase	6.2 µg/L
+S100A12	S100 calcium binding protein A12	6.2 µg/L
+PDCD6IP	Programmed cell death 6 interacting protein	6.2 µg/L
+SYTL4	Synaptotagmin like 4	6.1 µg/L
+CSTB	Cystatin B	6.1 µg/L
+ANXA5	Annexin A5	6.1 µg/L
+PGRMC1	Progesterone receptor membrane component 1	6.0 µg/L
+UTRN	Utrophin	6.0 µg/L
+PLXDC1	Plexin domain containing 1	6.0 µg/L
+TMED10	Transmembrane p24 trafficking protein 10	6.0 µg/L
+CADM4	Cell adhesion molecule 4	5.9 µg/L
+GBE1	"1,4-alpha-glucan branching enzyme 1"	5.9 µg/L
+CCT7	Chaperonin containing TCP1 subunit 7	5.9 µg/L
+TXNRD1	Thioredoxin reductase 1	5.9 µg/L
+ALOX12	"Arachidonate 12-lipoxygenase, 12S type"	5.8 µg/L
+KRAS	"KRAS proto-oncogene, GTPase"	5.8 µg/L
+ECH1	Enoyl-CoA hydratase 1	5.7 µg/L
+NEDD8	"Neural precursor cell expressed, developmentally down-regulated 8"	5.7 µg/L
+RIDA	Reactive intermediate imine deaminase A homolog	5.7 µg/L
+QSOX2	Quiescin sulfhydryl oxidase 2	5.7 µg/L
+PPIC	Peptidylprolyl isomerase C	5.7 µg/L
+COLEC10	Collectin subfamily member 10	5.7 µg/L
+NAP1L4	Nucleosome assembly protein 1 like 4	5.7 µg/L
+SERPINB4	Serpin family B member 4	5.7 µg/L
+CHRDL2	Chordin like 2	5.6 µg/L
+AK2	Adenylate kinase 2	5.5 µg/L
+SLC25A3	Solute carrier family 25 member 3	5.5 µg/L
+ECM2	Extracellular matrix protein 2	5.5 µg/L
+KPNB1	Karyopherin subunit beta 1	5.5 µg/L
+SFTPD	Surfactant protein D	5.5 µg/L
+NAPA	NSF attachment protein alpha	5.4 µg/L
+LRRC59	Leucine rich repeat containing 59	5.4 µg/L
+SLURP1	Secreted LY6/PLAUR domain containing 1	5.4 µg/L
+COX5A	Cytochrome c oxidase subunit 5A	5.4 µg/L
+VAPA	VAMP associated protein A	5.3 µg/L
+PCSK1N	Proprotein convertase subtilisin/kexin type 1 inhibitor	5.3 µg/L
+ADH4	"Alcohol dehydrogenase 4 (class II), pi polypeptide"	5.3 µg/L
+VCAN	Versican	5.2 µg/L
+CTGF	Connective tissue growth factor	5.2 µg/L
+UROD	Uroporphyrinogen decarboxylase	5.2 µg/L
+RAB8B	"RAB8B, member RAS oncogene family"	5.2 µg/L
+AGXT	Alanine-glyoxylate aminotransferase	5.2 µg/L
+SERPINB6	Serpin family B member 6	5.1 µg/L
+S100A6	S100 calcium binding protein A6	5.1 µg/L
+PKHD1L1	PKHD1 like 1	5.1 µg/L
+GALNT7	Polypeptide N-acetylgalactosaminyltransferase 7	5.0 µg/L
+CPM	Carboxypeptidase M	5.0 µg/L
+HNRNPK	Heterogeneous nuclear ribonucleoprotein K	5.0 µg/L
+MGAT2	"Mannosyl (alpha-1,6-)-glycoprotein beta-1,2-N-acetylglucosaminyltransferase"	5.0 µg/L
+ENTPD5	Ectonucleoside triphosphate diphosphohydrolase 5	5.0 µg/L
+ERVMER34-1	"Endogenous retrovirus group MER34 member 1, envelope"	5.0 µg/L
+ERP29	Endoplasmic reticulum protein 29	4.9 µg/L
+ACTR1A	ARP1 actin related protein 1 homolog A	4.9 µg/L
+TMEM25	Transmembrane protein 25	4.9 µg/L
+STIM1	Stromal interaction molecule 1	4.9 µg/L
+SERPINB9	Serpin family B member 9	4.9 µg/L
+MUC1	"Mucin 1, cell surface associated"	4.9 µg/L
+SCG3	Secretogranin III	4.8 µg/L
+PTPA	Protein phosphatase 2 phosphatase activator	4.8 µg/L
+MSTN	Myostatin	4.8 µg/L
+TKFC	Triokinase and FMN cyclase	4.8 µg/L
+SPTBN2	"Spectrin beta, non-erythrocytic 2"	4.8 µg/L
+NRAS	"NRAS proto-oncogene, GTPase"	4.8 µg/L
+VDAC1	Voltage dependent anion channel 1	4.8 µg/L
+H2AFY	H2A histone family member Y	4.7 µg/L
+ASGR2	Asialoglycoprotein receptor 2	4.7 µg/L
+NELL2	Neural EGFL like 2	4.7 µg/L
+SH3BGRL2	SH3 domain binding glutamate rich protein like 2	4.7 µg/L
+ARF5	ADP ribosylation factor 5	4.6 µg/L
+GGT1	Gamma-glutamyltransferase 1	4.6 µg/L
+FBN2	Fibrillin 2	4.6 µg/L
+RAB13	"RAB13, member RAS oncogene family"	4.6 µg/L
+CNST	"Consortin, connexin sorting protein"	4.6 µg/L
+UBE2N	Ubiquitin conjugating enzyme E2 N	4.6 µg/L
+EEF1G	Eukaryotic translation elongation factor 1 gamma	4.6 µg/L
+TMSB10	Thymosin beta 10	4.5 µg/L
+PFKP	"Phosphofructokinase, platelet"	4.5 µg/L
+FSCN1	Fascin actin-bundling protein 1	4.5 µg/L
+ARSA	Arylsulfatase A	4.5 µg/L
+ASS1	Argininosuccinate synthase 1	4.5 µg/L
+IL13RA1	Interleukin 13 receptor subunit alpha 1	4.5 µg/L
+FBLN5	Fibulin 5	4.5 µg/L
+BOC	"BOC cell adhesion associated, oncogene regulated"	4.5 µg/L
+SMR3B	Submaxillary gland androgen regulated protein 3B	4.5 µg/L
+SEMA3G	Semaphorin 3G	4.4 µg/L
+CS	Citrate synthase	4.4 µg/L
+FABP3	Fatty acid binding protein 3	4.4 µg/L
+ACAA1	Acetyl-CoA acyltransferase 1	4.3 µg/L
+MGLL	Monoglyceride lipase	4.3 µg/L
+COL12A1	Collagen type XII alpha 1 chain	4.3 µg/L
+MPP1	Membrane palmitoylated protein 1	4.3 µg/L
+FGFR4	Fibroblast growth factor receptor 4	4.3 µg/L
+KLK1	Kallikrein 1	4.3 µg/L
+SUSD5	Sushi domain containing 5	4.3 µg/L
+YES1	"YES proto-oncogene 1, Src family tyrosine kinase"	4.3 µg/L
+LXN	Latexin	4.2 µg/L
+ATP5F1D	ATP synthase F1 subunit delta	4.2 µg/L
+CAND1	Cullin associated and neddylation dissociated 1	4.2 µg/L
+LAP3	Leucine aminopeptidase 3	4.1 µg/L
+IL27RA	Interleukin 27 receptor subunit alpha	4.1 µg/L
+ATP1B1	ATPase Na+/K+ transporting subunit beta 1	4.1 µg/L
+RPIA	Ribose 5-phosphate isomerase A	4.1 µg/L
+THBS3	Thrombospondin 3	4.1 µg/L
+ANTXR1	Anthrax toxin receptor 1	4.1 µg/L
+SEMA4D	Semaphorin 4D	4.1 µg/L
+SEMA3F	Semaphorin 3F	4.0 µg/L
+ACO2	Aconitase 2	4.0 µg/L
+GNA13	G protein subunit alpha 13	4.0 µg/L
+PXDN	Peroxidasin	4.0 µg/L
+UQCRC2	Ubiquinol-cytochrome c reductase core protein 2	4.0 µg/L
+CCT5	Chaperonin containing TCP1 subunit 5	4.0 µg/L
+CXCL16	C-X-C motif chemokine ligand 16	4.0 µg/L
+CCT3	Chaperonin containing TCP1 subunit 3	4.0 µg/L
+VDAC2	Voltage dependent anion channel 2	4.0 µg/L
+ARF4	ADP ribosylation factor 4	4.0 µg/L
+ATP5PO	ATP synthase peripheral stalk subunit OSCP	4.0 µg/L
+UBE2V1	Ubiquitin conjugating enzyme E2 V1	4.0 µg/L
+DPYSL2	Dihydropyrimidinase like 2	3.9 µg/L
+AHCY	Adenosylhomocysteinase	3.9 µg/L
+APLP1	Amyloid beta precursor like protein 1	3.9 µg/L
+HAMP	Hepcidin antimicrobial peptide	3.9 µg/L
+TCP1	T-complex 1	3.9 µg/L
+PLA2G1B	Phospholipase A2 group IB	3.9 µg/L
+SEZ6L2	Seizure related 6 homolog like 2	3.9 µg/L
+ME1	Malic enzyme 1	3.8 µg/L
+UGGT1	UDP-glucose glycoprotein glucosyltransferase 1	3.8 µg/L
+GMPR	Guanosine monophosphate reductase	3.8 µg/L
+ILF2	Interleukin enhancer binding factor 2	3.8 µg/L
+PHB	Prohibitin	3.8 µg/L
+GPD1	Glycerol-3-phosphate dehydrogenase 1	3.8 µg/L
+GLOD4	Glyoxalase domain containing 4	3.8 µg/L
+KRTAP11-1	Keratin associated protein 11-1	3.8 µg/L
+MFAP5	Microfibril associated protein 5	3.8 µg/L
+SAMM50	SAMM50 sorting and assembly machinery component	3.7 µg/L
+ACP5	"Acid phosphatase 5, tartrate resistant"	3.7 µg/L
+ROCK2	Rho associated coiled-coil containing protein kinase 2	3.7 µg/L
+ACP1	Acid phosphatase 1	3.7 µg/L
+CDA	Cytidine deaminase	3.7 µg/L
+FAM234A	Family with sequence similarity 234 member A	3.7 µg/L
+STIP1	Stress induced phosphoprotein 1	3.7 µg/L
+LGALS7B	Galectin 7B	3.7 µg/L
+SULT1A1	Sulfotransferase family 1A member 1	3.7 µg/L
+LGALS7	Galectin 7	3.7 µg/L
+MSMB	Microseminoprotein beta	3.7 µg/L
+GCLC	Glutamate-cysteine ligase catalytic subunit	3.6 µg/L
+LCP2	Lymphocyte cytosolic protein 2	3.6 µg/L
+MAOB	Monoamine oxidase B	3.6 µg/L
+CDHR2	Cadherin related family member 2	3.6 µg/L
+SUSD2	Sushi domain containing 2	3.6 µg/L
+NAGPA	N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase	3.6 µg/L
+RAB5C	"RAB5C, member RAS oncogene family"	3.6 µg/L
+OLA1	Obg like ATPase 1	3.6 µg/L
+FCAMR	Fc fragment of IgA and IgM receptor	3.6 µg/L
+SHH	Sonic hedgehog	3.6 µg/L
+HINT1	Histidine triad nucleotide binding protein 1	3.6 µg/L
+CTSF	Cathepsin F	3.6 µg/L
+CLEC14A	C-type lectin domain containing 14A	3.6 µg/L
+PRSS8	Serine protease 8	3.5 µg/L
+CDH17	Cadherin 17	3.4 µg/L
+ME2	Malic enzyme 2	3.4 µg/L
+MAN2B1	Mannosidase alpha class 2B member 1	3.4 µg/L
+BCAT2	Branched chain amino acid transaminase 2	3.4 µg/L
+PPP2R1A	Protein phosphatase 2 scaffold subunit Aalpha	3.4 µg/L
+RAB35	"RAB35, member RAS oncogene family"	3.4 µg/L
+CCT4	Chaperonin containing TCP1 subunit 4	3.4 µg/L
+NECTIN2	Nectin cell adhesion molecule 2	3.4 µg/L
+ATIC	5-aminoimidazole-4-carboxamide ribonucleotide formyltransferase/IMP cyclohydrolase	3.4 µg/L
+EPB41	Erythrocyte membrane protein band 4.1	3.4 µg/L
+SPINT1	"Serine peptidase inhibitor, Kunitz type 1"	3.4 µg/L
+PRKCB	Protein kinase C beta	3.4 µg/L
+BSG	Basigin (Ok blood group)	3.4 µg/L
+MYDGF	Myeloid derived growth factor	3.3 µg/L
+PCK2	"Phosphoenolpyruvate carboxykinase 2, mitochondrial"	3.3 µg/L
+LMNB1	Lamin B1	3.3 µg/L
+TCN1	Transcobalamin 1	3.3 µg/L
+EIF3H	Eukaryotic translation initiation factor 3 subunit H	3.3 µg/L
+PAMR1	Peptidase domain containing associated with muscle regeneration 1	3.3 µg/L
+NAXE	NAD(P)HX epimerase	3.3 µg/L
+GFRA2	GDNF family receptor alpha 2	3.3 µg/L
+PRL	Prolactin	3.3 µg/L
+PSMB8	Proteasome subunit beta 8	3.3 µg/L
+DDOST	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase non-catalytic subunit	3.3 µg/L
+SKAP2	Src kinase associated phosphoprotein 2	3.2 µg/L
+CRTAM	Cytotoxic and regulatory T cell molecule	3.2 µg/L
+CKMT2	"Creatine kinase, mitochondrial 2"	3.2 µg/L
+ARMT1	Acidic residue methyltransferase 1	3.2 µg/L
+LMNA	Lamin A/C	3.2 µg/L
+LIPC	"Lipase C, hepatic type"	3.2 µg/L
+ACAA2	Acetyl-CoA acyltransferase 2	3.2 µg/L
+DCTN2	Dynactin subunit 2	3.2 µg/L
+SULT1A3	Sulfotransferase family 1A member 3	3.2 µg/L
+PTBP1	Polypyrimidine tract binding protein 1	3.1 µg/L
+MTAP	Methylthioadenosine phosphorylase	3.1 µg/L
+HSPA9	Heat shock protein family A (Hsp70) member 9	3.1 µg/L
+PDE5A	Phosphodiesterase 5A	3.1 µg/L
+RAD23A	"RAD23 homolog A, nucleotide excision repair protein"	3.1 µg/L
+THSD7A	Thrombospondin type 1 domain containing 7A	3.0 µg/L
+HAGH	Hydroxyacylglutathione hydrolase	3.0 µg/L
+ST3GAL6	"ST3 beta-galactoside alpha-2,3-sialyltransferase 6"	3.0 µg/L
+MYLK	Myosin light chain kinase	3.0 µg/L
+NUTF2	Nuclear transport factor 2	3.0 µg/L
+TPT1	"Tumor protein, translationally-controlled 1"	3.0 µg/L
+GXYLT1	Glucoside xylosyltransferase 1	3.0 µg/L
+PM20D1	Peptidase M20 domain containing 1	3.0 µg/L
+GAA	"Glucosidase alpha, acid"	3.0 µg/L
+ELN	Elastin	2.9 µg/L
+PDIA5	Protein disulfide isomerase family A member 5	2.9 µg/L
+DNAJC3	DnaJ heat shock protein family (Hsp40) member C3	2.9 µg/L
+CBLN1	Cerebellin 1 precursor	2.9 µg/L
+HAVCR2	Hepatitis A virus cellular receptor 2	2.9 µg/L
+NOV	Nephroblastoma overexpressed	2.9 µg/L
+GALNT6	Polypeptide N-acetylgalactosaminyltransferase 6	2.9 µg/L
+PKLR	Pyruvate kinase L/R	2.9 µg/L
+FH	Fumarate hydratase	2.8 µg/L
+STK24	Serine/threonine kinase 24	2.8 µg/L
+RPN2	Ribophorin II	2.8 µg/L
+MPST	Mercaptopyruvate sulfurtransferase	2.8 µg/L
+TST	Thiosulfate sulfurtransferase	2.8 µg/L
+VGF	VGF nerve growth factor inducible	2.8 µg/L
+ARL8B	ADP ribosylation factor like GTPase 8B	2.8 µg/L
+PSMB6	Proteasome subunit beta 6	2.8 µg/L
+CD300A	CD300a molecule	2.8 µg/L
+TUFM	"Tu translation elongation factor, mitochondrial"	2.8 µg/L
+ROR1	Receptor tyrosine kinase like orphan receptor 1	2.8 µg/L
+AKR7A2	Aldo-keto reductase family 7 member A2	2.7 µg/L
+PABPC1	Poly(A) binding protein cytoplasmic 1	2.7 µg/L
+PKP1	Plakophilin 1	2.7 µg/L
+PLOD1	"Procollagen-lysine,2-oxoglutarate 5-dioxygenase 1"	2.7 µg/L
+HADHA	Hydroxyacyl-CoA dehydrogenase trifunctional multienzyme complex subunit alpha	2.7 µg/L
+CST4	Cystatin S	2.7 µg/L
+ATP6V1A	ATPase H+ transporting V1 subunit A	2.7 µg/L
+DSC3	Desmocollin 3	2.7 µg/L
+PSMB7	Proteasome subunit beta 7	2.7 µg/L
+SDK1	Sidekick cell adhesion molecule 1	2.7 µg/L
+CCT8	Chaperonin containing TCP1 subunit 8	2.7 µg/L
+DCXR	Dicarbonyl and L-xylulose reductase	2.7 µg/L
+DNER	Delta/notch like EGF repeat containing	2.7 µg/L
+KPRP	Keratinocyte proline rich protein	2.7 µg/L
+MRI1	Methylthioribose-1-phosphate isomerase 1	2.6 µg/L
+PLXNA1	Plexin A1	2.6 µg/L
+ABHD14B	Abhydrolase domain containing 14B	2.6 µg/L
+CD48	CD48 molecule	2.6 µg/L
+TCTN3	Tectonic family member 3	2.6 µg/L
+SLPI	Secretory leukocyte peptidase inhibitor	2.6 µg/L
+ITM2B	Integral membrane protein 2B	2.6 µg/L
+ESYT1	Extended synaptotagmin 1	2.6 µg/L
+ATP5F1C	ATP synthase F1 subunit gamma	2.6 µg/L
+HTRA1	HtrA serine peptidase 1	2.6 µg/L
+CHMP4A	Charged multivesicular body protein 4A	2.6 µg/L
+DPP3	Dipeptidyl peptidase 3	2.6 µg/L
+CYFIP1	Cytoplasmic FMR1 interacting protein 1	2.6 µg/L
+TNFRSF1B	TNF receptor superfamily member 1B	2.5 µg/L
+NID2	Nidogen 2	2.5 µg/L
+FHOD1	Formin homology 2 domain containing 1	2.5 µg/L
+FUOM	Fucose mutarotase	2.5 µg/L
+PTPRD	"Protein tyrosine phosphatase, receptor type D"	2.5 µg/L
+ITGB2	Integrin subunit beta 2	2.5 µg/L
+HNRNPF	Heterogeneous nuclear ribonucleoprotein F	2.5 µg/L
+BGN	Biglycan	2.5 µg/L
+ENPP1	Ectonucleotide pyrophosphatase/phosphodiesterase 1	2.5 µg/L
+GGCT	Gamma-glutamylcyclotransferase	2.4 µg/L
+BID	BH3 interacting domain death agonist	2.4 µg/L
+SEZ6L	Seizure related 6 homolog like	2.4 µg/L
+ICAM5	Intercellular adhesion molecule 5	2.4 µg/L
+NENF	Neudesin neurotrophic factor	2.4 µg/L
+FMOD	Fibromodulin	2.4 µg/L
+CNDP2	Carnosine dipeptidase 2	2.4 µg/L
+GALNS	Galactosamine (N-acetyl)-6-sulfatase	2.4 µg/L
+FCMR	Fc fragment of IgM receptor	2.4 µg/L
+RAP2B	"RAP2B, member of RAS oncogene family"	2.4 µg/L
+SEMA4A	Semaphorin 4A	2.4 µg/L
+ARPC1A	Actin related protein 2/3 complex subunit 1A	2.4 µg/L
+RCN1	Reticulocalbin 1	2.3 µg/L
+OLFM2	Olfactomedin 2	2.3 µg/L
+AEBP1	AE binding protein 1	2.3 µg/L
+TREML2	Triggering receptor expressed on myeloid cells like 2	2.3 µg/L
+LRRC4B	Leucine rich repeat containing 4B	2.3 µg/L
+LGALS3	Galectin 3	2.3 µg/L
+EIF4A1	Eukaryotic translation initiation factor 4A1	2.3 µg/L
+RNASE6	Ribonuclease A family member k6	2.3 µg/L
+CANT1	Calcium activated nucleotidase 1	2.3 µg/L
+RHOG	Ras homolog family member G	2.3 µg/L
+NAGA	Alpha-N-acetylgalactosaminidase	2.3 µg/L
+ITGA1	Integrin subunit alpha 1	2.3 µg/L
+AL035078.4	Reticulocalbin-1	2.3 µg/L
+TNFRSF17	TNF receptor superfamily member 17	2.2 µg/L
+CASP14	Caspase 14	2.2 µg/L
+ADAMTS8	ADAM metallopeptidase with thrombospondin type 1 motif 8	2.2 µg/L
+COX5B	Cytochrome c oxidase subunit 5B	2.2 µg/L
+UBASH3B	Ubiquitin associated and SH3 domain containing B	2.2 µg/L
+HSPA13	Heat shock protein family A (Hsp70) member 13	2.2 µg/L
+PDLIM5	PDZ and LIM domain 5	2.2 µg/L
+PRNP	Prion protein	2.2 µg/L
+ARHGAP45	Rho GTPase activating protein 45	2.2 µg/L
+CPS1	Carbamoyl-phosphate synthase 1	2.1 µg/L
+KIF2A	Kinesin family member 2A	2.1 µg/L
+TTLL12	Tubulin tyrosine ligase like 12	2.1 µg/L
+LSR	Lipolysis stimulated lipoprotein receptor	2.1 µg/L
+ECE1	Endothelin converting enzyme 1	2.1 µg/L
+CLTA	Clathrin light chain A	2.1 µg/L
+PI3	Peptidase inhibitor 3	2.1 µg/L
+ACLY	ATP citrate lyase	2.1 µg/L
+RAN	"RAN, member RAS oncogene family"	2.1 µg/L
+CNTN6	Contactin 6	2.1 µg/L
+ARRB1	Arrestin beta 1	2.1 µg/L
+NPEPPS	Aminopeptidase puromycin sensitive	2.1 µg/L
+SCCPDH	Saccharopine dehydrogenase (putative)	2.1 µg/L
+B3GNT7	"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 7"	2.1 µg/L
+CMPK1	Cytidine/uridine monophosphate kinase 1	2.1 µg/L
+NFASC	Neurofascin	2.1 µg/L
+BMP1	Bone morphogenetic protein 1	2.1 µg/L
+HNRNPH1	Heterogeneous nuclear ribonucleoprotein H1	2.1 µg/L
+EFNA1	Ephrin A1	2.1 µg/L
+TSKU	"Tsukushi, small leucine rich proteoglycan"	2.1 µg/L
+KRTAP19-5	Keratin associated protein 19-5	2.1 µg/L
+DDR1	Discoidin domain receptor tyrosine kinase 1	2.1 µg/L
+CKMT1A	"Creatine kinase, mitochondrial 1A"	2.1 µg/L
+CKMT1B	"Creatine kinase, mitochondrial 1B"	2.1 µg/L
+PDCD6	Programmed cell death 6	2.1 µg/L
+FYN	"FYN proto-oncogene, Src family tyrosine kinase"	2.0 µg/L
+SDK2	Sidekick cell adhesion molecule 2	2.0 µg/L
+HMCN1	Hemicentin 1	2.0 µg/L
+TATDN1	TatD DNase domain containing 1	2.0 µg/L
+NAPRT	Nicotinate phosphoribosyltransferase	2.0 µg/L
+FDPS	Farnesyl diphosphate synthase	2.0 µg/L
+SMPD1	Sphingomyelin phosphodiesterase 1	2.0 µg/L
+IDH3A	Isocitrate dehydrogenase 3 (NAD(+)) alpha	2.0 µg/L
+PLD4	Phospholipase D family member 4	2.0 µg/L
+COL14A1	Collagen type XIV alpha 1 chain	2.0 µg/L
+HMGB1	High mobility group box 1	2.0 µg/L
+CD47	CD47 molecule	2.0 µg/L
+PCBP2	Poly(rC) binding protein 2	2.0 µg/L
+KRTAP13-1	Keratin associated protein 13-1	2.0 µg/L
+BAG6	BCL2 associated athanogene 6	2.0 µg/L
+TMEM132A	Transmembrane protein 132A	1.9 µg/L
+TSPAN9	Tetraspanin 9	1.9 µg/L
+RASGRP2	RAS guanyl releasing protein 2	1.9 µg/L
+GRPEL1	"GrpE like 1, mitochondrial"	1.9 µg/L
+CD81	CD81 molecule	1.9 µg/L
+SPTBN1	"Spectrin beta, non-erythrocytic 1"	1.9 µg/L
+FLOT2	Flotillin 2	1.9 µg/L
+COL4A2	Collagen type IV alpha 2 chain	1.9 µg/L
+PRKCA	Protein kinase C alpha	1.9 µg/L
+ADAMTS1	ADAM metallopeptidase with thrombospondin type 1 motif 1	1.9 µg/L
+PGM2	Phosphoglucomutase 2	1.9 µg/L
+GRB2	Growth factor receptor bound protein 2	1.9 µg/L
+OTC	Ornithine carbamoyltransferase	1.8 µg/L
+DCBLD2	"Discoidin, CUB and LCCL domain containing 2"	1.8 µg/L
+HSD17B10	Hydroxysteroid 17-beta dehydrogenase 10	1.8 µg/L
+FGL1	Fibrinogen like 1	1.8 µg/L
+PTN	Pleiotrophin	1.8 µg/L
+SIAE	Sialic acid acetylesterase	1.8 µg/L
+ATP5IF1	ATP synthase inhibitory factor subunit 1	1.8 µg/L
+FST	Follistatin	1.8 µg/L
+PFKL	"Phosphofructokinase, liver type"	1.8 µg/L
+QDPR	Quinoid dihydropteridine reductase	1.8 µg/L
+C21orf33	Chromosome 21 open reading frame 33	1.8 µg/L
+ADGRL4	Adhesion G protein-coupled receptor L4	1.8 µg/L
+LRRC15	Leucine rich repeat containing 15	1.8 µg/L
+FLII	"FLII, actin remodeling protein"	1.8 µg/L
+HIST1H1C	Histone cluster 1 H1 family member c	1.8 µg/L
+AKR1C4	Aldo-keto reductase family 1 member C4	1.8 µg/L
+DDAH2	Dimethylarginine dimethylaminohydrolase 2	1.8 µg/L
+DAZAP1	DAZ associated protein 1	1.7 µg/L
+AKR1B1	Aldo-keto reductase family 1 member B	1.7 µg/L
+MXRA5	Matrix remodeling associated 5	1.7 µg/L
+IL1RL1	Interleukin 1 receptor like 1	1.7 µg/L
+LYPLA1	Lysophospholipase I	1.7 µg/L
+SEMG1	Semenogelin I	1.7 µg/L
+TNNI3	"Troponin I3, cardiac type"	1.7 µg/L
+PSAT1	Phosphoserine aminotransferase 1	1.7 µg/L
+HK3	Hexokinase 3	1.7 µg/L
+GLB1	Galactosidase beta 1	1.7 µg/L
+WFIKKN2	"WAP, follistatin/kazal, immunoglobulin, kunitz and netrin domain containing 2"	1.7 µg/L
+CHID1	Chitinase domain containing 1	1.7 µg/L
+TGM2	Transglutaminase 2	1.7 µg/L
+PRKAR2B	Protein kinase cAMP-dependent type II regulatory subunit beta	1.6 µg/L
+GLG1	Golgi glycoprotein 1	1.6 µg/L
+CYB5B	Cytochrome b5 type B	1.6 µg/L
+SFRP1	Secreted frizzled related protein 1	1.6 µg/L
+BLVRA	Biliverdin reductase A	1.6 µg/L
+SRSF3	Serine and arginine rich splicing factor 3	1.6 µg/L
+SDC1	Syndecan 1	1.6 µg/L
+GLO1	Glyoxalase I	1.6 µg/L
+LSP1	Lymphocyte-specific protein 1	1.6 µg/L
+NT5E	5'-nucleotidase ecto	1.6 µg/L
+ARSG	Arylsulfatase G	1.6 µg/L
+GALNT1	Polypeptide N-acetylgalactosaminyltransferase 1	1.6 µg/L
+B3GAT3	"Beta-1,3-glucuronyltransferase 3"	1.6 µg/L
+SPON2	Spondin 2	1.6 µg/L
+APEH	Acylaminoacyl-peptide hydrolase	1.6 µg/L
+ATP5PD	ATP synthase peripheral stalk subunit d	1.6 µg/L
+PAFAH1B2	Platelet activating factor acetylhydrolase 1b catalytic subunit 2	1.6 µg/L
+FASN	Fatty acid synthase	1.6 µg/L
+UBE2O	Ubiquitin conjugating enzyme E2 O	1.6 µg/L
+05-Sep	Septin 5	1.6 µg/L
+ATL3	Atlastin GTPase 3	1.6 µg/L
+HLA-DRA	"Major histocompatibility complex, class II, DR alpha"	1.6 µg/L
+C1QTNF5	C1q and TNF related 5	1.6 µg/L
+ISOC1	Isochorismatase domain containing 1	1.5 µg/L
+TXNL1	Thioredoxin like 1	1.5 µg/L
+CRKL	"CRK like proto-oncogene, adaptor protein"	1.5 µg/L
+TPD52L2	Tumor protein D52 like 2	1.5 µg/L
+CSK	C-terminal Src kinase	1.5 µg/L
+SFRP4	Secreted frizzled related protein 4	1.5 µg/L
+ACTR1B	ARP1 actin related protein 1 homolog B	1.5 µg/L
+OLFML3	Olfactomedin like 3	1.5 µg/L
+ECHS1	"Enoyl-CoA hydratase, short chain 1"	1.5 µg/L
+GMFG	Glia maturation factor gamma	1.5 µg/L
+GGT7	Gamma-glutamyltransferase 7	1.5 µg/L
+WDR44	WD repeat domain 44	1.5 µg/L
+FLOT1	Flotillin 1	1.5 µg/L
+SDCBP	Syndecan binding protein	1.5 µg/L
+PRKACB	Protein kinase cAMP-activated catalytic subunit beta	1.5 µg/L
+CPA2	Carboxypeptidase A2	1.5 µg/L
+CAPN2	Calpain 2	1.5 µg/L
+CD200R1	CD200 receptor 1	1.5 µg/L
+CLEC1B	C-type lectin domain family 1 member B	1.5 µg/L
+ANGPTL4	Angiopoietin like 4	1.5 µg/L
+SCARA5	Scavenger receptor class A member 5	1.5 µg/L
+UBE2V2	Ubiquitin conjugating enzyme E2 V2	1.5 µg/L
+HNRNPA3	Heterogeneous nuclear ribonucleoprotein A3	1.5 µg/L
+ANO6	Anoctamin 6	1.5 µg/L
+ABAT	4-aminobutyrate aminotransferase	1.5 µg/L
+TOR4A	Torsin family 4 member A	1.5 µg/L
+SRI	Sorcin	1.4 µg/L
+PREP	Prolyl endopeptidase	1.4 µg/L
+ADD1	Adducin 1	1.4 µg/L
+HNRNPC	Heterogeneous nuclear ribonucleoprotein C (C1/C2)	1.4 µg/L
+USP14	Ubiquitin specific peptidase 14	1.4 µg/L
+CD33	CD33 molecule	1.4 µg/L
+DCPS	"Decapping enzyme, scavenger"	1.4 µg/L
+ALDH2	Aldehyde dehydrogenase 2 family (mitochondrial)	1.4 µg/L
+SRSF7	Serine and arginine rich splicing factor 7	1.4 µg/L
+SLITRK3	SLIT and NTRK like family member 3	1.4 µg/L
+BHMT2	Betaine--homocysteine S-methyltransferase 2	1.4 µg/L
+GRHPR	Glyoxylate and hydroxypyruvate reductase	1.4 µg/L
+INHBE	Inhibin beta E subunit	1.4 µg/L
+RGS10	Regulator of G protein signaling 10	1.4 µg/L
+MCU	Mitochondrial calcium uniporter	1.4 µg/L
+JAML	Junction adhesion molecule like	1.4 µg/L
+FN3K	Fructosamine 3 kinase	1.4 µg/L
+THOP1	Thimet oligopeptidase 1	1.4 µg/L
+GNG5	G protein subunit gamma 5	1.4 µg/L
+LRRN1	Leucine rich repeat neuronal 1	1.4 µg/L
+RGMA	Repulsive guidance molecule BMP co-receptor a	1.4 µg/L
+UBA7	Ubiquitin like modifier activating enzyme 7	1.4 µg/L
+ABHD16A	Abhydrolase domain containing 16A	1.4 µg/L
+PSMB10	Proteasome subunit beta 10	1.4 µg/L
+ATP5MF	ATP synthase membrane subunit f	1.4 µg/L
+UQCRC1	Ubiquinol-cytochrome c reductase core protein 1	1.3 µg/L
+DCN	Decorin	1.3 µg/L
+RTN4R	Reticulon 4 receptor	1.3 µg/L
+PRKACA	Protein kinase cAMP-activated catalytic subunit alpha	1.3 µg/L
+BAX	"BCL2 associated X, apoptosis regulator"	1.3 µg/L
+WFDC2	WAP four-disulfide core domain 2	1.3 µg/L
+P2RX1	Purinergic receptor P2X 1	1.3 µg/L
+DUSP3	Dual specificity phosphatase 3	1.3 µg/L
+MLEC	Malectin	1.3 µg/L
+GDA	Guanine deaminase	1.3 µg/L
+CBLN2	Cerebellin 2 precursor	1.3 µg/L
+TNFRSF21	TNF receptor superfamily member 21	1.3 µg/L
+GART	"Phosphoribosylglycinamide formyltransferase, phosphoribosylglycinamide synthetase, phosphoribosylaminoimidazole synthetase"	1.3 µg/L
+LEAP2	Liver enriched antimicrobial peptide 2	1.3 µg/L
+VWCE	Von Willebrand factor C and EGF domains	1.3 µg/L
+KRTAP4-4	Keratin associated protein 4-4	1.3 µg/L
+DES	Desmin	1.3 µg/L
+DPP7	Dipeptidyl peptidase 7	1.3 µg/L
+KRTAP13-2	Keratin associated protein 13-2	1.3 µg/L
+PCDH9	Protocadherin 9	1.3 µg/L
+DPYD	Dihydropyrimidine dehydrogenase	1.3 µg/L
+GSTK1	Glutathione S-transferase kappa 1	1.3 µg/L
+MT-CO2	Mitochondrially encoded cytochrome c oxidase II	1.3 µg/L
+IL10RB	Interleukin 10 receptor subunit beta	1.3 µg/L
+ST6GALNAC1	"ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 1"	1.2 µg/L
+SEMA3A	Semaphorin 3A	1.2 µg/L
+HEPH	Hephaestin	1.2 µg/L
+LGMN	Legumain	1.2 µg/L
+HMOX2	Heme oxygenase 2	1.2 µg/L
+EBI3	Epstein-Barr virus induced 3	1.2 µg/L
+TMEM248	Transmembrane protein 248	1.2 µg/L
+MDK	Midkine	1.2 µg/L
+CDH6	Cadherin 6	1.2 µg/L
+ACADM	Acyl-CoA dehydrogenase medium chain	1.2 µg/L
+MAN1C1	Mannosidase alpha class 1C member 1	1.2 µg/L
+COX6B1	Cytochrome c oxidase subunit 6B1	1.2 µg/L
+LAMA5	Laminin subunit alpha 5	1.2 µg/L
+BIN1	Bridging integrator 1	1.2 µg/L
+FAM129B	Family with sequence similarity 129 member B	1.2 µg/L
+DOK2	Docking protein 2	1.2 µg/L
+C16orf89	Chromosome 16 open reading frame 89	1.2 µg/L
+ZG16B	Zymogen granule protein 16B	1.2 µg/L
+S100P	S100 calcium binding protein P	1.2 µg/L
+PA2G4	Proliferation-associated 2G4	1.2 µg/L
+CES3	Carboxylesterase 3	1.2 µg/L
+VMO1	Vitelline membrane outer layer 1 homolog	1.2 µg/L
+NCCRP1	Non-specific cytotoxic cell receptor protein 1 homolog (zebrafish)	1.2 µg/L
+ASAH2	N-acylsphingosine amidohydrolase 2	1.2 µg/L
+PCDH18	Protocadherin 18	1.2 µg/L
+SND1	Staphylococcal nuclease and tudor domain containing 1	1.2 µg/L
+BPIFA1	BPI fold containing family A member 1	1.2 µg/L
+APRT	Adenine phosphoribosyltransferase	1.2 µg/L
+KRTAP4-2	Keratin associated protein 4-2	1.2 µg/L
+ITGAL	Integrin subunit alpha L	1.1 µg/L
+PAFAH1B1	Platelet activating factor acetylhydrolase 1b regulatory subunit 1	1.1 µg/L
+PYCARD	PYD and CARD domain containing	1.1 µg/L
+NNT	Nicotinamide nucleotide transhydrogenase	1.1 µg/L
+TRAP1	TNF receptor associated protein 1	1.1 µg/L
+PTPN12	"Protein tyrosine phosphatase, non-receptor type 12"	1.1 µg/L
+LRRC4	Leucine rich repeat containing 4	1.1 µg/L
+ILF3	Interleukin enhancer binding factor 3	1.1 µg/L
+SRSF1	Serine and arginine rich splicing factor 1	1.1 µg/L
+HINT2	Histidine triad nucleotide binding protein 2	1.1 µg/L
+CLPS	Colipase	1.1 µg/L
+HADHB	Hydroxyacyl-CoA dehydrogenase trifunctional multienzyme complex subunit beta	1.1 µg/L
+MFGE8	Milk fat globule-EGF factor 8 protein	1.1 µg/L
+ALDH9A1	Aldehyde dehydrogenase 9 family member A1	1.1 µg/L
+PFKM	"Phosphofructokinase, muscle"	1.1 µg/L
+SIGLEC7	Sialic acid binding Ig like lectin 7	1.1 µg/L
+RPS9	Ribosomal protein S9	1.1 µg/L
+EFEMP2	EGF containing fibulin extracellular matrix protein 2	1.1 µg/L
+RAB37	"RAB37, member RAS oncogene family"	1.1 µg/L
+SYCN	Syncollin	1.1 µg/L
+MAN1A2	Mannosidase alpha class 1A member 2	1.1 µg/L
+TAPBP	TAP binding protein	1.1 µg/L
+PRKDC	"Protein kinase, DNA-activated, catalytic polypeptide"	1.1 µg/L
+CACNA2D2	Calcium voltage-gated channel auxiliary subunit alpha2delta 2	1.0 µg/L
+GCLM	Glutamate-cysteine ligase modifier subunit	1.0 µg/L
+MAT2B	Methionine adenosyltransferase 2B	1.0 µg/L
+TG	Thyroglobulin	1.0 µg/L
+NDST1	N-deacetylase and N-sulfotransferase 1	1.0 µg/L
+OXCT1	3-oxoacid CoA-transferase 1	1.0 µg/L
+LRRFIP2	LRR binding FLII interacting protein 2	1.0 µg/L
+AP1B1	Adaptor related protein complex 1 beta 1 subunit	1.0 µg/L
+HPN	Hepsin	1.0 µg/L
+VAT1	Vesicle amine transport 1	1.0 µg/L
+RAB5B	"RAB5B, member RAS oncogene family"	1.0 µg/L
+CLIC5	Chloride intracellular channel 5	1.0 µg/L
+IL1R1	Interleukin 1 receptor type 1	1.0 µg/L
+CD46	CD46 molecule	1.0 µg/L
+RPLP1	Ribosomal protein lateral stalk subunit P1	1.0 µg/L
+COX17	"COX17, cytochrome c oxidase copper chaperone"	1.0 µg/L
+PTGR2	Prostaglandin reductase 2	1.0 µg/L
+EIF4A2	Eukaryotic translation initiation factor 4A2	1.0 µg/L
+AKR7A3	Aldo-keto reductase family 7 member A3	1.0 µg/L
+SYK	Spleen associated tyrosine kinase	1.0 µg/L
+CTNNB1	Catenin beta 1	1.0 µg/L
+NPTX1	Neuronal pentraxin 1	1.0 µg/L
+TBCA	Tubulin folding cofactor A	1.0 µg/L
+RPS7	Ribosomal protein S7	1.0 µg/L
+COPB2	Coatomer protein complex subunit beta 2	1.0 µg/L
+EPHB4	EPH receptor B4	1.0 µg/L
+GMFB	Glia maturation factor beta	1.0 µg/L
+XYLT2	Xylosyltransferase 2	990 ng/L
+MEP1A	Meprin A subunit alpha	990 ng/L
+FAM49B	Family with sequence similarity 49 member B	990 ng/L
+TFF1	Trefoil factor 1	990 ng/L
+FKBP3	FK506 binding protein 3	980 ng/L
+SEC22B	"SEC22 homolog B, vesicle trafficking protein (gene/pseudogene)"	980 ng/L
+CD209	CD209 molecule	970 ng/L
+GNPDA1	Glucosamine-6-phosphate deaminase 1	970 ng/L
+GNG11	G protein subunit gamma 11	970 ng/L
+COX4I1	Cytochrome c oxidase subunit 4I1	970 ng/L
+ANXA6	Annexin A6	970 ng/L
+LY75	Lymphocyte antigen 75	960 ng/L
+CLIP2	CAP-Gly domain containing linker protein 2	960 ng/L
+NIT2	Nitrilase family member 2	960 ng/L
+KLK7	Kallikrein related peptidase 7	960 ng/L
+PRF1	Perforin 1	960 ng/L
+SLC39A14	Solute carrier family 39 member 14	950 ng/L
+PTPRZ1	"Protein tyrosine phosphatase, receptor type Z1"	950 ng/L
+AHNAK	AHNAK nucleoprotein	950 ng/L
+KLK8	Kallikrein related peptidase 8	950 ng/L
+MAT2A	Methionine adenosyltransferase 2A	950 ng/L
+MCFD2	Multiple coagulation factor deficiency 2	950 ng/L
+SCARF1	Scavenger receptor class F member 1	940 ng/L
+PTGR1	Prostaglandin reductase 1	940 ng/L
+GNS	Glucosamine (N-acetyl)-6-sulfatase	940 ng/L
+CCL18	C-C motif chemokine ligand 18	940 ng/L
+AFP	Alpha fetoprotein	930 ng/L
+C1QBP	Complement C1q binding protein	930 ng/L
+CPD	Carboxypeptidase D	930 ng/L
+ADGRE5	Adhesion G protein-coupled receptor E5	930 ng/L
+PCYOX1L	Prenylcysteine oxidase 1 like	930 ng/L
+GSTM2	Glutathione S-transferase mu 2	930 ng/L
+ARHGAP6	Rho GTPase activating protein 6	920 ng/L
+NSFL1C	NSFL1 cofactor	920 ng/L
+SEMG2	Semenogelin II	920 ng/L
+RAB5A	"RAB5A, member RAS oncogene family"	920 ng/L
+GAS6	Growth arrest specific 6	920 ng/L
+RANBP1	RAN binding protein 1	910 ng/L
+GLA	Galactosidase alpha	910 ng/L
+ALDH16A1	Aldehyde dehydrogenase 16 family member A1	910 ng/L
+EEF1D	Eukaryotic translation elongation factor 1 delta	900 ng/L
+TMOD1	Tropomodulin 1	900 ng/L
+ITGAM	Integrin subunit alpha M	900 ng/L
+ASPH	Aspartate beta-hydroxylase	900 ng/L
+CASS4	Cas scaffolding protein family member 4	890 ng/L
+CLEC4M	C-type lectin domain family 4 member M	890 ng/L
+GCA	Grancalcin	890 ng/L
+GDF15	Growth differentiation factor 15	890 ng/L
+IQGAP1	IQ motif containing GTPase activating protein 1	890 ng/L
+PLBD2	Phospholipase B domain containing 2	890 ng/L
+BAG3	BCL2 associated athanogene 3	890 ng/L
+LHPP	Phospholysine phosphohistidine inorganic pyrophosphate phosphatase	880 ng/L
+SET	SET nuclear proto-oncogene	880 ng/L
+LPL	Lipoprotein lipase	880 ng/L
+YBX1	Y-box binding protein 1	870 ng/L
+ACAT1	Acetyl-CoA acetyltransferase 1	870 ng/L
+WBP2	WW domain binding protein 2	870 ng/L
+KIAA0319L	KIAA0319 like	870 ng/L
+PDXK	Pyridoxal kinase	870 ng/L
+CD300LG	CD300 molecule like family member g	870 ng/L
+RPS5	Ribosomal protein S5	860 ng/L
+CYB5R1	Cytochrome b5 reductase 1	860 ng/L
+STX7	Syntaxin 7	850 ng/L
+PPM1A	"Protein phosphatase, Mg2+/Mn2+ dependent 1A"	850 ng/L
+DDR2	Discoidin domain receptor tyrosine kinase 2	850 ng/L
+SEMA4G	Semaphorin 4G	840 ng/L
+SF3B1	Splicing factor 3b subunit 1	840 ng/L
+ARHGAP18	Rho GTPase activating protein 18	840 ng/L
+HNRNPU	Heterogeneous nuclear ribonucleoprotein U	840 ng/L
+FUT11	Fucosyltransferase 11	840 ng/L
+GALNT10	Polypeptide N-acetylgalactosaminyltransferase 10	830 ng/L
+RPL4	Ribosomal protein L4	830 ng/L
+CRLF3	Cytokine receptor like factor 3	830 ng/L
+USP5	Ubiquitin specific peptidase 5	820 ng/L
+HSPH1	Heat shock protein family H (Hsp110) member 1	820 ng/L
+HMGCS2	3-hydroxy-3-methylglutaryl-CoA synthase 2	820 ng/L
+LECT2	Leukocyte cell derived chemotaxin 2	820 ng/L
+NOTCH4	Notch 4	820 ng/L
+LAMA3	Laminin subunit alpha 3	810 ng/L
+THSD1	Thrombospondin type 1 domain containing 1	810 ng/L
+NPM1	Nucleophosmin 1	810 ng/L
+AOC1	"Amine oxidase, copper containing 1"	800 ng/L
+DLST	Dihydrolipoamide S-succinyltransferase	800 ng/L
+MMP19	Matrix metallopeptidase 19	800 ng/L
+EFNB1	Ephrin B1	790 ng/L
+UPB1	Beta-ureidopropionase 1	790 ng/L
+CD99L2	CD99 molecule like 2	790 ng/L
+ATP4A	ATPase H+/K+ transporting alpha subunit	790 ng/L
+CPT1A	Carnitine palmitoyltransferase 1A	790 ng/L
+TJP2	Tight junction protein 2	790 ng/L
+CADM3	Cell adhesion molecule 3	790 ng/L
+SDHA	Succinate dehydrogenase complex flavoprotein subunit A	780 ng/L
+PPM1F	"Protein phosphatase, Mg2+/Mn2+ dependent 1F"	780 ng/L
+HIBADH	3-hydroxyisobutyrate dehydrogenase	780 ng/L
+CYB5A	Cytochrome b5 type A	780 ng/L
+PHB2	Prohibitin 2	780 ng/L
+ITGA7	Integrin subunit alpha 7	770 ng/L
+ANGPTL2	Angiopoietin like 2	770 ng/L
+CCL21	C-C motif chemokine ligand 21	770 ng/L
+PLAUR	"Plasminogen activator, urokinase receptor"	760 ng/L
+XPNPEP1	X-prolyl aminopeptidase 1	760 ng/L
+EFNB2	Ephrin B2	760 ng/L
+LTBP3	Latent transforming growth factor beta binding protein 3	760 ng/L
+ITGAV	Integrin subunit alpha V	750 ng/L
+DOK3	Docking protein 3	750 ng/L
+MIA3	"MIA family member 3, ER export factor"	750 ng/L
+GUCA2B	Guanylate cyclase activator 2B	740 ng/L
+KHSRP	KH-type splicing regulatory protein	740 ng/L
+DECR1	"2,4-dienoyl-CoA reductase 1"	740 ng/L
+TMX1	Thioredoxin related transmembrane protein 1	740 ng/L
+ANP32A	Acidic nuclear phosphoprotein 32 family member A	740 ng/L
+SNX3	Sorting nexin 3	730 ng/L
+SUMF2	Sulfatase modifying factor 2	730 ng/L
+SERPINH1	Serpin family H member 1	730 ng/L
+CNP	"2',3'-cyclic nucleotide 3' phosphodiesterase"	730 ng/L
+GOLIM4	Golgi integral membrane protein 4	730 ng/L
+RPLP2	Ribosomal protein lateral stalk subunit P2	730 ng/L
+CLDN5	Claudin 5	730 ng/L
+HLA-DPB1	"Major histocompatibility complex, class II, DP beta 1"	730 ng/L
+SDF4	Stromal cell derived factor 4	720 ng/L
+DNASE2	"Deoxyribonuclease 2, lysosomal"	720 ng/L
+PCDH12	Protocadherin 12	720 ng/L
+EPHX2	Epoxide hydrolase 2	720 ng/L
+RPL11	Ribosomal protein L11	720 ng/L
+ATP5PF	ATP synthase peripheral stalk subunit F6	720 ng/L
+CD1D	CD1d molecule	720 ng/L
+COL11A2	Collagen type XI alpha 2 chain	720 ng/L
+PLP2	Proteolipid protein 2	710 ng/L
+GNPDA2	Glucosamine-6-phosphate deaminase 2	710 ng/L
+RPSA	Ribosomal protein SA	710 ng/L
+AARS	Alanyl-tRNA synthetase	700 ng/L
+MESD	Mesoderm development LRP chaperone	690 ng/L
+NAGK	N-acetylglucosamine kinase	690 ng/L
+THBD	Thrombomodulin	690 ng/L
+AP2B1	Adaptor related protein complex 2 beta 1 subunit	680 ng/L
+PITHD1	PITH domain containing 1	680 ng/L
+CAMK2B	Calcium/calmodulin dependent protein kinase II beta	680 ng/L
+PDCD10	Programmed cell death 10	680 ng/L
+MYOM3	Myomesin 3	680 ng/L
+CD151	CD151 molecule (Raph blood group)	680 ng/L
+FGFR3	Fibroblast growth factor receptor 3	670 ng/L
+KLK10	Kallikrein related peptidase 10	670 ng/L
+TFF2	Trefoil factor 2	670 ng/L
+MZB1	Marginal zone B and B1 cell specific protein	670 ng/L
+GARS	Glycyl-tRNA synthetase	660 ng/L
+PEF1	Penta-EF-hand domain containing 1	660 ng/L
+NUDT5	Nudix hydrolase 5	660 ng/L
+GSTM4	Glutathione S-transferase mu 4	660 ng/L
+ROBO2	Roundabout guidance receptor 2	660 ng/L
+SERPINB5	Serpin family B member 5	660 ng/L
+ACHE	Acetylcholinesterase (Cartwright blood group)	650 ng/L
+DYNLL1	Dynein light chain LC8-type 1	650 ng/L
+PPP1R7	Protein phosphatase 1 regulatory subunit 7	650 ng/L
+FABP6	Fatty acid binding protein 6	650 ng/L
+EMILIN3	Elastin microfibril interfacer 3	650 ng/L
+ADA	Adenosine deaminase	650 ng/L
+ETFB	Electron transfer flavoprotein beta subunit	640 ng/L
+EEF1B2	Eukaryotic translation elongation factor 1 beta 2	640 ng/L
+ATP5PB	ATP synthase peripheral stalk-membrane subunit b	640 ng/L
+LRP11	LDL receptor related protein 11	640 ng/L
+ALDH1L1	Aldehyde dehydrogenase 1 family member L1	640 ng/L
+CYBB	Cytochrome b-245 beta chain	640 ng/L
+ADAM9	ADAM metallopeptidase domain 9	640 ng/L
+C11orf54	Chromosome 11 open reading frame 54	640 ng/L
+TXNDC17	Thioredoxin domain containing 17	630 ng/L
+GALNT5	Polypeptide N-acetylgalactosaminyltransferase 5	630 ng/L
+OTUB1	"OTU deubiquitinase, ubiquitin aldehyde binding 1"	630 ng/L
+SLAMF7	SLAM family member 7	620 ng/L
+ADSS	Adenylosuccinate synthase	620 ng/L
+CHRDL1	Chordin like 1	620 ng/L
+LFNG	LFNG O-fucosylpeptide 3-beta-N-acetylglucosaminyltransferase	620 ng/L
+RTN3	Reticulon 3	620 ng/L
+GATM	Glycine amidinotransferase	620 ng/L
+NRXN1	Neurexin 1	620 ng/L
+BTK	Bruton tyrosine kinase	610 ng/L
+IFNAR2	Interferon alpha and beta receptor subunit 2	610 ng/L
+PTMA	Prothymosin alpha	610 ng/L
+TSTA3	Tissue specific transplantation antigen P35B	600 ng/L
+ADGRD1	Adhesion G protein-coupled receptor D1	600 ng/L
+SKP1	S-phase kinase associated protein 1	600 ng/L
+NCL	Nucleolin	600 ng/L
+NT5C	"5', 3'-nucleotidase, cytosolic"	600 ng/L
+EMILIN2	Elastin microfibril interfacer 2	600 ng/L
+MATN2	Matrilin 2	600 ng/L
+SSR4	Signal sequence receptor subunit 4	600 ng/L
+SLAMF1	Signaling lymphocytic activation molecule family member 1	590 ng/L
+MUC5B	"Mucin 5B, oligomeric mucus/gel-forming"	590 ng/L
+CMBL	Carboxymethylenebutenolidase homolog	590 ng/L
+ATP5MG	ATP synthase membrane subunit g	590 ng/L
+PAK2	P21 (RAC1) activated kinase 2	590 ng/L
+KIRREL1	Kirre like nephrin family adhesion molecule 1	590 ng/L
+FIS1	"Fission, mitochondrial 1"	590 ng/L
+EHD2	EH domain containing 2	580 ng/L
+ST6GAL1	"ST6 beta-galactoside alpha-2,6-sialyltransferase 1"	580 ng/L
+PLXNA2	Plexin A2	580 ng/L
+PTGES3	Prostaglandin E synthase 3	580 ng/L
+ST8SIA4	"ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 4"	580 ng/L
+ADIRF	Adipogenesis regulatory factor	580 ng/L
+EIF4E	Eukaryotic translation initiation factor 4E	580 ng/L
+FTCD	Formimidoyltransferase cyclodeaminase	580 ng/L
+MEGF6	Multiple EGF like domains 6	580 ng/L
+ANXA4	Annexin A4	580 ng/L
+GALM	Galactose mutarotase	570 ng/L
+MMP14	Matrix metallopeptidase 14	570 ng/L
+SERPINA12	Serpin family A member 12	570 ng/L
+JAM3	Junctional adhesion molecule 3	570 ng/L
+GLDC	Glycine decarboxylase	570 ng/L
+COMT	Catechol-O-methyltransferase	560 ng/L
+HNRNPH3	Heterogeneous nuclear ribonucleoprotein H3	560 ng/L
+CEMIP	Cell migration inducing hyaluronan binding protein	560 ng/L
+IMPAD1	Inositol monophosphatase domain containing 1	560 ng/L
+GCNT2	"Glucosaminyl (N-acetyl) transferase 2, I-branching enzyme (I blood group)"	560 ng/L
+GSTM3	Glutathione S-transferase mu 3	560 ng/L
+TGFBR2	Transforming growth factor beta receptor 2	560 ng/L
+CHST15	Carbohydrate sulfotransferase 15	560 ng/L
+PTPN18	"Protein tyrosine phosphatase, non-receptor type 18"	550 ng/L
+MYRF	Myelin regulatory factor	550 ng/L
+ANGPTL6	Angiopoietin like 6	550 ng/L
+CAMK1	Calcium/calmodulin dependent protein kinase I	550 ng/L
+HNRNPD	Heterogeneous nuclear ribonucleoprotein D	550 ng/L
+CREG1	Cellular repressor of E1A stimulated genes 1	550 ng/L
+COLEC12	Collectin subfamily member 12	550 ng/L
+ANXA7	Annexin A7	540 ng/L
+RPS14	Ribosomal protein S14	540 ng/L
+MAN1B1	Mannosidase alpha class 1B member 1	540 ng/L
+COL16A1	Collagen type XVI alpha 1 chain	530 ng/L
+TNFSF13B	TNF superfamily member 13b	530 ng/L
+SUSD1	Sushi domain containing 1	530 ng/L
+ANXA11	Annexin A11	530 ng/L
+CNPY3	Canopy FGF signaling regulator 3	530 ng/L
+MAT1A	Methionine adenosyltransferase 1A	530 ng/L
+NRXN3	Neurexin 3	520 ng/L
+EMD	Emerin	520 ng/L
+EIF4H	Eukaryotic translation initiation factor 4H	520 ng/L
+LPP	LIM domain containing preferred translocation partner in lipoma	520 ng/L
+RPL12	Ribosomal protein L12	520 ng/L
+CPVL	"Carboxypeptidase, vitellogenic like"	510 ng/L
+CHST3	Carbohydrate sulfotransferase 3	510 ng/L
+UROC1	Urocanate hydratase 1	510 ng/L
+HIST1H1B	Histone cluster 1 H1 family member b	510 ng/L
+LRIG2	Leucine rich repeats and immunoglobulin like domains 2	510 ng/L
+FGFR2	Fibroblast growth factor receptor 2	500 ng/L
+DNM2	Dynamin 2	500 ng/L
+CPSF6	Cleavage and polyadenylation specific factor 6	500 ng/L
+FLG	Filaggrin	500 ng/L
+CD8A	CD8a molecule	500 ng/L
+CALML3	Calmodulin like 3	500 ng/L
+RAB21	"RAB21, member RAS oncogene family"	490 ng/L
+PLD3	Phospholipase D family member 3	490 ng/L
+MDGA1	MAM domain containing glycosylphosphatidylinositol anchor 1	490 ng/L
+UCHL3	Ubiquitin C-terminal hydrolase L3	490 ng/L
+SIL1	SIL1 nucleotide exchange factor	490 ng/L
+SERPINE2	Serpin family E member 2	490 ng/L
+NBEAL2	Neurobeachin like 2	490 ng/L
+SNRPD1	Small nuclear ribonucleoprotein D1 polypeptide	490 ng/L
+ANGPTL7	Angiopoietin like 7	490 ng/L
+CRIP2	Cysteine rich protein 2	490 ng/L
+COL6A6	Collagen type VI alpha 6 chain	490 ng/L
+CHI3L2	Chitinase 3 like 2	480 ng/L
+APLP2	Amyloid beta precursor like protein 2	480 ng/L
+CPA4	Carboxypeptidase A4	480 ng/L
+SEMA6D	Semaphorin 6D	480 ng/L
+ENPP3	Ectonucleotide pyrophosphatase/phosphodiesterase 3	480 ng/L
+ADH6	Alcohol dehydrogenase 6 (class V)	480 ng/L
+CCS	Copper chaperone for superoxide dismutase	480 ng/L
+CPE	Carboxypeptidase E	470 ng/L
+BAAT	Bile acid-CoA:amino acid N-acyltransferase	470 ng/L
+SURF4	Surfeit 4	470 ng/L
+WASF2	WAS protein family member 2	470 ng/L
+LACRT	Lacritin	460 ng/L
+CKAP5	Cytoskeleton associated protein 5	460 ng/L
+FAS	Fas cell surface death receptor	450 ng/L
+DAAM1	Dishevelled associated activator of morphogenesis 1	450 ng/L
+ABHD11	Abhydrolase domain containing 11	450 ng/L
+LDB3	LIM domain binding 3	450 ng/L
+MTTP	Microsomal triglyceride transfer protein	450 ng/L
+MXRA8	Matrix remodeling associated 8	450 ng/L
+RFNG	RFNG O-fucosylpeptide 3-beta-N-acetylglucosaminyltransferase	450 ng/L
+PLEKHO2	Pleckstrin homology domain containing O2	450 ng/L
+DNM1	Dynamin 1	440 ng/L
+DMGDH	Dimethylglycine dehydrogenase	440 ng/L
+FAM198A	Family with sequence similarity 198 member A	440 ng/L
+UCHL1	Ubiquitin C-terminal hydrolase L1	440 ng/L
+ENPP7	Ectonucleotide pyrophosphatase/phosphodiesterase 7	440 ng/L
+PTP4A2	"Protein tyrosine phosphatase type IVA, member 2"	440 ng/L
+PHPT1	Phosphohistidine phosphatase 1	430 ng/L
+TGM1	Transglutaminase 1	430 ng/L
+FBXO7	F-box protein 7	430 ng/L
+CLN5	"CLN5, intracellular trafficking protein"	430 ng/L
+POF1B	"POF1B, actin binding protein"	430 ng/L
+CHST12	Carbohydrate sulfotransferase 12	430 ng/L
+SORD	Sorbitol dehydrogenase	430 ng/L
+ERBB2	Erb-b2 receptor tyrosine kinase 2	430 ng/L
+SERBP1	SERPINE1 mRNA binding protein 1	430 ng/L
+IGSF1	Immunoglobulin superfamily member 1	430 ng/L
+RPS3	Ribosomal protein S3	430 ng/L
+MMP1	Matrix metallopeptidase 1	430 ng/L
+BGLAP	Bone gamma-carboxyglutamate protein	430 ng/L
+ERBB3	Erb-b2 receptor tyrosine kinase 3	420 ng/L
+PBLD	Phenazine biosynthesis like protein domain containing	420 ng/L
+NOC2L	NOC2 like nucleolar associated transcriptional repressor	420 ng/L
+SMIM1	Small integral membrane protein 1 (Vel blood group)	420 ng/L
+PSMB9	Proteasome subunit beta 9	420 ng/L
+EHD4	EH domain containing 4	410 ng/L
+ASAH1	N-acylsphingosine amidohydrolase 1	410 ng/L
+NAMPT	Nicotinamide phosphoribosyltransferase	410 ng/L
+ECHDC2	Enoyl-CoA hydratase domain containing 2	410 ng/L
+TPP2	Tripeptidyl peptidase 2	410 ng/L
+AOX1	Aldehyde oxidase 1	410 ng/L
+AMDHD1	Amidohydrolase domain containing 1	410 ng/L
+TXNRD2	Thioredoxin reductase 2	410 ng/L
+WISP2	WNT1 inducible signaling pathway protein 2	400 ng/L
+COPB1	Coatomer protein complex subunit beta 1	400 ng/L
+REG4	Regenerating family member 4	400 ng/L
+ABI1	Abl interactor 1	400 ng/L
+SRP14	Signal recognition particle 14	400 ng/L
+ESM1	Endothelial cell specific molecule 1	400 ng/L
+CASC4	Cancer susceptibility 4	400 ng/L
+CD320	CD320 molecule	400 ng/L
+SEMA4C	Semaphorin 4C	400 ng/L
+FKBP2	FK506 binding protein 2	400 ng/L
+KREMEN1	Kringle containing transmembrane protein 1	400 ng/L
+APOBR	Apolipoprotein B receptor	400 ng/L
+HBM	Hemoglobin subunit mu	400 ng/L
+REXO2	RNA exonuclease 2	390 ng/L
+CMTM6	CKLF like MARVEL transmembrane domain containing 6	390 ng/L
+RGCC	Regulator of cell cycle	390 ng/L
+LNPEP	Leucyl and cystinyl aminopeptidase	390 ng/L
+CDH15	Cadherin 15	390 ng/L
+IMPA1	Inositol monophosphatase 1	390 ng/L
+CRK	"CRK proto-oncogene, adaptor protein"	390 ng/L
+PIPOX	Pipecolic acid and sarcosine oxidase	390 ng/L
+S100A3	S100 calcium binding protein A3	390 ng/L
+KRTAP4-3	Keratin associated protein 4-3	390 ng/L
+CPPED1	Calcineurin like phosphoesterase domain containing 1	380 ng/L
+PSMD3	"Proteasome 26S subunit, non-ATPase 3"	380 ng/L
+AMPD2	Adenosine monophosphate deaminase 2	380 ng/L
+PCK1	Phosphoenolpyruvate carboxykinase 1	380 ng/L
+NAPSA	Napsin A aspartic peptidase	380 ng/L
+DDC	Dopa decarboxylase	380 ng/L
+RGS18	Regulator of G protein signaling 18	380 ng/L
+PGM5	Phosphoglucomutase 5	380 ng/L
+UQCRB	Ubiquinol-cytochrome c reductase binding protein	380 ng/L
+C1orf123	Chromosome 1 open reading frame 123	380 ng/L
+ATP1A1	ATPase Na+/K+ transporting subunit alpha 1	380 ng/L
+HMGB2	High mobility group box 2	380 ng/L
+PSMD2	"Proteasome 26S subunit, non-ATPase 2"	380 ng/L
+PTTG1IP	PTTG1 interacting protein	380 ng/L
+HNRNPAB	Heterogeneous nuclear ribonucleoprotein A/B	380 ng/L
+PAFAH1B3	Platelet activating factor acetylhydrolase 1b catalytic subunit 3	370 ng/L
+PLOD3	"Procollagen-lysine,2-oxoglutarate 5-dioxygenase 3"	370 ng/L
+DNPH1	2'-deoxynucleoside 5'-phosphate N-hydrolase 1	370 ng/L
+SCP2	Sterol carrier protein 2	370 ng/L
+CXorf36	Chromosome X open reading frame 36	370 ng/L
+LILRA5	Leukocyte immunoglobulin like receptor A5	370 ng/L
+SNRPD3	Small nuclear ribonucleoprotein D3 polypeptide	360 ng/L
+VSIR	V-set immunoregulatory receptor	360 ng/L
+KYNU	Kynureninase	360 ng/L
+CACYBP	Calcyclin binding protein	360 ng/L
+CMIP	C-Maf inducing protein	360 ng/L
+GPC6	Glypican 6	360 ng/L
+RPL10A	Ribosomal protein L10a	360 ng/L
+SCARF2	Scavenger receptor class F member 2	360 ng/L
+RETN	Resistin	350 ng/L
+LAMA4	Laminin subunit alpha 4	350 ng/L
+PRKAR2A	Protein kinase cAMP-dependent type II regulatory subunit alpha	350 ng/L
+SCRN2	Secernin 2	350 ng/L
+SUMF1	Sulfatase modifying factor 1	350 ng/L
+CADM2	Cell adhesion molecule 2	350 ng/L
+CLTB	Clathrin light chain B	350 ng/L
+PFAS	Phosphoribosylformylglycinamidine synthase	350 ng/L
+HEBP2	Heme binding protein 2	340 ng/L
+ARCN1	Archain 1	340 ng/L
+PSMD7	"Proteasome 26S subunit, non-ATPase 7"	340 ng/L
+TBCB	Tubulin folding cofactor B	340 ng/L
+CLINT1	Clathrin interactor 1	340 ng/L
+PAICS	Phosphoribosylaminoimidazole carboxylase and phosphoribosylaminoimidazolesuccinocarboxamide synthase	340 ng/L
+NCAN	Neurocan	340 ng/L
+EPHA7	EPH receptor A7	340 ng/L
+AP2M1	Adaptor related protein complex 2 mu 1 subunit	340 ng/L
+VEGFD	Vascular endothelial growth factor D	340 ng/L
+CTSW	Cathepsin W	340 ng/L
+PSMD9	"Proteasome 26S subunit, non-ATPase 9"	330 ng/L
+RAB32	"RAB32, member RAS oncogene family"	330 ng/L
+SMPDL3B	Sphingomyelin phosphodiesterase acid like 3B	330 ng/L
+TPBG	Trophoblast glycoprotein	330 ng/L
+SUCLG1	Succinate-CoA ligase alpha subunit	330 ng/L
+WAS	Wiskott-Aldrich syndrome	320 ng/L
+VPS35	"VPS35, retromer complex component"	320 ng/L
+TM9SF3	Transmembrane 9 superfamily member 3	320 ng/L
+NPTX2	Neuronal pentraxin 2	320 ng/L
+RPL22	Ribosomal protein L22	320 ng/L
+CNN3	Calponin 3	320 ng/L
+ANGPTL8	Angiopoietin like 8	320 ng/L
+KHK	Ketohexokinase	320 ng/L
+ADK	Adenosine kinase	320 ng/L
+CTHRC1	Collagen triple helix repeat containing 1	320 ng/L
+KLK11	Kallikrein related peptidase 11	320 ng/L
+SLITRK4	SLIT and NTRK like family member 4	320 ng/L
+TSN	Translin	320 ng/L
+SRPX	"Sushi repeat containing protein, X-linked"	310 ng/L
+HMGCS1	3-hydroxy-3-methylglutaryl-CoA synthase 1	310 ng/L
+PPL	Periplakin	310 ng/L
+TRIM58	Tripartite motif containing 58	310 ng/L
+PTX3	Pentraxin 3	310 ng/L
+CASP3	Caspase 3	310 ng/L
+NQO1	NAD(P)H quinone dehydrogenase 1	310 ng/L
+PPP1R12A	Protein phosphatase 1 regulatory subunit 12A	300 ng/L
+ENPP5	Ectonucleotide pyrophosphatase/phosphodiesterase 5 (putative)	300 ng/L
+HDGF	Heparin binding growth factor	300 ng/L
+PRKCD	Protein kinase C delta	300 ng/L
+DSG4	Desmoglein 4	300 ng/L
+AP2A1	Adaptor related protein complex 2 alpha 1 subunit	300 ng/L
+PDGFA	Platelet derived growth factor subunit A	300 ng/L
+GDF2	Growth differentiation factor 2	300 ng/L
+ST3GAL1	"ST3 beta-galactoside alpha-2,3-sialyltransferase 1"	290 ng/L
+STRAP	Serine/threonine kinase receptor associated protein	290 ng/L
+LOX	Lysyl oxidase	290 ng/L
+CHST10	Carbohydrate sulfotransferase 10	290 ng/L
+WIPF1	WAS/WASL interacting protein family member 1	290 ng/L
+INHBA	Inhibin beta A subunit	290 ng/L
+EPHB2	EPH receptor B2	290 ng/L
+KLB	Klotho beta	290 ng/L
+C9orf40	Chromosome 9 open reading frame 40	290 ng/L
+ANP32B	Acidic nuclear phosphoprotein 32 family member B	290 ng/L
+SEMA6C	Semaphorin 6C	290 ng/L
+PRSS23	Serine protease 23	290 ng/L
+CLIC2	Chloride intracellular channel 2	290 ng/L
+B3GALNT1	"Beta-1,3-N-acetylgalactosaminyltransferase 1 (globoside blood group)"	290 ng/L
+AZU1	Azurocidin 1	290 ng/L
+SUCLG2	Succinate-CoA ligase GDP-forming beta subunit	290 ng/L
+PLA2G2A	Phospholipase A2 group IIA	290 ng/L
+M6PR	"Mannose-6-phosphate receptor, cation dependent"	280 ng/L
+MRVI1	Murine retrovirus integration site 1 homolog	280 ng/L
+RPS12	Ribosomal protein S12	280 ng/L
+FAM20B	"FAM20B, glycosaminoglycan xylosylkinase"	280 ng/L
+SFPQ	Splicing factor proline and glutamine rich	280 ng/L
+ADGRL2	Adhesion G protein-coupled receptor L2	280 ng/L
+USP15	Ubiquitin specific peptidase 15	280 ng/L
+GLTP	Glycolipid transfer protein	280 ng/L
+IGSF10	Immunoglobulin superfamily member 10	280 ng/L
+SCUBE2	"Signal peptide, CUB domain and EGF like domain containing 2"	280 ng/L
+PRELP	Proline and arginine rich end leucine rich repeat protein	280 ng/L
+NPTXR	Neuronal pentraxin receptor	280 ng/L
+DPEP1	Dipeptidase 1	270 ng/L
+COL11A1	Collagen type XI alpha 1 chain	270 ng/L
+LRP6	LDL receptor related protein 6	270 ng/L
+SLC44A1	Solute carrier family 44 member 1	270 ng/L
+RPL6	Ribosomal protein L6	270 ng/L
+VNN2	Vanin 2	270 ng/L
+PSMF1	Proteasome inhibitor subunit 1	270 ng/L
+LAMTOR5	"Late endosomal/lysosomal adaptor, MAPK and MTOR activator 5"	270 ng/L
+GDF11	Growth differentiation factor 11	270 ng/L
+C14orf37	Chromosome 14 open reading frame 37	270 ng/L
+TNFAIP8	TNF alpha induced protein 8	270 ng/L
+LAMTOR1	"Late endosomal/lysosomal adaptor, MAPK and MTOR activator 1"	270 ng/L
+PDLIM3	PDZ and LIM domain 3	270 ng/L
+PCDH1	Protocadherin 1	270 ng/L
+SLITRK1	SLIT and NTRK like family member 1	270 ng/L
+DCTPP1	DCTP pyrophosphatase 1	270 ng/L
+OLFML1	Olfactomedin like 1	270 ng/L
+CRELD2	Cysteine rich with EGF like domains 2	270 ng/L
+KRT39	Keratin 39	270 ng/L
+SPTAN1	"Spectrin alpha, non-erythrocytic 1"	270 ng/L
+GALNT4	Polypeptide N-acetylgalactosaminyltransferase 4	270 ng/L
+GRAP2	GRB2-related adaptor protein 2	260 ng/L
+CDC37	Cell division cycle 37	260 ng/L
+C12orf49	Chromosome 12 open reading frame 49	260 ng/L
+TNNC1	"Troponin C1, slow skeletal and cardiac type"	260 ng/L
+COPA	Coatomer protein complex subunit alpha	260 ng/L
+SMARCA4	"SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4"	260 ng/L
+PSME3	Proteasome activator subunit 3	260 ng/L
+CTSV	Cathepsin V	260 ng/L
+RET	Ret proto-oncogene	260 ng/L
+KIF5B	Kinesin family member 5B	260 ng/L
+ABHD14A	Abhydrolase domain containing 14A	260 ng/L
+MAPK1	Mitogen-activated protein kinase 1	250 ng/L
+GALNT16	Polypeptide N-acetylgalactosaminyltransferase 16	250 ng/L
+MTHFD1	"Methylenetetrahydrofolate dehydrogenase, cyclohydrolase and formyltetrahydrofolate synthetase 1"	250 ng/L
+SSBP1	Single stranded DNA binding protein 1	250 ng/L
+ERBIN	Erbb2 interacting protein	250 ng/L
+AGMAT	Agmatinase	250 ng/L
+RBM25	RNA binding motif protein 25	250 ng/L
+ITGA9	Integrin subunit alpha 9	250 ng/L
+ELOC	Elongin C	250 ng/L
+ZG16	Zymogen granule protein 16	250 ng/L
+LRRC25	Leucine rich repeat containing 25	250 ng/L
+HGS	Hepatocyte growth factor-regulated tyrosine kinase substrate	250 ng/L
+KPNA4	Karyopherin subunit alpha 4	250 ng/L
+AQP1	Aquaporin 1 (Colton blood group)	250 ng/L
+LAMC3	Laminin subunit gamma 3	240 ng/L
+ROCK1	Rho associated coiled-coil containing protein kinase 1	240 ng/L
+CLC	Charcot-Leyden crystal galectin	240 ng/L
+CUBN	Cubilin	240 ng/L
+FLRT3	Fibronectin leucine rich transmembrane protein 3	240 ng/L
+CSRP3	Cysteine and glycine rich protein 3	240 ng/L
+IMMT	Inner membrane mitochondrial protein	240 ng/L
+MINDY1	MINDY lysine 48 deubiquitinase 1	240 ng/L
+GUK1	Guanylate kinase 1	240 ng/L
+ATP6V1B2	ATPase H+ transporting V1 subunit B2	240 ng/L
+CRB2	"Crumbs 2, cell polarity complex component"	240 ng/L
+PRG3	"Proteoglycan 3, pro eosinophil major basic protein 2"	240 ng/L
+LRP8	LDL receptor related protein 8	240 ng/L
+CD1C	CD1c molecule	240 ng/L
+S100A1	S100 calcium binding protein A1	240 ng/L
+PEA15	Proliferation and apoptosis adaptor protein 15	240 ng/L
+PRPF8	Pre-mRNA processing factor 8	240 ng/L
+SHMT1	Serine hydroxymethyltransferase 1	240 ng/L
+NHLRC3	NHL repeat containing 3	240 ng/L
+ISOC2	Isochorismatase domain containing 2	230 ng/L
+MAVS	Mitochondrial antiviral signaling protein	230 ng/L
+QPRT	Quinolinate phosphoribosyltransferase	230 ng/L
+TNR	Tenascin R	230 ng/L
+YARS	Tyrosyl-tRNA synthetase	230 ng/L
+NIPSNAP3A	Nipsnap homolog 3A	230 ng/L
+LRRC57	Leucine rich repeat containing 57	230 ng/L
+UNC5C	Unc-5 netrin receptor C	230 ng/L
+C2orf88	Chromosome 2 open reading frame 88	230 ng/L
+S100A10	S100 calcium binding protein A10	230 ng/L
+COL5A2	Collagen type V alpha 2 chain	230 ng/L
+NAXD	NAD(P)HX dehydratase	230 ng/L
+CDV3	CDV3 homolog	220 ng/L
+RAB2A	"RAB2A, member RAS oncogene family"	220 ng/L
+CD86	CD86 molecule	220 ng/L
+SPCS2	Signal peptidase complex subunit 2	220 ng/L
+VAPB	VAMP associated protein B and C	220 ng/L
+SIGLEC9	Sialic acid binding Ig like lectin 9	220 ng/L
+ST14	Suppression of tumorigenicity 14	220 ng/L
+GPX4	Glutathione peroxidase 4	220 ng/L
+FNTA	"Farnesyltransferase, CAAX box, alpha"	220 ng/L
+STAT3	Signal transducer and activator of transcription 3	220 ng/L
+ATP5ME	ATP synthase membrane subunit e	220 ng/L
+ADSSL1	Adenylosuccinate synthase like 1	220 ng/L
+DCTN1	Dynactin subunit 1	220 ng/L
+CLCA4	Chloride channel accessory 4	210 ng/L
+NCKAP1	NCK associated protein 1	210 ng/L
+ELAVL1	ELAV like RNA binding protein 1	210 ng/L
+COL5A3	Collagen type V alpha 3 chain	210 ng/L
+RAB18	"RAB18, member RAS oncogene family"	210 ng/L
+SULT2A1	Sulfotransferase family 2A member 1	210 ng/L
+COPE	Coatomer protein complex subunit epsilon	210 ng/L
+HGD	"Homogentisate 1,2-dioxygenase"	210 ng/L
+STMN1	Stathmin 1	210 ng/L
+VAMP8	Vesicle associated membrane protein 8	210 ng/L
+CNOT1	CCR4-NOT transcription complex subunit 1	210 ng/L
+STAB2	Stabilin 2	210 ng/L
+ALDH1B1	Aldehyde dehydrogenase 1 family member B1	210 ng/L
+PRUNE1	Prune exopolyphosphatase 1	210 ng/L
+CRYL1	Crystallin lambda 1	210 ng/L
+PCBD1	Pterin-4 alpha-carbinolamine dehydratase 1	210 ng/L
+PNLIPRP1	Pancreatic lipase related protein 1	210 ng/L
+RPL14	Ribosomal protein L14	210 ng/L
+DLL1	Delta like canonical Notch ligand 1	210 ng/L
+PRKCQ	Protein kinase C theta	200 ng/L
+NANS	N-acetylneuraminate synthase	200 ng/L
+CDS2	CDP-diacylglycerol synthase 2	200 ng/L
+HAO1	Hydroxyacid oxidase 1	200 ng/L
+GALNT18	Polypeptide N-acetylgalactosaminyltransferase 18	200 ng/L
+TP53I3	Tumor protein p53 inducible protein 3	200 ng/L
+HSD17B12	Hydroxysteroid 17-beta dehydrogenase 12	200 ng/L
+PAK1	P21 (RAC1) activated kinase 1	200 ng/L
+FUBP1	Far upstream element binding protein 1	200 ng/L
+SERPINI1	Serpin family I member 1	200 ng/L
+SNTB1	Syntrophin beta 1	200 ng/L
+GBA	Glucosylceramidase beta	200 ng/L
+HCLS1	Hematopoietic cell-specific Lyn substrate 1	200 ng/L
+KRTAP13-4	Keratin associated protein 13-4	200 ng/L
+UBQLN2	Ubiquilin 2	200 ng/L
+SULF2	Sulfatase 2	200 ng/L
+BCLAF1	BCL2 associated transcription factor 1	190 ng/L
+CUL1	Cullin 1	190 ng/L
+FUS	FUS RNA binding protein	190 ng/L
+SEC14L2	SEC14 like lipid binding 2	190 ng/L
+PSMC6	"Proteasome 26S subunit, ATPase 6"	190 ng/L
+FBL	Fibrillarin	190 ng/L
+MYL2	Myosin light chain 2	190 ng/L
+NEK9	NIMA related kinase 9	190 ng/L
+SARDH	Sarcosine dehydrogenase	190 ng/L
+OSTF1	Osteoclast stimulating factor 1	190 ng/L
+NPL	N-acetylneuraminate pyruvate lyase	190 ng/L
+IGSF8	Immunoglobulin superfamily member 8	190 ng/L
+BROX	BRO1 domain and CAAX motif containing	190 ng/L
+COPS2	COP9 signalosome subunit 2	190 ng/L
+CA4	Carbonic anhydrase 4	190 ng/L
+ACOX2	Acyl-CoA oxidase 2	190 ng/L
+PODN	Podocan	190 ng/L
+NPPA	Natriuretic peptide A	190 ng/L
+PHYKPL	5-phosphohydroxy-L-lysine phospho-lyase	190 ng/L
+VWA1	Von Willebrand factor A domain containing 1	190 ng/L
+GLDN	Gliomedin	190 ng/L
+LRBA	LPS responsive beige-like anchor protein	190 ng/L
+CBSL	Cystathionine-beta-synthase like	190 ng/L
+ITGA3	Integrin subunit alpha 3	180 ng/L
+DERA	Deoxyribose-phosphate aldolase	180 ng/L
+SEMA6A	Semaphorin 6A	180 ng/L
+NPDC1	"Neural proliferation, differentiation and control 1"	180 ng/L
+GLRX3	Glutaredoxin 3	180 ng/L
+FLT3	Fms related tyrosine kinase 3	180 ng/L
+COL21A1	Collagen type XXI alpha 1 chain	180 ng/L
+DTD1	D-tyrosyl-tRNA deacylase 1	180 ng/L
+UFC1	Ubiquitin-fold modifier conjugating enzyme 1	180 ng/L
+VLDLR	Very low density lipoprotein receptor	180 ng/L
+FAM177A1	Family with sequence similarity 177 member A1	180 ng/L
+CPAMD8	"C3 and PZP like, alpha-2-macroglobulin domain containing 8"	180 ng/L
+PSMC3	"Proteasome 26S subunit, ATPase 3"	180 ng/L
+SEMA6B	Semaphorin 6B	180 ng/L
+IL7R	Interleukin 7 receptor	180 ng/L
+BOLA2B	BolA family member 2B	180 ng/L
+BOLA2	BolA family member 2	180 ng/L
+ADSL	Adenylosuccinate lyase	180 ng/L
+GH1	Growth hormone 1	180 ng/L
+TNFRSF12A	TNF receptor superfamily member 12A	170 ng/L
+TNFRSF1A	TNF receptor superfamily member 1A	170 ng/L
+GPC4	Glypican 4	170 ng/L
+EPB41L2	Erythrocyte membrane protein band 4.1 like 2	170 ng/L
+XPO1	Exportin 1	170 ng/L
+HNRNPM	Heterogeneous nuclear ribonucleoprotein M	170 ng/L
+LIPG	"Lipase G, endothelial type"	170 ng/L
+TSPAN14	Tetraspanin 14	170 ng/L
+KRT23	Keratin 23	170 ng/L
+TARS	Threonyl-tRNA synthetase	170 ng/L
+DPYSL3	Dihydropyrimidinase like 3	170 ng/L
+RPS15	Ribosomal protein S15	170 ng/L
+RPS10	Ribosomal protein S10	170 ng/L
+MED1	Mediator complex subunit 1	170 ng/L
+TINAGL1	Tubulointerstitial nephritis antigen like 1	170 ng/L
+RPL7	Ribosomal protein L7	170 ng/L
+CAMK2G	Calcium/calmodulin dependent protein kinase II gamma	170 ng/L
+MMP3	Matrix metallopeptidase 3	170 ng/L
+FREM2	FRAS1 related extracellular matrix protein 2	170 ng/L
+BPNT1	"3'(2'), 5'-bisphosphate nucleotidase 1"	170 ng/L
+HPGDS	Hematopoietic prostaglandin D synthase	170 ng/L
+HDHD2	Haloacid dehalogenase like hydrolase domain containing 2	170 ng/L
+DDB1	Damage specific DNA binding protein 1	170 ng/L
+STAT5B	Signal transducer and activator of transcription 5B	170 ng/L
+CD163L1	CD163 molecule like 1	170 ng/L
+MPI	Mannose phosphate isomerase	170 ng/L
+DDI2	DNA damage inducible 1 homolog 2	170 ng/L
+LIMA1	LIM domain and actin binding 1	160 ng/L
+ATP6AP1	ATPase H+ transporting accessory protein 1	160 ng/L
+CDH19	Cadherin 19	160 ng/L
+GMPR2	Guanosine monophosphate reductase 2	160 ng/L
+DARS	Aspartyl-tRNA synthetase	160 ng/L
+STXBP3	Syntaxin binding protein 3	160 ng/L
+UFM1	Ubiquitin fold modifier 1	160 ng/L
+IAH1	Isoamyl acetate hydrolyzing esterase 1 (putative)	160 ng/L
+AMIGO2	Adhesion molecule with Ig like domain 2	160 ng/L
+RPL7A	Ribosomal protein L7a	160 ng/L
+ADGRA3	Adhesion G protein-coupled receptor A3	160 ng/L
+AIFM1	Apoptosis inducing factor mitochondria associated 1	160 ng/L
+ACOX1	Acyl-CoA oxidase 1	160 ng/L
+DPM3	Dolichyl-phosphate mannosyltransferase subunit 3	160 ng/L
+PTPN11	"Protein tyrosine phosphatase, non-receptor type 11"	160 ng/L
+SHMT2	Serine hydroxymethyltransferase 2	160 ng/L
+DLK1	Delta like non-canonical Notch ligand 1	160 ng/L
+RPS4X	"Ribosomal protein S4, X-linked"	160 ng/L
+CD2AP	CD2 associated protein	160 ng/L
+GPSM3	G protein signaling modulator 3	160 ng/L
+DNASE1	Deoxyribonuclease 1	160 ng/L
+CPNE1	Copine 1	160 ng/L
+KITLG	KIT ligand	150 ng/L
+NTN1	Netrin 1	150 ng/L
+UBE2K	Ubiquitin conjugating enzyme E2 K	150 ng/L
+GSPT1	G1 to S phase transition 1	150 ng/L
+LIPA	"Lipase A, lysosomal acid type"	150 ng/L
+PNPO	Pyridoxamine 5'-phosphate oxidase	150 ng/L
+DDX5	DEAD-box helicase 5	150 ng/L
+GNMT	Glycine N-methyltransferase	150 ng/L
+PDGFRA	Platelet derived growth factor receptor alpha	150 ng/L
+ATP6V1G1	ATPase H+ transporting V1 subunit G1	150 ng/L
+G3BP1	G3BP stress granule assembly factor 1	150 ng/L
+NONO	Non-POU domain containing octamer binding	150 ng/L
+TMEM132D	Transmembrane protein 132D	150 ng/L
+CARHSP1	Calcium regulated heat stable protein 1	150 ng/L
+HAAO	"3-hydroxyanthranilate 3,4-dioxygenase"	150 ng/L
+NDRG2	NDRG family member 2	150 ng/L
+AP1G1	Adaptor related protein complex 1 gamma 1 subunit	150 ng/L
+RGMB	Repulsive guidance molecule BMP co-receptor b	150 ng/L
+PITPNB	Phosphatidylinositol transfer protein beta	150 ng/L
+PURA	Purine rich element binding protein A	150 ng/L
+SHPK	Sedoheptulokinase	150 ng/L
+RCSD1	RCSD domain containing 1	150 ng/L
+KRTAP9-3	Keratin associated protein 9-3	150 ng/L
+TNFSF12	TNF superfamily member 12	150 ng/L
+EIF6	Eukaryotic translation initiation factor 6	150 ng/L
+MATR3	Matrin 3	140 ng/L
+ADGRA2	Adhesion G protein-coupled receptor A2	140 ng/L
+XRCC5	X-ray repair cross complementing 5	140 ng/L
+CPOX	Coproporphyrinogen oxidase	140 ng/L
+EPB41L3	Erythrocyte membrane protein band 4.1 like 3	140 ng/L
+POFUT1	Protein O-fucosyltransferase 1	140 ng/L
+EDF1	Endothelial differentiation related factor 1	140 ng/L
+VPS29	"VPS29, retromer complex component"	140 ng/L
+IDE	Insulin degrading enzyme	140 ng/L
+EML2	Echinoderm microtubule associated protein like 2	140 ng/L
+STAT5A	Signal transducer and activator of transcription 5A	140 ng/L
+TRIM28	Tripartite motif containing 28	140 ng/L
+MAP1B	Microtubule associated protein 1B	140 ng/L
+TRPC6	Transient receptor potential cation channel subfamily C member 6	140 ng/L
+RTN1	Reticulon 1	140 ng/L
+RPS2	Ribosomal protein S2	140 ng/L
+RPL32	Ribosomal protein L32	140 ng/L
+ENOPH1	Enolase-phosphatase 1	140 ng/L
+CAMK2D	Calcium/calmodulin dependent protein kinase II delta	140 ng/L
+PRPS1	Phosphoribosyl pyrophosphate synthetase 1	140 ng/L
+DDAH1	Dimethylarginine dimethylaminohydrolase 1	140 ng/L
+CC2D1B	Coiled-coil and C2 domain containing 1B	140 ng/L
+SRSF2	Serine and arginine rich splicing factor 2	140 ng/L
+ALDH7A1	Aldehyde dehydrogenase 7 family member A1	140 ng/L
+ERBB4	Erb-b2 receptor tyrosine kinase 4	140 ng/L
+TMEM132E	Transmembrane protein 132E	140 ng/L
+METTL7A	Methyltransferase like 7A	140 ng/L
+MYL4	Myosin light chain 4	140 ng/L
+NTRK1	Neurotrophic receptor tyrosine kinase 1	140 ng/L
+AGER	Advanced glycosylation end-product specific receptor	140 ng/L
+HEBP1	Heme binding protein 1	130 ng/L
+ZCCHC8	Zinc finger CCHC-type containing 8	130 ng/L
+OSTM1	Osteopetrosis associated transmembrane protein 1	130 ng/L
+HNRNPL	Heterogeneous nuclear ribonucleoprotein L	130 ng/L
+ESYT2	Extended synaptotagmin 2	130 ng/L
+RPL5	Ribosomal protein L5	130 ng/L
+IDUA	"Iduronidase, alpha-L-"	130 ng/L
+PPT1	Palmitoyl-protein thioesterase 1	130 ng/L
+TMEM2	Transmembrane protein 2	130 ng/L
+CAB39	Calcium binding protein 39	130 ng/L
+FTO	"FTO, alpha-ketoglutarate dependent dioxygenase"	130 ng/L
+RPL10	Ribosomal protein L10	130 ng/L
+SCUBE1	"Signal peptide, CUB domain and EGF like domain containing 1"	130 ng/L
+ARF6	ADP ribosylation factor 6	130 ng/L
+LAIR1	Leukocyte associated immunoglobulin like receptor 1	130 ng/L
+NT5DC1	5'-nucleotidase domain containing 1	130 ng/L
+RPS23	Ribosomal protein S23	130 ng/L
+S100A2	S100 calcium binding protein A2	130 ng/L
+RACK1	Receptor for activated C kinase 1	130 ng/L
+BRK1	"BRICK1, SCAR/WAVE actin nucleating complex subunit"	130 ng/L
+MILR1	Mast cell immunoglobulin like receptor 1	130 ng/L
+PKD1	"Polycystin 1, transient receptor potential channel interacting"	120 ng/L
+MYOM2	Myomesin 2	120 ng/L
+MAP4	Microtubule associated protein 4	120 ng/L
+SLC9A3R2	SLC9A3 regulator 2	120 ng/L
+FAT1	FAT atypical cadherin 1	120 ng/L
+CHRD	Chordin	120 ng/L
+RPL3	Ribosomal protein L3	120 ng/L
+UBE2I	Ubiquitin conjugating enzyme E2 I	120 ng/L
+COPZ1	Coatomer protein complex subunit zeta 1	120 ng/L
+HMGCL	3-hydroxymethyl-3-methylglutaryl-CoA lyase	120 ng/L
+HEATR1	HEAT repeat containing 1	120 ng/L
+LRRFIP1	LRR binding FLII interacting protein 1	120 ng/L
+LOXL1	Lysyl oxidase like 1	120 ng/L
+NTS	Neurotensin	120 ng/L
+MYO1G	Myosin IG	120 ng/L
+ARPC5L	Actin related protein 2/3 complex subunit 5 like	120 ng/L
+RAP1GDS1	Rap1 GTPase-GDP dissociation stimulator 1	120 ng/L
+DENR	Density regulated re-initiation and release factor	120 ng/L
+MEP1B	Meprin A subunit beta	120 ng/L
+CRIM1	Cysteine rich transmembrane BMP regulator 1	120 ng/L
+TOMM70	Translocase of outer mitochondrial membrane 70	120 ng/L
+STC1	Stanniocalcin 1	120 ng/L
+S100B	S100 calcium binding protein B	120 ng/L
+NCSTN	Nicastrin	120 ng/L
+BMP10	Bone morphogenetic protein 10	120 ng/L
+FCRL1	Fc receptor like 1	120 ng/L
+NELL1	Neural EGFL like 1	120 ng/L
+CLMP	CXADR like membrane protein	120 ng/L
+MARCKSL1	MARCKS like 1	120 ng/L
+PCCA	Propionyl-CoA carboxylase alpha subunit	120 ng/L
+TANGO2	Transport and golgi organization 2 homolog	120 ng/L
+09-Sep	Septin 9	120 ng/L
+JAG2	Jagged 2	120 ng/L
+PRTN3	Proteinase 3	120 ng/L
+DYNC1H1	Dynein cytoplasmic 1 heavy chain 1	120 ng/L
+DDX39B	DExD-box helicase 39B	120 ng/L
+VIT	Vitrin	120 ng/L
+SARNP	SAP domain containing ribonucleoprotein	120 ng/L
+GALT	Galactose-1-phosphate uridylyltransferase	120 ng/L
+RBM8A	RNA binding motif protein 8A	120 ng/L
+FKBP4	FK506 binding protein 4	110 ng/L
+CD6	CD6 molecule	110 ng/L
+ITGA8	Integrin subunit alpha 8	110 ng/L
+SIGLEC1	Sialic acid binding Ig like lectin 1	110 ng/L
+CRYM	Crystallin mu	110 ng/L
+CHCHD3	Coiled-coil-helix-coiled-coil-helix domain containing 3	110 ng/L
+CARS	Cysteinyl-tRNA synthetase	110 ng/L
+PFDN5	Prefoldin subunit 5	110 ng/L
+SCLY	Selenocysteine lyase	110 ng/L
+RAP1GAP2	RAP1 GTPase activating protein 2	110 ng/L
+IL2RA	Interleukin 2 receptor subunit alpha	110 ng/L
+SCRN1	Secernin 1	110 ng/L
+TACC2	Transforming acidic coiled-coil containing protein 2	110 ng/L
+SCAMP2	Secretory carrier membrane protein 2	110 ng/L
+LHFPL2	LHFPL tetraspan subfamily member 2	110 ng/L
+MUT	Methylmalonyl-CoA mutase	110 ng/L
+SCUBE3	"Signal peptide, CUB domain and EGF like domain containing 3"	110 ng/L
+ADAMTSL3	ADAMTS like 3	110 ng/L
+KALRN	Kalirin RhoGEF kinase	110 ng/L
+LZIC	Leucine zipper and CTNNBIP1 domain containing	110 ng/L
+MNDA	Myeloid cell nuclear differentiation antigen	110 ng/L
+TAP1	"Transporter 1, ATP binding cassette subfamily B member"	110 ng/L
+CST2	Cystatin SA	110 ng/L
+FGGY	FGGY carbohydrate kinase domain containing	110 ng/L
+HNRNPA0	Heterogeneous nuclear ribonucleoprotein A0	110 ng/L
+CYC1	Cytochrome c1	110 ng/L
+PPA1	Pyrophosphatase (inorganic) 1	110 ng/L
+COPG1	Coatomer protein complex subunit gamma 1	110 ng/L
+S100A14	S100 calcium binding protein A14	110 ng/L
+SERPINB2	Serpin family B member 2	110 ng/L
+COPS8	COP9 signalosome subunit 8	110 ng/L
+SELENOM	Selenoprotein M	110 ng/L
+PFDN6	Prefoldin subunit 6	110 ng/L
+DDX3X	"DEAD-box helicase 3, X-linked"	110 ng/L
+NUDT3	Nudix hydrolase 3	110 ng/L
+RPS20	Ribosomal protein S20	100 ng/L
+SARS	Seryl-tRNA synthetase	100 ng/L
+RPL18	Ribosomal protein L18	100 ng/L
+NGFR	Nerve growth factor receptor	100 ng/L
+ACSL4	Acyl-CoA synthetase long chain family member 4	100 ng/L
+ATP1B3	ATPase Na+/K+ transporting subunit beta 3	100 ng/L
+PSMC5	"Proteasome 26S subunit, ATPase 5"	100 ng/L
+SAMHD1	SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1	100 ng/L
+RPL19	Ribosomal protein L19	100 ng/L
+ITGA4	Integrin subunit alpha 4	100 ng/L
+ANGPTL1	Angiopoietin like 1	100 ng/L
+TSNAX	Translin associated factor X	100 ng/L
+NUP214	Nucleoporin 214	100 ng/L
+TMED7	Transmembrane p24 trafficking protein 7	100 ng/L
+RPS6	Ribosomal protein S6	100 ng/L
+IFNAR1	Interferon alpha and beta receptor subunit 1	100 ng/L
+BTF3	Basic transcription factor 3	100 ng/L
+CNTN5	Contactin 5	100 ng/L
+PITPNA	Phosphatidylinositol transfer protein alpha	100 ng/L
+CA13	Carbonic anhydrase 13	100 ng/L
+SIRPB2	Signal regulatory protein beta 2	100 ng/L
+PLA2R1	Phospholipase A2 receptor 1	99 ng/L
+MME	Membrane metalloendopeptidase	99 ng/L
+PDGFB	Platelet derived growth factor subunit B	98 ng/L
+APEX1	Apurinic/apyrimidinic endodeoxyribonuclease 1	98 ng/L
+BCAN	Brevican	98 ng/L
+STOML2	Stomatin like 2	98 ng/L
+DHX9	DExH-box helicase 9	97 ng/L
+LMNB2	Lamin B2	97 ng/L
+RBP2	Retinol binding protein 2	96 ng/L
+FAM171A1	Family with sequence similarity 171 member A1	96 ng/L
+MGAT5	"Mannosyl (alpha-1,6-)-glycoprotein beta-1,6-N-acetyl-glucosaminyltransferase"	96 ng/L
+PC	Pyruvate carboxylase	96 ng/L
+LRRC19	Leucine rich repeat containing 19	96 ng/L
+TMEM63A	Transmembrane protein 63A	96 ng/L
+ITGB5	Integrin subunit beta 5	95 ng/L
+TXNDC12	Thioredoxin domain containing 12	95 ng/L
+LY96	Lymphocyte antigen 96	95 ng/L
+PLCB3	Phospholipase C beta 3	94 ng/L
+TMEM43	Transmembrane protein 43	94 ng/L
+IFI35	Interferon induced protein 35	93 ng/L
+CRYBB1	Crystallin beta B1	93 ng/L
+ECHDC3	Enoyl-CoA hydratase domain containing 3	93 ng/L
+AP2A2	Adaptor related protein complex 2 alpha 2 subunit	93 ng/L
+IPO5	Importin 5	92 ng/L
+IL5RA	Interleukin 5 receptor subunit alpha	92 ng/L
+ACYP1	Acylphosphatase 1	92 ng/L
+LY6D	Lymphocyte antigen 6 family member D	92 ng/L
+LGALS4	Galectin 4	92 ng/L
+S100A16	S100 calcium binding protein A16	92 ng/L
+HLA-DPA1	"Major histocompatibility complex, class II, DP alpha 1"	92 ng/L
+RPRD2	Regulation of nuclear pre-mRNA domain containing 2	91 ng/L
+CD74	CD74 molecule	90 ng/L
+DDX17	DEAD-box helicase 17	90 ng/L
+SPINK7	"Serine peptidase inhibitor, Kazal type 7 (putative)"	90 ng/L
+HIBCH	3-hydroxyisobutyryl-CoA hydrolase	90 ng/L
+RPS18	Ribosomal protein S18	90 ng/L
+DPYS	Dihydropyrimidinase	89 ng/L
+GFRA1	GDNF family receptor alpha 1	89 ng/L
+HEPACAM2	HEPACAM family member 2	89 ng/L
+IFI30	"IFI30, lysosomal thiol reductase"	89 ng/L
+COCH	Cochlin	88 ng/L
+PBDC1	Polysaccharide biosynthesis domain containing 1	88 ng/L
+GALNT3	Polypeptide N-acetylgalactosaminyltransferase 3	88 ng/L
+C20orf27	Chromosome 20 open reading frame 27	87 ng/L
+MANEA	Mannosidase endo-alpha	87 ng/L
+HSPB6	Heat shock protein family B (small) member 6	86 ng/L
+PTGFRN	Prostaglandin F2 receptor inhibitor	86 ng/L
+NEU1	Neuraminidase 1	86 ng/L
+BCAT1	Branched chain amino acid transaminase 1	85 ng/L
+ACE2	Angiotensin I converting enzyme 2	85 ng/L
+ABHD10	Abhydrolase domain containing 10	85 ng/L
+PTK2B	Protein tyrosine kinase 2 beta	84 ng/L
+COPS4	COP9 signalosome subunit 4	84 ng/L
+PACSIN2	Protein kinase C and casein kinase substrate in neurons 2	83 ng/L
+LY86	Lymphocyte antigen 86	83 ng/L
+MMP8	Matrix metallopeptidase 8	83 ng/L
+EPHX1	Epoxide hydrolase 1	83 ng/L
+ASPRV1	Aspartic peptidase retroviral like 1	83 ng/L
+PSMD10	"Proteasome 26S subunit, non-ATPase 10"	82 ng/L
+PLXNC1	Plexin C1	82 ng/L
+NIT1	Nitrilase 1	82 ng/L
+VSIG2	V-set and immunoglobulin domain containing 2	81 ng/L
+GSK3B	Glycogen synthase kinase 3 beta	81 ng/L
+SFXN3	Sideroflexin 3	81 ng/L
+FOLR1	Folate receptor 1	81 ng/L
+CISD2	CDGSH iron sulfur domain 2	80 ng/L
+PRRC1	Proline rich coiled-coil 1	80 ng/L
+MYO18A	Myosin XVIIIA	80 ng/L
+PCCB	Propionyl-CoA carboxylase beta subunit	79 ng/L
+ITGB4	Integrin subunit beta 4	79 ng/L
+ADAM22	ADAM metallopeptidase domain 22	78 ng/L
+PSMD11	"Proteasome 26S subunit, non-ATPase 11"	78 ng/L
+PLA2G4A	Phospholipase A2 group IVA	78 ng/L
+MGAT3	"Mannosyl (beta-1,4-)-glycoprotein beta-1,4-N-acetylglucosaminyltransferase"	78 ng/L
+SLC44A2	Solute carrier family 44 member 2	78 ng/L
+GLCE	Glucuronic acid epimerase	78 ng/L
+TPK1	Thiamin pyrophosphokinase 1	78 ng/L
+RP2	"RP2, ARL3 GTPase activating protein"	77 ng/L
+HSD11B1	Hydroxysteroid 11-beta dehydrogenase 1	77 ng/L
+SYNCRIP	Synaptotagmin binding cytoplasmic RNA interacting protein	77 ng/L
+PAXX	"PAXX, non-homologous end joining factor"	77 ng/L
+APIP	APAF1 interacting protein	77 ng/L
+SEMA3D	Semaphorin 3D	77 ng/L
+BANF1	Barrier to autointegration factor 1	77 ng/L
+RPL23	Ribosomal protein L23	76 ng/L
+GGACT	Gamma-glutamylamine cyclotransferase	75 ng/L
+DCHS1	Dachsous cadherin-related 1	75 ng/L
+PPP1R14B	Protein phosphatase 1 regulatory inhibitor subunit 14B	75 ng/L
+SNRPE	Small nuclear ribonucleoprotein polypeptide E	75 ng/L
+ERO1A	Endoplasmic reticulum oxidoreductase 1 alpha	75 ng/L
+LAT	Linker for activation of T cells	75 ng/L
+LIFR	LIF receptor alpha	74 ng/L
+DOK1	Docking protein 1	74 ng/L
+B4GALT3	"Beta-1,4-galactosyltransferase 3"	74 ng/L
+PCDHGC3	"Protocadherin gamma subfamily C, 3"	74 ng/L
+PGM3	Phosphoglucomutase 3	73 ng/L
+EIF4A3	Eukaryotic translation initiation factor 4A3	73 ng/L
+CNTNAP4	Contactin associated protein like 4	73 ng/L
+NHLRC2	NHL repeat containing 2	73 ng/L
+NDST2	N-deacetylase and N-sulfotransferase 2	72 ng/L
+INSR	Insulin receptor	72 ng/L
+GCNT1	"Glucosaminyl (N-acetyl) transferase 1, core 2"	72 ng/L
+CLCA1	Chloride channel accessory 1	70 ng/L
+DCUN1D1	Defective in cullin neddylation 1 domain containing 1	70 ng/L
+RPS24	Ribosomal protein S24	70 ng/L
+CDH11	Cadherin 11	70 ng/L
+MYCT1	MYC target 1	69 ng/L
+ITPA	Inosine triphosphatase	69 ng/L
+NDUFA5	NADH:ubiquinone oxidoreductase subunit A5	69 ng/L
+GHRL	Ghrelin and obestatin prepropeptide	69 ng/L
+AMDHD2	Amidohydrolase domain containing 2	69 ng/L
+BPIFB2	BPI fold containing family B member 2	68 ng/L
+AK3	Adenylate kinase 3	68 ng/L
+EXTL1	Exostosin like glycosyltransferase 1	68 ng/L
+ENPP6	Ectonucleotide pyrophosphatase/phosphodiesterase 6	68 ng/L
+TCAP	Titin-cap	68 ng/L
+MGAM	Maltase-glucoamylase	68 ng/L
+HAL	Histidine ammonia-lyase	67 ng/L
+EPS15	Epidermal growth factor receptor pathway substrate 15	67 ng/L
+CTSG	Cathepsin G	67 ng/L
+PSMC4	"Proteasome 26S subunit, ATPase 4"	66 ng/L
+ADD2	Adducin 2	66 ng/L
+COPS7A	COP9 signalosome subunit 7A	66 ng/L
+IVD	Isovaleryl-CoA dehydrogenase	66 ng/L
+CLCA2	Chloride channel accessory 2	66 ng/L
+ASAP2	"ArfGAP with SH3 domain, ankyrin repeat and PH domain 2"	66 ng/L
+ISLR2	Immunoglobulin superfamily containing leucine rich repeat 2	66 ng/L
+TOM1L2	Target of myb1 like 2 membrane trafficking protein	66 ng/L
+AMACR	Alpha-methylacyl-CoA racemase	65 ng/L
+NCK2	NCK adaptor protein 2	64 ng/L
+CSE1L	Chromosome segregation 1 like	64 ng/L
+HNMT	Histamine N-methyltransferase	64 ng/L
+ACP6	"Acid phosphatase 6, lysophosphatidic"	64 ng/L
+PGRMC2	Progesterone receptor membrane component 2	64 ng/L
+PGM2L1	Phosphoglucomutase 2 like 1	64 ng/L
+ADGRL1	Adhesion G protein-coupled receptor L1	63 ng/L
+DHRS7	Dehydrogenase/reductase 7	63 ng/L
+TNNC2	"Troponin C2, fast skeletal type"	63 ng/L
+RPS3A	Ribosomal protein S3A	63 ng/L
+LRP1B	LDL receptor related protein 1B	63 ng/L
+ACADSB	Acyl-CoA dehydrogenase short/branched chain	63 ng/L
+GSTZ1	Glutathione S-transferase zeta 1	62 ng/L
+MAP2K1	Mitogen-activated protein kinase kinase 1	62 ng/L
+CNPY2	Canopy FGF signaling regulator 2	62 ng/L
+ATP6V1E1	ATPase H+ transporting V1 subunit E1	61 ng/L
+C1orf68	Chromosome 1 open reading frame 68	61 ng/L
+DNASE1L1	Deoxyribonuclease 1 like 1	60 ng/L
+PFDN2	Prefoldin subunit 2	60 ng/L
+SCFD1	Sec1 family domain containing 1	59 ng/L
+FCER2	Fc fragment of IgE receptor II	59 ng/L
+GCHFR	GTP cyclohydrolase I feedback regulator	59 ng/L
+HHIPL1	HHIP like 1	59 ng/L
+NOTUM	"Notum, palmitoleoyl-protein carboxylesterase"	59 ng/L
+ELANE	"Elastase, neutrophil expressed"	59 ng/L
+SERPINB13	Serpin family B member 13	59 ng/L
+AP1M1	Adaptor related protein complex 1 mu 1 subunit	58 ng/L
+FERMT2	Fermitin family member 2	58 ng/L
+PLAU	"Plasminogen activator, urokinase"	58 ng/L
+PLXNA3	Plexin A3	58 ng/L
+RHOF	"Ras homolog family member F, filopodia associated"	58 ng/L
+EFCAB14	EF-hand calcium binding domain 14	58 ng/L
+COPS6	COP9 signalosome subunit 6	58 ng/L
+SF3B2	Splicing factor 3b subunit 2	57 ng/L
+CCDC80	Coiled-coil domain containing 80	57 ng/L
+PMPCB	"Peptidase, mitochondrial processing beta subunit"	57 ng/L
+PIP4P2	"Phosphatidylinositol-4,5-bisphosphate 4-phosphatase 2"	57 ng/L
+FAM3B	Family with sequence similarity 3 member B	57 ng/L
+CCL23	C-C motif chemokine ligand 23	57 ng/L
+YBX3	Y-box binding protein 3	56 ng/L
+AMH	Anti-Mullerian hormone	56 ng/L
+RPS13	Ribosomal protein S13	56 ng/L
+RPL15	Ribosomal protein L15	56 ng/L
+MTCH2	Mitochondrial carrier 2	55 ng/L
+SBDS	"SBDS, ribosome maturation factor"	55 ng/L
+PTRHD1	Peptidyl-tRNA hydrolase domain containing 1	55 ng/L
+COL4A1	Collagen type IV alpha 1 chain	55 ng/L
+SEC23A	"Sec23 homolog A, coat complex II component"	54 ng/L
+FLT1	Fms related tyrosine kinase 1	54 ng/L
+RPS25	Ribosomal protein S25	54 ng/L
+UBAC1	UBA domain containing 1	54 ng/L
+SRPRB	SRP receptor beta subunit	54 ng/L
+SCG2	Secretogranin II	54 ng/L
+OGDH	Oxoglutarate dehydrogenase	53 ng/L
+GIT1	GIT ArfGAP 1	53 ng/L
+NLN	Neurolysin	53 ng/L
+PLVAP	Plasmalemma vesicle associated protein	53 ng/L
+NAE1	NEDD8 activating enzyme E1 subunit 1	53 ng/L
+COX6C	Cytochrome c oxidase subunit 6C	53 ng/L
+RPL13	Ribosomal protein L13	53 ng/L
+CPNE3	Copine 3	52 ng/L
+RPS19	Ribosomal protein S19	52 ng/L
+SPR	Sepiapterin reductase	52 ng/L
+NCKAP1L	NCK associated protein 1 like	52 ng/L
+EIF2S1	Eukaryotic translation initiation factor 2 subunit alpha	52 ng/L
+RPS8	Ribosomal protein S8	52 ng/L
+RPL30	Ribosomal protein L30	52 ng/L
+SF1	Splicing factor 1	52 ng/L
+HARS	Histidyl-tRNA synthetase	52 ng/L
+ASNA1	"ArsA arsenite transporter, ATP-binding, homolog 1 (bacterial)"	52 ng/L
+HSD17B8	Hydroxysteroid 17-beta dehydrogenase 8	52 ng/L
+MCTS1	"MCTS1, re-initiation and release factor"	52 ng/L
+CHORDC1	Cysteine and histidine rich domain containing 1	51 ng/L
+ASPDH	Aspartate dehydrogenase domain containing	51 ng/L
+EIF4B	Eukaryotic translation initiation factor 4B	50 ng/L
+TNNT2	"Troponin T2, cardiac type"	50 ng/L
+CNRIP1	Cannabinoid receptor interacting protein 1	50 ng/L
+HNRNPR	Heterogeneous nuclear ribonucleoprotein R	50 ng/L
+HP1BP3	Heterochromatin protein 1 binding protein 3	50 ng/L
+SGCE	Sarcoglycan epsilon	50 ng/L
+CLSTN3	Calsyntenin 3	50 ng/L
+TNKS1BP1	Tankyrase 1 binding protein 1	50 ng/L
+VEGFC	Vascular endothelial growth factor C	50 ng/L
+IL4R	Interleukin 4 receptor	49 ng/L
+ADGRB2	Adhesion G protein-coupled receptor B2	49 ng/L
+CHMP2A	Charged multivesicular body protein 2A	49 ng/L
+CACNA2D3	Calcium voltage-gated channel auxiliary subunit alpha2delta 3	49 ng/L
+PSMD1	"Proteasome 26S subunit, non-ATPase 1"	49 ng/L
+PSMD13	"Proteasome 26S subunit, non-ATPase 13"	49 ng/L
+SLC39A10	Solute carrier family 39 member 10	49 ng/L
+ATP6V1H	ATPase H+ transporting V1 subunit H	48 ng/L
+EIF3M	Eukaryotic translation initiation factor 3 subunit M	48 ng/L
+GUSB	Glucuronidase beta	48 ng/L
+GPR37	G protein-coupled receptor 37	48 ng/L
+PPP5C	Protein phosphatase 5 catalytic subunit	47 ng/L
+LAMP3	Lysosomal associated membrane protein 3	47 ng/L
+TNPO1	Transportin 1	47 ng/L
+HBQ1	Hemoglobin subunit theta 1	47 ng/L
+GNPTAB	N-acetylglucosamine-1-phosphate transferase alpha and beta subunits	47 ng/L
+RGN	Regucalcin	47 ng/L
+FSHB	Follicle stimulating hormone beta subunit	47 ng/L
+APPL2	"Adaptor protein, phosphotyrosine interacting with PH domain and leucine zipper 2"	47 ng/L
+RUVBL1	RuvB like AAA ATPase 1	47 ng/L
+DDX1	DEAD-box helicase 1	46 ng/L
+PSMC1	"Proteasome 26S subunit, ATPase 1"	46 ng/L
+FABP2	Fatty acid binding protein 2	46 ng/L
+ADM	Adrenomedullin	46 ng/L
+PGP	Phosphoglycolate phosphatase	46 ng/L
+TMED9	Transmembrane p24 trafficking protein 9	46 ng/L
+SMPX	"Small muscle protein, X-linked"	45 ng/L
+CLEC11A	C-type lectin domain containing 11A	45 ng/L
+IST1	"IST1, ESCRT-III associated factor"	45 ng/L
+ALDH5A1	Aldehyde dehydrogenase 5 family member A1	44 ng/L
+RRBP1	Ribosome binding protein 1	44 ng/L
+SEC14L4	SEC14 like lipid binding 4	44 ng/L
+MYBPC3	"Myosin binding protein C, cardiac"	44 ng/L
+OTOA	Otoancorin	44 ng/L
+PSMD12	"Proteasome 26S subunit, non-ATPase 12"	44 ng/L
+DUSP14	Dual specificity phosphatase 14	44 ng/L
+RTCB	"RNA 2',3'-cyclic phosphate and 5'-OH ligase"	43 ng/L
+USO1	USO1 vesicle transport factor	43 ng/L
+CNBP	CCHC-type zinc finger nucleic acid binding protein	43 ng/L
+HSPB7	Heat shock protein family B (small) member 7	43 ng/L
+GAST	Gastrin	43 ng/L
+PPP3R1	"Protein phosphatase 3 regulatory subunit B, alpha"	43 ng/L
+TPD52	Tumor protein D52	42 ng/L
+RENBP	Renin binding protein	42 ng/L
+SPOCK2	"SPARC/osteonectin, cwcv and kazal like domains proteoglycan 2"	42 ng/L
+UGDH	UDP-glucose 6-dehydrogenase	42 ng/L
+CD101	CD101 molecule	42 ng/L
+ITGA11	Integrin subunit alpha 11	42 ng/L
+ITGB7	Integrin subunit beta 7	42 ng/L
+HFE2	Hemochromatosis type 2 (juvenile)	42 ng/L
+NCKIPSD	NCK interacting protein with SH3 domain	42 ng/L
+SERPINB10	Serpin family B member 10	42 ng/L
+GMDS	"GDP-mannose 4,6-dehydratase"	41 ng/L
+RCN2	Reticulocalbin 2	41 ng/L
+FURIN	"Furin, paired basic amino acid cleaving enzyme"	41 ng/L
+EML4	Echinoderm microtubule associated protein like 4	41 ng/L
+SLC9A9	Solute carrier family 9 member A9	41 ng/L
+PAPPA	Pappalysin 1	41 ng/L
+C6orf58	Chromosome 6 open reading frame 58	41 ng/L
+GCN1	"GCN1, eIF2 alpha kinase activator homolog"	40 ng/L
+PDAP1	PDGFA associated protein 1	40 ng/L
+CBX3	Chromobox 3	40 ng/L
+DKC1	Dyskerin pseudouridine synthase 1	40 ng/L
+FAM129A	Family with sequence similarity 129 member A	40 ng/L
+TRA2B	Transformer 2 beta homolog	40 ng/L
+MGST3	Microsomal glutathione S-transferase 3	40 ng/L
+COPG2	Coatomer protein complex subunit gamma 2	40 ng/L
+ALDH4A1	Aldehyde dehydrogenase 4 family member A1	40 ng/L
+NLGN1	Neuroligin 1	40 ng/L
+YOD1	YOD1 deubiquitinase	40 ng/L
+HDAC6	Histone deacetylase 6	39 ng/L
+PARP1	Poly(ADP-ribose) polymerase 1	39 ng/L
+PSMC2	"Proteasome 26S subunit, ATPase 2"	39 ng/L
+RPS17	Ribosomal protein S17	39 ng/L
+ARAP1	"ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 1"	39 ng/L
+MVP	Major vault protein	38 ng/L
+NRBP1	Nuclear receptor binding protein 1	38 ng/L
+SLIRP	SRA stem-loop interacting RNA binding protein	38 ng/L
+GAMT	Guanidinoacetate N-methyltransferase	38 ng/L
+PCSK6	Proprotein convertase subtilisin/kexin type 6	38 ng/L
+FEN1	Flap structure-specific endonuclease 1	38 ng/L
+KPNA2	Karyopherin subunit alpha 2	38 ng/L
+TSPAN32	Tetraspanin 32	37 ng/L
+ITPR1	"Inositol 1,4,5-trisphosphate receptor type 1"	37 ng/L
+CD96	CD96 molecule	37 ng/L
+RPS16	Ribosomal protein S16	36 ng/L
+IGF1R	Insulin like growth factor 1 receptor	36 ng/L
+CRNN	Cornulin	36 ng/L
+OPRPN	Opiorphin prepropeptide	36 ng/L
+CBX1	Chromobox 1	35 ng/L
+HPCAL1	Hippocalcin like 1	35 ng/L
+TRIM25	Tripartite motif containing 25	35 ng/L
+PPP3CA	Protein phosphatase 3 catalytic subunit alpha	35 ng/L
+EFHD2	EF-hand domain family member D2	35 ng/L
+ADPGK	ADP dependent glucokinase	35 ng/L
+NLRX1	NLR family member X1	35 ng/L
+GOLGB1	Golgin B1	35 ng/L
+PENK	Proenkephalin	35 ng/L
+PPIL3	Peptidylprolyl isomerase like 3	35 ng/L
+TOLLIP	Toll interacting protein	34 ng/L
+STRN4	Striatin 4	34 ng/L
+SNAP29	Synaptosome associated protein 29	34 ng/L
+VPS4B	Vacuolar protein sorting 4 homolog B	34 ng/L
+HECTD3	HECT domain E3 ubiquitin protein ligase 3	34 ng/L
+UBE2L6	Ubiquitin conjugating enzyme E2 L6	34 ng/L
+XXYLT1	Xyloside xylosyltransferase 1	34 ng/L
+MYADM	Myeloid associated differentiation marker	34 ng/L
+MDP1	Magnesium dependent phosphatase 1	34 ng/L
+DYNC1I2	Dynein cytoplasmic 1 intermediate chain 2	33 ng/L
+CIRBP	Cold inducible RNA binding protein	33 ng/L
+ASPN	Asporin	33 ng/L
+TPST2	Tyrosylprotein sulfotransferase 2	33 ng/L
+COPS7B	COP9 signalosome subunit 7B	33 ng/L
+CBR4	Carbonyl reductase 4	33 ng/L
+GGT6	Gamma-glutamyltransferase 6	33 ng/L
+PRKG1	"Protein kinase, cGMP-dependent, type I"	33 ng/L
+KLRK1	Killer cell lectin like receptor K1	33 ng/L
+MYOM1	Myomesin 1	32 ng/L
+HS1BP3	HCLS1 binding protein 3	32 ng/L
+LRRN4	Leucine rich repeat neuronal 4	32 ng/L
+MICAL1	"Microtubule associated monooxygenase, calponin and LIM domain containing 1"	32 ng/L
+PTK2	Protein tyrosine kinase 2	32 ng/L
+CHMP6	Charged multivesicular body protein 6	32 ng/L
+C4orf48	Chromosome 4 open reading frame 48	32 ng/L
+DNAJA2	DnaJ heat shock protein family (Hsp40) member A2	31 ng/L
+ANGPT2	Angiopoietin 2	31 ng/L
+PDCD5	Programmed cell death 5	31 ng/L
+PCDH17	Protocadherin 17	31 ng/L
+PNKD	Paroxysmal nonkinesigenic dyskinesia	31 ng/L
+PTMS	Parathymosin	31 ng/L
+AGR3	"Anterior gradient 3, protein disulphide isomerase family member"	31 ng/L
+XYLT1	Xylosyltransferase 1	30 ng/L
+SNRNP70	Small nuclear ribonucleoprotein U1 subunit 70	30 ng/L
+DHX15	DEAH-box helicase 15	30 ng/L
+PIN1	"Peptidylprolyl cis/trans isomerase, NIMA-interacting 1"	30 ng/L
+RPL27	Ribosomal protein L27	30 ng/L
+SQOR	Sulfide quinone oxidoreductase	30 ng/L
+VAV1	Vav guanine nucleotide exchange factor 1	30 ng/L
+MVD	Mevalonate diphosphate decarboxylase	30 ng/L
+C1QTNF1	C1q and TNF related 1	30 ng/L
+MYO1C	Myosin IC	30 ng/L
+IPO9	Importin 9	30 ng/L
+SEMA3B	Semaphorin 3B	29 ng/L
+DAPP1	Dual adaptor of phosphotyrosine and 3-phosphoinositides 1	29 ng/L
+CA12	Carbonic anhydrase 12	29 ng/L
+ACOT7	Acyl-CoA thioesterase 7	29 ng/L
+MCM3	Minichromosome maintenance complex component 3	29 ng/L
+FAM162A	Family with sequence similarity 162 member A	29 ng/L
+TNNI2	"Troponin I2, fast skeletal type"	29 ng/L
+EPRS	Glutamyl-prolyl-tRNA synthetase	29 ng/L
+COPS3	COP9 signalosome subunit 3	29 ng/L
+ADD3	Adducin 3	29 ng/L
+TPPP3	Tubulin polymerization promoting protein family member 3	29 ng/L
+TNFSF13	TNF superfamily member 13	29 ng/L
+CAVIN1	Caveolae associated protein 1	29 ng/L
+VPS13A	Vacuolar protein sorting 13 homolog A	29 ng/L
+ATP2C1	ATPase secretory pathway Ca2+ transporting 1	28 ng/L
+PICALM	Phosphatidylinositol binding clathrin assembly protein	28 ng/L
+MFNG	MFNG O-fucosylpeptide 3-beta-N-acetylglucosaminyltransferase	28 ng/L
+AHSA1	Activator of HSP90 ATPase activity 1	28 ng/L
+STEAP3	STEAP3 metalloreductase	28 ng/L
+TROVE2	TROVE domain family member 2	28 ng/L
+NUP210	Nucleoporin 210	28 ng/L
+GLUL	Glutamate-ammonia ligase	28 ng/L
+CD27	CD27 molecule	28 ng/L
+PRPSAP2	Phosphoribosyl pyrophosphate synthetase associated protein 2	28 ng/L
+SNX12	Sorting nexin 12	28 ng/L
+NADK2	"NAD kinase 2, mitochondrial"	28 ng/L
+APPL1	"Adaptor protein, phosphotyrosine interacting with PH domain and leucine zipper 1"	28 ng/L
+AGFG1	ArfGAP with FG repeats 1	28 ng/L
+MYLPF	"Myosin light chain, phosphorylatable, fast skeletal muscle"	28 ng/L
+SRSF10	Serine and arginine rich splicing factor 10	28 ng/L
+ENTPD4	Ectonucleoside triphosphate diphosphohydrolase 4	28 ng/L
+RPL17	Ribosomal protein L17	28 ng/L
+HACD3	3-hydroxyacyl-CoA dehydratase 3	27 ng/L
+KIAA1549L	KIAA1549 like	27 ng/L
+COPS5	COP9 signalosome subunit 5	27 ng/L
+HS6ST1	Heparan sulfate 6-O-sulfotransferase 1	27 ng/L
+NPC1	NPC intracellular cholesterol transporter 1	27 ng/L
+FBLN7	Fibulin 7	27 ng/L
+NDUFS6	NADH:ubiquinone oxidoreductase subunit S6	27 ng/L
+ADAM17	ADAM metallopeptidase domain 17	27 ng/L
+RBBP4	"RB binding protein 4, chromatin remodeling factor"	27 ng/L
+FRZB	Frizzled related protein	27 ng/L
+GP2	Glycoprotein 2	27 ng/L
+ATOX1	Antioxidant 1 copper chaperone	27 ng/L
+SMOC1	SPARC related modular calcium binding 1	27 ng/L
+IARS2	"Isoleucyl-tRNA synthetase 2, mitochondrial"	26 ng/L
+CAD	"Carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase"	26 ng/L
+SMS	Spermine synthase	26 ng/L
+REEP6	Receptor accessory protein 6	26 ng/L
+TINAG	Tubulointerstitial nephritis antigen	26 ng/L
+FXYD2	FXYD domain containing ion transport regulator 2	26 ng/L
+SNRPF	Small nuclear ribonucleoprotein polypeptide F	26 ng/L
+SUOX	Sulfite oxidase	26 ng/L
+ATG3	Autophagy related 3	26 ng/L
+SRL	Sarcalumenin	26 ng/L
+SLITRK2	SLIT and NTRK like family member 2	26 ng/L
+LSM2	"LSM2 homolog, U6 small nuclear RNA and mRNA degradation associated"	26 ng/L
+IPO7	Importin 7	26 ng/L
+MSR1	Macrophage scavenger receptor 1	25 ng/L
+CHMP4B	Charged multivesicular body protein 4B	25 ng/L
+RBBP7	"RB binding protein 7, chromatin remodeling factor"	25 ng/L
+EIF4G2	Eukaryotic translation initiation factor 4 gamma 2	25 ng/L
+GLS	Glutaminase	25 ng/L
+CTH	Cystathionine gamma-lyase	25 ng/L
+BBOX1	Gamma-butyrobetaine hydroxylase 1	25 ng/L
+GALNT15	Polypeptide N-acetylgalactosaminyltransferase 15	25 ng/L
+EGF	Epidermal growth factor	25 ng/L
+DPT	Dermatopontin	25 ng/L
+ASAP1	"ArfGAP with SH3 domain, ankyrin repeat and PH domain 1"	25 ng/L
+TNNI1	"Troponin I1, slow skeletal type"	25 ng/L
+EHBP1L1	EH domain binding protein 1 like 1	25 ng/L
+MSRA	Methionine sulfoxide reductase A	25 ng/L
+DCC	DCC netrin 1 receptor	25 ng/L
+STK10	Serine/threonine kinase 10	24 ng/L
+RBM3	RNA binding motif protein 3	24 ng/L
+RHEB	"Ras homolog, mTORC1 binding"	24 ng/L
+ADAM23	ADAM metallopeptidase domain 23	24 ng/L
+ALDH8A1	Aldehyde dehydrogenase 8 family member A1	24 ng/L
+ETF1	Eukaryotic translation termination factor 1	24 ng/L
+XPO7	Exportin 7	24 ng/L
+CERS2	Ceramide synthase 2	24 ng/L
+LACTB2	Lactamase beta 2	24 ng/L
+RPL9	Ribosomal protein L9	24 ng/L
+PDGFD	Platelet derived growth factor D	24 ng/L
+MANEAL	Mannosidase endo-alpha like	24 ng/L
+XRCC6	X-ray repair cross complementing 6	24 ng/L
+ENTPD7	Ectonucleoside triphosphate diphosphohydrolase 7	24 ng/L
+CTSO	Cathepsin O	24 ng/L
+ALDH18A1	Aldehyde dehydrogenase 18 family member A1	23 ng/L
+SNRPA	Small nuclear ribonucleoprotein polypeptide A	23 ng/L
+LY9	Lymphocyte antigen 9	23 ng/L
+RRAS	RAS related	23 ng/L
+HRC	Histidine rich calcium binding protein	23 ng/L
+PDE3A	Phosphodiesterase 3A	23 ng/L
+VARS	Valyl-tRNA synthetase	23 ng/L
+HNRNPUL2	Heterogeneous nuclear ribonucleoprotein U like 2	23 ng/L
+VTA1	Vesicle trafficking 1	22 ng/L
+THRAP3	Thyroid hormone receptor associated protein 3	22 ng/L
+RPL31	Ribosomal protein L31	22 ng/L
+EIF3B	Eukaryotic translation initiation factor 3 subunit B	22 ng/L
+AGR2	"Anterior gradient 2, protein disulphide isomerase family member"	22 ng/L
+METAP2	Methionyl aminopeptidase 2	22 ng/L
+STAT1	Signal transducer and activator of transcription 1	22 ng/L
+ABCB6	ATP binding cassette subfamily B member 6 (Langereis blood group)	22 ng/L
+RPL21	Ribosomal protein L21	22 ng/L
+CGREF1	Cell growth regulator with EF-hand domain 1	22 ng/L
+SEC31A	"SEC31 homolog A, COPII coat complex component"	22 ng/L
+ENSA	Endosulfine alpha	22 ng/L
+PDK1	Pyruvate dehydrogenase kinase 1	22 ng/L
+SCG5	Secretogranin V	22 ng/L
+CHST11	Carbohydrate sulfotransferase 11	22 ng/L
+ACSL5	Acyl-CoA synthetase long chain family member 5	22 ng/L
+ADGRG1	Adhesion G protein-coupled receptor G1	22 ng/L
+TRABD2B	TraB domain containing 2B	22 ng/L
+ATP6V0A1	ATPase H+ transporting V0 subunit a1	21 ng/L
+ATP2B4	ATPase plasma membrane Ca2+ transporting 4	21 ng/L
+CAMK2A	Calcium/calmodulin dependent protein kinase II alpha	21 ng/L
+EIF5	Eukaryotic translation initiation factor 5	21 ng/L
+OAS3	2'-5'-oligoadenylate synthetase 3	21 ng/L
+COL10A1	Collagen type X alpha 1 chain	21 ng/L
+ITFG1	Integrin alpha FG-GAP repeat containing 1	21 ng/L
+PTPRA	"Protein tyrosine phosphatase, receptor type A"	21 ng/L
+LRIG1	Leucine rich repeats and immunoglobulin like domains 1	21 ng/L
+VPS26B	"VPS26, retromer complex component B"	21 ng/L
+BMP6	Bone morphogenetic protein 6	21 ng/L
+NPTN	Neuroplastin	21 ng/L
+MARS	Methionyl-tRNA synthetase	21 ng/L
+KYAT1	Kynurenine aminotransferase 1	21 ng/L
+QARS	Glutaminyl-tRNA synthetase	21 ng/L
+DIABLO	Diablo IAP-binding mitochondrial protein	21 ng/L
+PLCG2	Phospholipase C gamma 2	21 ng/L
+DIABLO	Diablo IAP-binding mitochondrial protein	21 ng/L
+SGTA	Small glutamine rich tetratricopeptide repeat containing alpha	20 ng/L
+HNRNPUL1	Heterogeneous nuclear ribonucleoprotein U like 1	20 ng/L
+KHDRBS1	"KH RNA binding domain containing, signal transduction associated 1"	20 ng/L
+ATP8A1	ATPase phospholipid transporting 8A1	20 ng/L
+PLPBP	Pyridoxal phosphate binding protein	20 ng/L
+WFDC12	WAP four-disulfide core domain 12	20 ng/L
+TTC36	Tetratricopeptide repeat domain 36	20 ng/L
+IL17RA	Interleukin 17 receptor A	20 ng/L
+EPHB3	EPH receptor B3	20 ng/L
+TTC38	Tetratricopeptide repeat domain 38	19 ng/L
+TREM2	Triggering receptor expressed on myeloid cells 2	19 ng/L
+SF3A1	Splicing factor 3a subunit 1	19 ng/L
+SLC25A1	Solute carrier family 25 member 1	19 ng/L
+HDDC2	HD domain containing 2	19 ng/L
+RPL24	Ribosomal protein L24	19 ng/L
+UAP1	UDP-N-acetylglucosamine pyrophosphorylase 1	19 ng/L
+VPS26A	"VPS26, retromer complex component A"	19 ng/L
+LRRC32	Leucine rich repeat containing 32	19 ng/L
+SBSPON	Somatomedin B and thrombospondin type 1 domain containing	19 ng/L
+IMPDH2	Inosine monophosphate dehydrogenase 2	19 ng/L
+HSPB11	Heat shock protein family B (small) member 11	18 ng/L
+NUDC	"Nuclear distribution C, dynein complex regulator"	18 ng/L
+DNAJB11	DnaJ heat shock protein family (Hsp40) member B11	18 ng/L
+SH3GLB1	"SH3 domain containing GRB2 like, endophilin B1"	18 ng/L
+HMGA1	High mobility group AT-hook 1	18 ng/L
+ANP32E	Acidic nuclear phosphoprotein 32 family member E	18 ng/L
+ENAH	"ENAH, actin regulator"	18 ng/L
+ADAMTS5	ADAM metallopeptidase with thrombospondin type 1 motif 5	18 ng/L
+AK4	Adenylate kinase 4	18 ng/L
+PRRT3	Proline rich transmembrane protein 3	18 ng/L
+IRGQ	Immunity related GTPase Q	18 ng/L
+PAIP1	Poly(A) binding protein interacting protein 1	18 ng/L
+EIF3F	Eukaryotic translation initiation factor 3 subunit F	18 ng/L
+FLRT2	Fibronectin leucine rich transmembrane protein 2	18 ng/L
+NDUFA4	"NDUFA4, mitochondrial complex associated"	18 ng/L
+ENTPD6	Ectonucleoside triphosphate diphosphohydrolase 6 (putative)	18 ng/L
+PI4KA	Phosphatidylinositol 4-kinase alpha	18 ng/L
+AASS	Aminoadipate-semialdehyde synthase	17 ng/L
+SLK	STE20 like kinase	17 ng/L
+HMOX1	Heme oxygenase 1	17 ng/L
+GNPNAT1	Glucosamine-phosphate N-acetyltransferase 1	17 ng/L
+SLC25A11	Solute carrier family 25 member 11	17 ng/L
+EIF4G1	Eukaryotic translation initiation factor 4 gamma 1	17 ng/L
+LAMTOR2	"Late endosomal/lysosomal adaptor, MAPK and MTOR activator 2"	17 ng/L
+ATP1B2	ATPase Na+/K+ transporting subunit beta 2	17 ng/L
+SARAF	Store-operated calcium entry associated regulatory factor	17 ng/L
+ARL3	ADP ribosylation factor like GTPase 3	17 ng/L
+TOR1AIP1	Torsin 1A interacting protein 1	17 ng/L
+GMPPA	GDP-mannose pyrophosphorylase A	17 ng/L
+JAM2	Junctional adhesion molecule 2	17 ng/L
+PLXNB3	Plexin B3	17 ng/L
+PDXP	Pyridoxal phosphatase	17 ng/L
+CORO7	Coronin 7	17 ng/L
+GALC	Galactosylceramidase	16 ng/L
+EIF3I	Eukaryotic translation initiation factor 3 subunit I	16 ng/L
+CD40	CD40 molecule	16 ng/L
+TYRP1	Tyrosinase related protein 1	16 ng/L
+SMU1	"SMU1, DNA replication regulator and spliceosomal factor"	16 ng/L
+MCEE	Methylmalonyl-CoA epimerase	16 ng/L
+RTN2	Reticulon 2	16 ng/L
+L3HYPDH	Trans-L-3-hydroxyproline dehydratase	16 ng/L
+PPCS	Phosphopantothenoylcysteine synthetase	16 ng/L
+LRRC47	Leucine rich repeat containing 47	16 ng/L
+LRPPRC	Leucine rich pentatricopeptide repeat containing	16 ng/L
+NDUFS2	NADH:ubiquinone oxidoreductase core subunit S2	16 ng/L
+VPS28	"VPS28, ESCRT-I subunit"	16 ng/L
+AGL	"Amylo-alpha-1, 6-glucosidase, 4-alpha-glucanotransferase"	16 ng/L
+PPME1	Protein phosphatase methylesterase 1	16 ng/L
+NPEPL1	Aminopeptidase like 1	16 ng/L
+CD302	CD302 molecule	16 ng/L
+HYAL1	Hyaluronoglucosaminidase 1	15 ng/L
+LOXL3	Lysyl oxidase like 3	15 ng/L
+GALNT12	Polypeptide N-acetylgalactosaminyltransferase 12	15 ng/L
+ACADS	Acyl-CoA dehydrogenase short chain	15 ng/L
+TNFAIP6	TNF alpha induced protein 6	15 ng/L
+TRIP10	Thyroid hormone receptor interactor 10	15 ng/L
+PDHA1	Pyruvate dehydrogenase E1 alpha 1 subunit	15 ng/L
+SNAPIN	SNAP associated protein	15 ng/L
+INPP1	Inositol polyphosphate-1-phosphatase	15 ng/L
+SEC13	"SEC13 homolog, nuclear pore and COPII coat complex component"	15 ng/L
+SPRR3	Small proline rich protein 3	15 ng/L
+CLDN3	Claudin 3	15 ng/L
+NNMT	Nicotinamide N-methyltransferase	15 ng/L
+UROS	Uroporphyrinogen III synthase	15 ng/L
+STRN3	Striatin 3	15 ng/L
+LAMB3	Laminin subunit beta 3	15 ng/L
+RPL23A	Ribosomal protein L23a	15 ng/L
+CTNND1	Catenin delta 1	15 ng/L
+HOGA1	4-hydroxy-2-oxoglutarate aldolase 1	15 ng/L
+CTPS2	CTP synthase 2	14 ng/L
+TSG101	Tumor susceptibility 101	14 ng/L
+SUCO	SUN domain containing ossification factor	14 ng/L
+TOM1	Target of myb1 membrane trafficking protein	14 ng/L
+MAGT1	Magnesium transporter 1	14 ng/L
+CDH23	Cadherin related 23	14 ng/L
+MFSD1	Major facilitator superfamily domain containing 1	14 ng/L
+NDUFA8	NADH:ubiquinone oxidoreductase subunit A8	14 ng/L
+VAMP7	Vesicle associated membrane protein 7	14 ng/L
+DAD1	Defender against cell death 1	14 ng/L
+PUDP	Pseudouridine 5'-phosphatase	14 ng/L
+LARS	Leucyl-tRNA synthetase	14 ng/L
+MYOF	Myoferlin	14 ng/L
+FN3KRP	Fructosamine 3 kinase related protein	14 ng/L
+DDX21	DExD-box helicase 21	14 ng/L
+IL16	Interleukin 16	14 ng/L
+HSD17B11	Hydroxysteroid 17-beta dehydrogenase 11	14 ng/L
+TAP2	"Transporter 2, ATP binding cassette subfamily B member"	14 ng/L
+CSDE1	Cold shock domain containing E1	13 ng/L
+ITGAE	Integrin subunit alpha E	13 ng/L
+ZMPSTE24	Zinc metallopeptidase STE24	13 ng/L
+CRAT	Carnitine O-acetyltransferase	13 ng/L
+ETHE1	"ETHE1, persulfide dioxygenase"	13 ng/L
+SLAIN2	SLAIN motif family member 2	13 ng/L
+LANCL1	LanC like 1	13 ng/L
+P3H1	Prolyl 3-hydroxylase 1	13 ng/L
+TARDBP	TAR DNA binding protein	13 ng/L
+DCTD	DCMP deaminase	13 ng/L
+REEP5	Receptor accessory protein 5	13 ng/L
+BPHL	Biphenyl hydrolase like	13 ng/L
+ADAM15	ADAM metallopeptidase domain 15	13 ng/L
+PURB	Purine rich element binding protein B	13 ng/L
+TAOK1	TAO kinase 1	13 ng/L
+RRM1	Ribonucleotide reductase catalytic subunit M1	13 ng/L
+SLC25A20	Solute carrier family 25 member 20	13 ng/L
+GIPC3	GIPC PDZ domain containing family member 3	13 ng/L
+CNTN2	Contactin 2	13 ng/L
+ATG7	Autophagy related 7	13 ng/L
+OPA1	"OPA1, mitochondrial dynamin like GTPase"	13 ng/L
+SLFN14	Schlafen family member 14	13 ng/L
+RBM14	RNA binding motif protein 14	13 ng/L
+SPESP1	Sperm equatorial segment protein 1	13 ng/L
+CUL3	Cullin 3	12 ng/L
+CST7	Cystatin F	12 ng/L
+TRIP6	Thyroid hormone receptor interactor 6	12 ng/L
+PLAT	"Plasminogen activator, tissue type"	12 ng/L
+CRYAB	Crystallin alpha B	12 ng/L
+B4GALT2	"Beta-1,4-galactosyltransferase 2"	12 ng/L
+NCLN	Nicalin	12 ng/L
+RALY	RALY heterogeneous nuclear ribonucleoprotein	12 ng/L
+NDUFA10	NADH:ubiquinone oxidoreductase subunit A10	12 ng/L
+EIF3G	Eukaryotic translation initiation factor 3 subunit G	12 ng/L
+NDUFA2	NADH:ubiquinone oxidoreductase subunit A2	12 ng/L
+SRRM1	Serine and arginine repetitive matrix 1	12 ng/L
+PADI4	Peptidyl arginine deiminase 4	12 ng/L
+UBXN1	UBX domain protein 1	12 ng/L
+SLMAP	Sarcolemma associated protein	12 ng/L
+COL24A1	Collagen type XXIV alpha 1 chain	12 ng/L
+CDC42BPB	CDC42 binding protein kinase beta	12 ng/L
+CALCOCO1	Calcium binding and coiled-coil domain 1	11 ng/L
+TTC27	Tetratricopeptide repeat domain 27	11 ng/L
+KPNA6	Karyopherin subunit alpha 6	11 ng/L
+OGFR	Opioid growth factor receptor	11 ng/L
+GNB5	G protein subunit beta 5	11 ng/L
+CYTH2	Cytohesin 2	11 ng/L
+STRN	Striatin	11 ng/L
+STAMBP	STAM binding protein	11 ng/L
+DCLK1	Doublecortin like kinase 1	11 ng/L
+CKAP4	Cytoskeleton associated protein 4	11 ng/L
+NECTIN4	Nectin cell adhesion molecule 4	11 ng/L
+ACMSD	Aminocarboxymuconate semialdehyde decarboxylase	11 ng/L
+CXADR	"CXADR, Ig-like cell adhesion molecule"	11 ng/L
+EIF5B	Eukaryotic translation initiation factor 5B	11 ng/L
+METAP1	Methionyl aminopeptidase 1	11 ng/L
+STXBP5	Syntaxin binding protein 5	11 ng/L
+TTC7B	Tetratricopeptide repeat domain 7B	11 ng/L
+AMOTL1	Angiomotin like 1	11 ng/L
+PLIN4	Perilipin 4	11 ng/L
+MUC20	"Mucin 20, cell surface associated"	11 ng/L
+FARSA	Phenylalanyl-tRNA synthetase alpha subunit	11 ng/L
+SMTN	Smoothelin	11 ng/L
+PTPN1	"Protein tyrosine phosphatase, non-receptor type 1"	11 ng/L
+ELFN1	Extracellular leucine rich repeat and fibronectin type III domain containing 1	11 ng/L
+DHRS11	Dehydrogenase/reductase 11	11 ng/L
+AP3D1	Adaptor related protein complex 3 delta 1 subunit	10 ng/L
+COASY	Coenzyme A synthase	10 ng/L
+GYS1	Glycogen synthase 1	10 ng/L
+C1GALT1	"Core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase 1"	10 ng/L
+PFDN1	Prefoldin subunit 1	10 ng/L
+UXS1	UDP-glucuronate decarboxylase 1	10 ng/L
+CTDSPL	CTD small phosphatase like	10 ng/L
+PKDCC	"Protein kinase domain containing, cytoplasmic"	10 ng/L
+NOLC1	Nucleolar and coiled-body phosphoprotein 1	10 ng/L
+MTSS1	"MTSS1, I-BAR domain containing"	10 ng/L
+GMPPB	GDP-mannose pyrophosphorylase B	10 ng/L
+LILRB4	Leukocyte immunoglobulin like receptor B4	9.9 ng/L
+STON2	Stonin 2	9.8 ng/L
+HS6ST3	Heparan sulfate 6-O-sulfotransferase 3	9.8 ng/L
+DNAJB1	DnaJ heat shock protein family (Hsp40) member B1	9.6 ng/L
+UBA3	Ubiquitin like modifier activating enzyme 3	9.6 ng/L
+RUFY1	RUN and FYVE domain containing 1	9.6 ng/L
+B4GALNT1	"Beta-1,4-N-acetyl-galactosaminyltransferase 1"	9.5 ng/L
+SLITRK6	SLIT and NTRK like family member 6	9.5 ng/L
+ATL1	Atlastin GTPase 1	9.5 ng/L
+PSMD14	"Proteasome 26S subunit, non-ATPase 14"	9.4 ng/L
+RFTN1	"Raftlin, lipid raft linker 1"	9.4 ng/L
+GALNT14	Polypeptide N-acetylgalactosaminyltransferase 14	9.4 ng/L
+AGPS	Alkylglycerone phosphate synthase	9.3 ng/L
+ACAP2	"ArfGAP with coiled-coil, ankyrin repeat and PH domains 2"	9.3 ng/L
+SCRN3	Secernin 3	9.3 ng/L
+STT3B	"STT3B, catalytic subunit of the oligosaccharyltransferase complex"	9.3 ng/L
+ACPP	"Acid phosphatase, prostate"	9.2 ng/L
+ADGRB3	Adhesion G protein-coupled receptor B3	9.2 ng/L
+ALDH6A1	Aldehyde dehydrogenase 6 family member A1	9.1 ng/L
+TNIK	TRAF2 and NCK interacting kinase	9.1 ng/L
+CLSTN2	Calsyntenin 2	9.1 ng/L
+ADGRE1	Adhesion G protein-coupled receptor E1	9.1 ng/L
+PLEKHF2	Pleckstrin homology and FYVE domain containing 2	9.1 ng/L
+NEU2	Neuraminidase 2	9.0 ng/L
+MAN2C1	Mannosidase alpha class 2C member 1	9.0 ng/L
+NUDT9	Nudix hydrolase 9	9.0 ng/L
+SLC25A24	Solute carrier family 25 member 24	8.9 ng/L
+EPS15L1	Epidermal growth factor receptor pathway substrate 15 like 1	8.9 ng/L
+PLIN1	Perilipin 1	8.9 ng/L
+MYO1F	Myosin IF	8.8 ng/L
+GINM1	Glycoprotein integral membrane 1	8.7 ng/L
+RTCA	RNA 3'-terminal phosphate cyclase	8.7 ng/L
+MCM2	Minichromosome maintenance complex component 2	8.6 ng/L
+EIF3J	Eukaryotic translation initiation factor 3 subunit J	8.6 ng/L
+GALK1	Galactokinase 1	8.6 ng/L
+PSMD6	"Proteasome 26S subunit, non-ATPase 6"	8.6 ng/L
+EIF2B1	Eukaryotic translation initiation factor 2B subunit alpha	8.5 ng/L
+ZC3H4	Zinc finger CCCH-type containing 4	8.5 ng/L
+KIAA0513	KIAA0513	8.4 ng/L
+LINGO1	Leucine rich repeat and Ig domain containing 1	8.4 ng/L
+PPA2	Pyrophosphatase (inorganic) 2	8.3 ng/L
+SSRP1	Structure specific recognition protein 1	8.3 ng/L
+AIMP2	Aminoacyl tRNA synthetase complex interacting multifunctional protein 2	8.2 ng/L
+FAM3D	Family with sequence similarity 3 member D	8.2 ng/L
+ACP2	"Acid phosphatase 2, lysosomal"	8.1 ng/L
+IGBP1	Immunoglobulin binding protein 1	8.0 ng/L
+IGSF21	Immunoglobin superfamily member 21	7.9 ng/L
+RASA1	RAS p21 protein activator 1	7.9 ng/L
+API5	Apoptosis inhibitor 5	7.9 ng/L
+C1orf116	Chromosome 1 open reading frame 116	7.9 ng/L
+CLIP1	CAP-Gly domain containing linker protein 1	7.7 ng/L
+ARHGEF7	Rho guanine nucleotide exchange factor 7	7.6 ng/L
+NXPE3	Neurexophilin and PC-esterase domain family member 3	7.6 ng/L
+GRK6	G protein-coupled receptor kinase 6	7.5 ng/L
+FRMD4B	FERM domain containing 4B	7.4 ng/L
+KDELC1	KDEL motif containing 1	7.4 ng/L
+AGXT2	Alanine--glyoxylate aminotransferase 2	7.3 ng/L
+NCR3LG1	Natural killer cell cytotoxicity receptor 3 ligand 1	7.3 ng/L
+SWAP70	Switching B cell complex subunit SWAP70	7.1 ng/L
+GSDMA	Gasdermin A	7.1 ng/L
+PCYT2	"Phosphate cytidylyltransferase 2, ethanolamine"	7.0 ng/L
+UFL1	UFM1 specific ligase 1	6.9 ng/L
+NSF	"N-ethylmaleimide sensitive factor, vesicle fusing ATPase"	6.9 ng/L
+SORBS3	Sorbin and SH3 domain containing 3	6.6 ng/L
+SUCLA2	Succinate-CoA ligase ADP-forming beta subunit	6.6 ng/L
+SNRNP200	Small nuclear ribonucleoprotein U5 subunit 200	6.6 ng/L
+VPS16	"VPS16, CORVET/HOPS core subunit"	6.6 ng/L
+TRPM4	Transient receptor potential cation channel subfamily M member 4	6.5 ng/L
+PMPCA	"Peptidase, mitochondrial processing alpha subunit"	6.5 ng/L
+CIAPIN1	Cytokine induced apoptosis inhibitor 1	6.4 ng/L
+STXBP1	Syntaxin binding protein 1	6.4 ng/L
+CALB2	Calbindin 2	6.4 ng/L
+FUBP3	Far upstream element binding protein 3	6.2 ng/L
+GUCY1A1	Guanylate cyclase 1 soluble subunit alpha 1	6.1 ng/L
+EMC1	ER membrane protein complex subunit 1	5.6 ng/L
+ANKFY1	Ankyrin repeat and FYVE domain containing 1	5.6 ng/L
+FKBP10	FK506 binding protein 10	5.5 ng/L
+CTNNA1	Catenin alpha 1	5.4 ng/L
+ZNF185	Zinc finger protein 185 with LIM domain	5.4 ng/L
+PLCB1	Phospholipase C beta 1	5.4 ng/L
+EXOC2	Exocyst complex component 2	5.3 ng/L
+PLAA	Phospholipase A2 activating protein	5.3 ng/L
+CCAR2	Cell cycle and apoptosis regulator 2	5.3 ng/L
+GUCY1B1	Guanylate cyclase 1 soluble subunit beta 1	5.2 ng/L
+HUWE1	"HECT, UBA and WWE domain containing 1, E3 ubiquitin protein ligase"	3.4 ng/L
