@@ -1,0 +1,238 @@
+---
+title: "Breast Cancer Blood Plasma Markers"
+author: "BioMed Innovation Lab"
+output:
+  html_document:
+    code_folding: show
+    css: print.css
+  html_notebook: default
+---
+
+### Overview
+This is an example showing how to use our Blood Plasma Marker Selection Pipeline 
+to short list candidate blood plasma markers that are more likely to be over 
+expressed for breast cancer, compared to other cancers including colorectal, 
+lung, prostate, skin and stomach cancers.
+
+
+### 1. Preparation
+#### 1.1 Load the pipeline functions
+This will also install and load the required libraries.
+```{r message=FALSE}
+source("bpmsp.R", local = knitr::knit_global())
+```
+
+#### 1.2 Loading the data sets
+This might take more than 20 minutes to download near 3G data depending on your download speed. The speed might also depend on where you are located. If timeout occurs, please increase the "timeout" option, remove the partially downloaded file, then retry this step.
+```{r}
+bpmsp.load_blood_plasma_markers()
+
+# Setting the time out to 1 hour (3,600 seconds) in case. If it still times out, increase the value.
+options(timeout=3600) 
+
+bpmsp.load_recomputed_tcga_gtex_data() 
+# Note that if the above step failed due to time out, please increase the timeout. 
+# Also the pipeline function has logic to bypass downloading if it finds the files, so please remove the partially downloaded files before trying this step again. 
+
+bpmsp.load_ihc_data()
+```
+
+### 2. Selection of candidate markers for each cancer
+
+Here we sequentially, instead of in parallel or in a loop, apply the pipeline to select candidate markers for each type of cancer, only for the purpose of showing how the pipeline console outputs are different for each cancer.
+
+
+#### 2.1 Breast cancer
+##### Step 1: Short list markers by gene expression level
+```{r}
+cancer_name = 'breast'
+
+cancer_case_study_barcodes <- bpmsp.get_cancer_study_barcodes(cancer_name)
+cancer_tcga_gtex_data <- bpmsp.get_tcga_gtex_data_by_barcodes(cancer_case_study_barcodes)
+tpm_shortlisted_markers <- bpmsp.short_list_markers_by_expression_level_difference(cancer_tcga_gtex_data)
+tpm_shortlisted_markers
+```
+
+##### Step 2: Short list markers by IHC scores
+```{r}
+ihc_shortlisted_markers <- bpmsp.short_list_markers_by_IHC_score_z_scores(cancer_name)
+ihc_shortlisted_markers
+```
+
+##### Step 3: Select the markers short listed in both approaches
+```{r}
+breast_cancer_genesInBoth = intersect(tpm_shortlisted_markers, ihc_shortlisted_markers)
+breast_cancer_genesInBoth
+```
+
+#### 2.2 Colorectal cancer
+##### Step 1: Short list markers by gene expression level
+```{r}
+cancer_name = 'colorectal'
+
+cancer_case_study_barcodes <- bpmsp.get_cancer_study_barcodes(cancer_name)
+cancer_tcga_gtex_data <- bpmsp.get_tcga_gtex_data_by_barcodes(cancer_case_study_barcodes)
+tpm_shortlisted_markers <- bpmsp.short_list_markers_by_expression_level_difference(cancer_tcga_gtex_data)
+tpm_shortlisted_markers
+```
+
+##### Step 2: Short list markers by IHC scores
+```{r}
+ihc_shortlisted_markers <- bpmsp.short_list_markers_by_IHC_score_z_scores(cancer_name)
+ihc_shortlisted_markers
+```
+
+##### Step 3: Select the markers short listed in both approaches
+```{r}
+colorectal_cancer_genesInBoth = intersect(tpm_shortlisted_markers, ihc_shortlisted_markers)
+colorectal_cancer_genesInBoth
+```
+
+#### 2.3 Prostate cancer
+##### Step 1: Short list markers by gene expression level
+```{r}
+cancer_name = 'prostate'
+
+cancer_case_study_barcodes <- bpmsp.get_cancer_study_barcodes(cancer_name)
+cancer_tcga_gtex_data <- bpmsp.get_tcga_gtex_data_by_barcodes(cancer_case_study_barcodes)
+tpm_shortlisted_markers <- bpmsp.short_list_markers_by_expression_level_difference(cancer_tcga_gtex_data)
+tpm_shortlisted_markers
+```
+
+##### Step 2: Short list markers by IHC scores
+```{r}
+ihc_shortlisted_markers <- bpmsp.short_list_markers_by_IHC_score_z_scores(cancer_name)
+ihc_shortlisted_markers
+```
+
+##### Step 3: Select the markers short listed in both approaches
+```{r}
+prostate_cancer_genesInBoth = intersect(tpm_shortlisted_markers, ihc_shortlisted_markers)
+prostate_cancer_genesInBoth
+```
+
+
+#### 2.4 Skin cancer
+##### Step 1: Short list markers by gene expression level
+```{r}
+cancer_name = 'skin'
+
+cancer_case_study_barcodes <- bpmsp.get_cancer_study_barcodes(cancer_name)
+cancer_tcga_gtex_data <- bpmsp.get_tcga_gtex_data_by_barcodes(cancer_case_study_barcodes)
+tpm_shortlisted_markers <- bpmsp.short_list_markers_by_expression_level_difference(cancer_tcga_gtex_data)
+tpm_shortlisted_markers
+```
+
+##### Step 2: Short list markers by IHC scores
+```{r}
+ihc_shortlisted_markers <- bpmsp.short_list_markers_by_IHC_score_z_scores(cancer_name)
+ihc_shortlisted_markers
+```
+
+##### Step 3: Select the markers short listed in both approaches
+```{r}
+skin_cancer_genesInBoth = intersect(tpm_shortlisted_markers, ihc_shortlisted_markers)
+skin_cancer_genesInBoth
+```
+
+
+#### 2.5 Stomach cancer
+##### Step 1: Short list markers by gene expression level
+```{r}
+cancer_name = 'stomach'
+
+cancer_case_study_barcodes <- bpmsp.get_cancer_study_barcodes(cancer_name)
+cancer_tcga_gtex_data <- bpmsp.get_tcga_gtex_data_by_barcodes(cancer_case_study_barcodes)
+tpm_shortlisted_markers <- bpmsp.short_list_markers_by_expression_level_difference(cancer_tcga_gtex_data)
+tpm_shortlisted_markers
+```
+
+##### Step 2: Short list markers by IHC scores
+```{r}
+ihc_shortlisted_markers <- bpmsp.short_list_markers_by_IHC_score_z_scores(cancer_name)
+ihc_shortlisted_markers
+```
+
+##### Step 3: Select the markers short listed in both approaches
+```{r}
+stomach_cancer_genesInBoth = intersect(tpm_shortlisted_markers, ihc_shortlisted_markers)
+stomach_cancer_genesInBoth
+```
+
+
+#### 2.6 Lung cancer
+##### 2.6.1 Subtype: LUAD
+###### Step 1: Short list markers by gene expression level
+```{r}
+cancer_name = 'lung'
+cancer_subtype_code = 'luad'
+cancer_case_study_barcodes <- bpmsp.get_cancer_study_barcodes(cancer_name, cancer_subtype_code)
+cancer_tcga_gtex_data <- bpmsp.get_tcga_gtex_data_by_barcodes(cancer_case_study_barcodes)
+tpm_shortlisted_markers <- bpmsp.short_list_markers_by_expression_level_difference(cancer_tcga_gtex_data)
+tpm_shortlisted_markers
+```
+
+###### Step 2: Short list markers by IHC scores
+```{r}
+ihc_shortlisted_markers <- bpmsp.short_list_markers_by_IHC_score_z_scores(cancer_name)
+ihc_shortlisted_markers
+```
+
+###### Step 3: Select the markers short listed in both approaches
+```{r}
+luad_cancer_genesInBoth = intersect(tpm_shortlisted_markers, ihc_shortlisted_markers)
+luad_cancer_genesInBoth
+```
+
+##### 2.6.2 Subtype: LUSC
+###### Step 1: Short list markers by gene expression level
+```{r}
+cancer_name = 'lung'
+cancer_subtype_code = 'lusc'
+cancer_case_study_barcodes <- bpmsp.get_cancer_study_barcodes(cancer_name, cancer_subtype_code)
+cancer_tcga_gtex_data <- bpmsp.get_tcga_gtex_data_by_barcodes(cancer_case_study_barcodes)
+tpm_shortlisted_markers <- bpmsp.short_list_markers_by_expression_level_difference(cancer_tcga_gtex_data)
+tpm_shortlisted_markers
+```
+
+###### Step 2: Short list markers by IHC scores
+```{r}
+ihc_shortlisted_markers <- bpmsp.short_list_markers_by_IHC_score_z_scores(cancer_name)
+ihc_shortlisted_markers
+```
+
+###### Step 3: Select the markers short listed in both approaches
+```{r}
+lusc_cancer_genesInBoth = intersect(tpm_shortlisted_markers, ihc_shortlisted_markers)
+lusc_cancer_genesInBoth
+```
+
+
+### 3. Selection of candidate markers that are more specific to breast cancer
+
+Here is the venn diagram showing how those shortlists overlap.
+
+```{r fig.width = 10, fig.height = 10}
+if(!require('venn')){
+  install.packages('venn')
+  library('venn')
+}
+
+plasma_protein_sets = list(
+  Breast = breast_cancer_genesInBoth,
+  Colorectal = colorectal_cancer_genesInBoth,
+  Prostate = prostate_cancer_genesInBoth,
+  Skin = skin_cancer_genesInBoth,
+  Stomach = stomach_cancer_genesInBoth,
+  Luad = luad_cancer_genesInBoth,
+  Lusc = lusc_cancer_genesInBoth
+)
+
+venn(plasma_protein_sets, ilabels = TRUE, zcolor = "style")
+
+```
+The list of candidate markers that are shortlisted only for breast cancer (i.e., not shortlisted by the other cancers in this example) is:
+
+```{r}
+Reduce(setdiff, plasma_protein_sets)
+```
